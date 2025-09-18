@@ -1,0 +1,346 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+@layer base {
+  *,
+  ::before,
+  ::after {
+    @apply border-separator;
+  }
+  html {
+    @apply scroll-smooth bg-secondary text-default;
+  }
+  h1 {
+    @apply text-4xl font-bold mb-4;
+  }
+  h2 {
+    @apply text-2xl font-bold mb-4;
+  }
+  h3 {
+    @apply text-xl font-bold mb-4;
+  }
+  h4 {
+    @apply text-lg font-bold mb-3;
+  }
+  h5 {
+    @apply text-base font-bold mb-2;
+  }
+  h6 {
+    @apply text-sm font-bold mb-2;
+  }
+  p {
+    @apply text-sm mb-3;
+    a {
+      @apply text-link-default hover:text-link-hover visited:text-link-visited font-medium underline;
+    }
+    strong,
+    b {
+      @apply underline;
+    }
+  }
+  strong {
+    @apply font-bold;
+  }
+  b {
+    @apply font-black;
+  }
+  small,
+  pre {
+    @apply font-light text-medium text-[10px];
+  }
+  select,
+  textarea,
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="date"],
+  input[type="time"],
+  input[type="datetime-local"],
+  input[type="number"],
+  input[type="search"],
+  input[type="tel"],
+  input[type="url"] {
+    @apply block outline-none outline-offset-0 w-full appearance-none h-10 leading-10 px-3 text-sm rounded-none;
+  }
+  textarea {
+    @apply resize-none h-auto py-3 leading-5;
+  }
+  /* Chrome, Safari, Edge, Opera */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button,
+  ::-webkit-calendar-picker-indicator {
+    @apply appearance-none opacity-0 m-0  !important;
+  }
+  input[type="date"]::-webkit-calendar-picker-indicator,
+  input[type="time"]::-webkit-calendar-picker-indicator,
+  input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+    @apply cursor-pointer text-transparent bg-transparent absolute inset-0 size-auto;
+  }
+  input[type="radio"],
+  input[type="checkbox"] {
+    @apply ml-1 mr-2 scale-150 cursor-pointer;
+    &:disabled {
+      @apply disabled border;
+    }
+  }
+  ul,
+  ol {
+    @apply pl-6 mb-3;
+    li {
+      @apply text-sm mb-2;
+    }
+    ul {
+      @apply pl-8 mb-0 list-circle;
+    }
+    ol {
+      @apply pl-8 mb-0;
+    }
+  }
+  ul {
+    @apply list-disc;
+  }
+  ol {
+    @apply list-decimal;
+  }
+  nav ul {
+    @apply pl-0 mb-0 list-none !important;
+    li {
+      @apply mb-0  !important;
+    }
+  }
+}
+@layer utilities {
+  .appearance-none {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+  .hover {
+    @apply hover:bg-hover cursor-pointer transition-colors duration-300;
+  }
+
+  /* Typography  */
+
+  .text-display {
+    @apply font-bold tracking-[-0.02em] mb-2;
+  }
+  .text-title {
+    @apply font-bold tracking-[-0.01em] mb-2;
+  }
+  .text-subtitle {
+    @apply font-bold mb-2;
+  }
+  .text-body {
+    @apply tracking-[-0.01em] mb-3;
+  }
+  .text-caption {
+    @apply tracking-[-0.01em];
+  }
+  .text-overline {
+    @apply font-medium tracking-wider uppercase text-medium;
+  }
+  /* Flexbox & Grid */
+  .center {
+    @apply flex items-center justify-center;
+  }
+  .inline-center {
+    @apply inline-flex items-center justify-center;
+  }
+  .col-center {
+    @apply center flex-col;
+  }
+  .row-center {
+    @apply center flex-row;
+  }
+  .flex-end {
+    @apply flex items-center justify-end;
+  }
+  .flex-start {
+    @apply flex items-center justify-start;
+  }
+  .flex-between {
+    @apply flex items-center justify-between;
+  }
+  .grid-center {
+    @apply grid items-center justify-center;
+  }
+  /* containers */
+  .xs {
+    @apply max-w-screen-xs w-full  mx-auto;
+  }
+  .sm {
+    @apply max-w-screen-sm w-full  mx-auto;
+  }
+  .md {
+    @apply max-w-screen-md w-full  mx-auto;
+  }
+  .lg {
+    @apply max-w-screen-lg w-full  mx-auto;
+  }
+  .xl {
+    @apply max-w-screen-xl w-full  mx-auto;
+  }
+  /* disabled  */
+  .disabled {
+    @apply bg-[#f0f0f0] border-[#cccccc] text-[#a0a0a0] cursor-not-allowed opacity-60 select-none hover:bg-[#f0f0f0];
+  }
+  .list-circle {
+    list-style: circle outside;
+  }
+  .overflow-break {
+    overflow-wrap: break-word;
+  }
+  .scroll-x {
+    @apply overflow-hidden overflow-x-auto;
+    &::-webkit-scrollbar {
+      @apply hidden;
+    }
+  }
+  .scroll-y {
+    @apply overflow-hidden overflow-y-auto;
+    &::-webkit-scrollbar {
+      @apply hidden lg:block;
+    }
+  }
+  .unicode {
+    @apply absolute right-0  font-thin text-primary pointer-events-none size-9 center;
+    font-family: "Font Awesome 6 Pro";
+  }
+}
+@layer components {
+  .btn {
+    @apply h-10 px-4 rounded inline-center bg-info opacity-90 text-white text-sm font-medium;
+    &.block {
+      @apply flex w-full;
+    }
+    &.icon,
+    &.icon.block {
+      @apply w-auto aspect-square overflow-hidden;
+    }
+    &.dense {
+      @apply h-9 text-xs;
+    }
+    &.medium {
+      @apply h-12 text-base;
+    }
+    &.large {
+      @apply h-14  text-base;
+    }
+    &:hover {
+      @apply opacity-100;
+    }
+
+    &.loading {
+      @apply pointer-events-none cursor-default;
+    }
+    &.pill {
+      @apply rounded-full;
+    }
+    &.error {
+      @apply bg-error;
+    }
+    &.success {
+      @apply bg-success;
+    }
+    &.tonal {
+      @apply opacity-100 bg-base text-primary hover;
+    }
+    &.text {
+      @apply opacity-100 bg-transparent text-primary hover;
+      &.info {
+        @apply text-info hover:bg-info/10;
+      }
+      &.error {
+        @apply text-error hover:bg-error/10;
+      }
+      &.success {
+        @apply text-success hover:bg-success/10;
+      }
+      &.active {
+        @apply text-info bg-info/20 hover:bg-info/20 !important;
+      }
+    }
+    &.outlined {
+      @apply bg-transparent border border-primary text-primary hover;
+      &.info {
+        @apply border-info text-info hover:bg-info/10;
+      }
+      &.error {
+        @apply border-error text-error hover:bg-error/10;
+      }
+      &.success {
+        @apply border-success text-success hover:bg-success/10;
+      }
+    }
+    &:disabled {
+      @apply text-white/60 cursor-not-allowed opacity-60 select-none;
+      &.text,
+      &.tonal,
+      &.outlined {
+        @apply disabled;
+      }
+    }
+  }
+  .textfield {
+    @apply relative flex-start;
+    input,
+    select,
+    textarea {
+      @apply border rounded;
+      &:hover {
+        @apply border-black;
+      }
+      &:focus {
+        @apply border-info outline-4 outline-info/65;
+      }
+      &:invalid {
+        @apply border-error;
+      }
+      &:focus:invalid {
+        @apply border-error outline-4 outline-error/65;
+      }
+      &:disabled {
+        @apply disabled;
+      }
+    }
+    input,
+    select {
+      &.dense {
+        @apply h-9 leading-9 text-xs;
+      }
+      &.medium {
+        @apply h-12 leading-[48px] text-base;
+      }
+      &.large {
+        @apply h-14 leading-[56px] text-lg;
+      }
+    }
+    textarea {
+      @apply resize-none h-auto py-2 leading-normal;
+      &.dense {
+        @apply h-auto leading-normal text-xs;
+      }
+      &.medium {
+        @apply h-auto leading-normal text-base;
+      }
+      &.large {
+        @apply h-auto leading-snug text-lg;
+      }
+    }
+  }
+  .textfield:has(select)::after {
+    @apply unicode content-["\f0dc"];
+  }
+  .textfield:has(input[type="date"])::after {
+    @apply unicode content-["\f133"];
+  }
+  .textfield:has(input[type="time"])::after {
+    @apply unicode content-["\f017"];
+  }
+  .form-group {
+    @apply mb-4;
+    label {
+      @apply block text-sm font-semibold mb-0.5;
+    }
+  }
+}
