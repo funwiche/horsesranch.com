@@ -4,12 +4,13 @@ export default <Partial<Config>>{
     extend: {
       colors: {
         info: "#007AFF",
+        tint: "#FEE074",
         error: "#D9000C",
         success: "#35C759",
         warning: "#FFCC00",
-        separator: "#C6C6C8",
+        separator: "#72716B",
         base: "#F2F2F7",
-        primary: "#1C1C1E",
+        primary: "#588157",
         secondary: "#FFFFFF",
         tertiary: "#EFEFF4",
         hover: "#0000001A",

@@ -37,8 +37,8 @@ export default defineNuxtConfig({
       ],
       link: [
         { rel: "image/x-icon", href: "/favicon.ico" },
-        // { rel: "image/png", sizes: "16x16", href: "/favicon-16x16.png" },
-        // { rel: "image/png", sizes: "32x32", href: "/favicon-32x32.png" },
+        { rel: "image/png", sizes: "16x16", href: "/favicon-16x16.png" },
+        { rel: "image/png", sizes: "32x32", href: "/favicon-32x32.png" },
         {
           rel: "stylesheet",
           href: "https://xtremnet.vercel.app/fonts/fontawesome/css/all.min.css",
