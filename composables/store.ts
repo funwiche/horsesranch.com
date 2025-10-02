@@ -4,5 +4,5 @@ export const useFeatured = () =>
     products
       .slice()
       .sort(() => Math.random() - 0.5)
-      .slice(0, 6)
+      .slice(0, 12)
   );

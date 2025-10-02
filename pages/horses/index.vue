@@ -6,7 +6,8 @@
         Showing {{ starts + 1 }}-{{ starts + items.length }} of
         {{ products.length }} results
       </section>
-      <div
+      <v-archive :items="items" />
+      <!-- <div
         class="lg grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 border border-t-0"
       >
         <div
@@ -24,7 +25,7 @@
         >
           <v-card :item="item" class="h-full" />
         </div>
-      </div>
+      </div> -->
       <div class="py-6 flex gap-2 overflow-x-auto">
         <button
           v-for="n in total"
@@ -47,7 +48,7 @@
 import products from "@/resources/products.json";
 const route = useRoute();
 const limit = 24;
-const width = ref(0);
+// const width = ref(0);
 const page = computed(() => parseInt((route.query.page as string) || "1"));
 const starts = computed(() => (page.value - 1) * limit);
 const total = computed(() => Math.ceil(products.length / limit));
@@ -59,8 +60,8 @@ function navigate(page: number) {
   navigateTo({ name: "horses", query: { ...route.query, page } });
   document.querySelector("#top")?.scrollIntoView();
 }
-onMounted(() => {
-  width.value = innerWidth;
-  window.addEventListener("resize", () => (width.value = innerWidth));
-});
+// onMounted(() => {
+//   width.value = innerWidth;
+//   window.addEventListener("resize", () => (width.value = innerWidth));
+// });
 </script>

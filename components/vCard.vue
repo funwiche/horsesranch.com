@@ -7,7 +7,7 @@
         class="h-full w-full object-cover object-center"
       />
     </div>
-    <div class="flex-1">
+    <div class="flex-1 pt-2">
       <h2 class="font-black font-serif">{{ item.title }}</h2>
       <span class="bg-tint px-4 py-2 rounded-full text-black"
         >${{ $f.num(item.price, 0) }}</span

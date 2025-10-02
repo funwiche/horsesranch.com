@@ -6,7 +6,11 @@
         class="lg text-white grid sm:grid-cols-2 md:grid-cols-4 gap-x-8 divide-x max-md:divide-y"
       >
         <div class="py-12">
-          <img src="/logo-dark.png" :alt="$app.name" class="w-40 mb-4" />
+          <img
+            src="/horses-ranch-logo.png"
+            :alt="$app.name"
+            class="w-40 mb-4"
+          />
           <div>
             {{ $app.desc }}
           </div>
