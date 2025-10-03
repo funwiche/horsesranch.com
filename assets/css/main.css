@@ -206,6 +206,9 @@
     @apply absolute right-0  font-thin text-primary pointer-events-none size-9 center;
     font-family: "Font Awesome 6 Pro";
   }
+  .btn-tint {
+    @apply uppercase text-sm bg-tint text-black rounded h-14 inline-flex items-center justify-center px-8 font-bold transition-all duration-300 hover:scale-105 opacity-90 hover:opacity-100;
+  }
 }
 @layer components {
   .btn {

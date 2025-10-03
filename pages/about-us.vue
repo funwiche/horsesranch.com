@@ -39,7 +39,7 @@
   <section class="text-white px-6 py-12 lg:py-20">
     <div class="sm lg:lg md:flex md:flex-row-reverse items-center gap-12">
       <div class="flex-1 max-lg:mb-8">
-        <img src="/about-01.webp" :alt="$app.name" class="rounded-2xl" />
+        <img src="/slides/01.jpg" :alt="$app.name" class="rounded-2xl" />
       </div>
       <div class="flex-1">
         <h2 class="font-black text-4xl">Our Mission</h2>
