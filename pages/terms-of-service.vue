@@ -160,7 +160,7 @@
         and is protected by copyright and other intellectual property laws.
       </p>
 
-      <h4>9. Disclaimer of Warranties &amp; Limitation of Liability</h4>
+      <h4>9. Disclaimer of Warranties and Limitation of Liability</h4>
       <ul>
         <li>
           <p>
