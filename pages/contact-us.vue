@@ -48,10 +48,20 @@
             />
             <input
               required
-              placeholder="City"
+              placeholder="State"
+              class="h-14 flex-1 border rounded-lg px-4"
+            />
+            <input
+              required
+              placeholder="Zip"
               class="h-14 flex-1 border rounded-lg px-4"
             />
           </div>
+          <input
+            required
+            placeholder="Country*"
+            class="h-14 w-full border rounded-lg px-4 mb-4"
+          />
           <input
             required
             placeholder="Email Address*"
