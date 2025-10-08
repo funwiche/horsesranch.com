@@ -9,8 +9,8 @@
         <h2 class="font-black text-4xl">Who We Are</h2>
         <div class="mb-6">
           We have an excellent facility that is located in southern Texas,
-          McAllen. Buy with confidence at Peak Pulse Horses! Every horse here
-          has been hand selected! Well-broke, classy and, above all, safe. Each
+          McAllen. Buy with confidence at {{ $app.name }}! Every horse here has
+          been hand selected! Well-broke, classy and, above all, safe. Each
           horse comes with documentation of vaccinations, a certificate of
           soundness from a certified veterinarian.
         </div>
