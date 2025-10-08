@@ -31,7 +31,9 @@
           listings offer detailed insight to help you find the right companion.
           Explore, connect, and embark on a smooth horse-buying journey.
         </div>
-        <div>Your dream horse awaits&mdash;find it here at Horses Ranch.</div>
+        <div>
+          Your dream horse awaits&mdash;find it here at {{ $app.name }}.
+        </div>
       </div>
     </div>
   </section>
@@ -44,7 +46,7 @@
       <div class="flex-1">
         <h2 class="font-black text-4xl">Our Mission</h2>
         <div class="mb-6">
-          At Horses Ranch, our mission is simple:
+          At {{ $app.name }}, our mission is simple:
           <strong
             >to raise and sell quality horses with care, integrity, and
             passion</strong

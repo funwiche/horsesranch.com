@@ -4,10 +4,10 @@
     <div class="md">
       <h4>1. Introduction</h4>
       <p>
-        Welcome to Horses Ranch. We are committed to protecting your privacy and
-        safeguarding your personal information. This Privacy Policy explains how
-        we collect, use, disclose, and safeguard your information when you visit
-        our website
+        Welcome to {{ $app.name }}. We are committed to protecting your privacy
+        and safeguarding your personal information. This Privacy Policy explains
+        how we collect, use, disclose, and safeguard your information when you
+        visit our website
         <a
           href="https://horsesranch.com/"
           target="_blank"

@@ -12,14 +12,16 @@
         >
           <strong class="text-black">horsesranch.com</strong>
         </a>
-        and utilizing the services of Horses Ranch, you agree to be bound by
+        and utilizing the services of {{ $app.name }}, you agree to be bound by
         these Terms of Service and our Privacy Policy. If you do not agree to
         all of these terms, you are prohibited from using the Site and our
         services.
       </p>
 
       <h4>2. Services</h4>
-      <p>Horses Ranch operates as a seller of horses. Our services include:</p>
+      <p>
+        {{ $app.name }} operates as a seller of horses. Our services include:
+      </p>
 
       <ul>
         <li>
@@ -62,7 +64,9 @@
               </p>
             </li>
             <li>
-              <p>The full purchase price has been received by Horses Ranch.</p>
+              <p>
+                The full purchase price has been received by {{ $app.name }}.
+              </p>
             </li>
           </ol>
         </li>
@@ -100,9 +104,9 @@
       <ul>
         <li>
           <p>
-            <strong>Our Responsibility:</strong> Horses Ranch is responsible for
-            arranging and paying for standard shipping to deliver the horse to
-            the buyer's specified address.
+            <strong>Our Responsibility:</strong> {{ $app.name }} is responsible
+            for arranging and paying for standard shipping to deliver the horse
+            to the buyer's specified address.
           </p>
         </li>
         <li>
@@ -152,8 +156,8 @@
       <h4>8. Intellectual Property</h4>
       <p>
         All content on this Site, including text, graphics, logos, images, and
-        software, is the property of Horses Ranch or its content suppliers and
-        is protected by copyright and other intellectual property laws.
+        software, is the property of {{ $app.name }} or its content suppliers
+        and is protected by copyright and other intellectual property laws.
       </p>
 
       <h4>9. Disclaimer of Warranties &amp; Limitation of Liability</h4>
@@ -168,25 +172,25 @@
         <li>
           <p>
             <strong>No Guarantees:</strong> Beyond the express terms of the
-            Return Policy, Horses Ranch makes no warranties, express or implied,
-            regarding the horse's future performance, temperament, or
+            Return Policy, {{ $app.name }} makes no warranties, express or
+            implied, regarding the horse's future performance, temperament, or
             suitability for any particular purpose.
           </p>
         </li>
         <li>
           <p>
             <strong>Limitation of Liability:</strong> To the fullest extent
-            permitted by law, Horses Ranch shall not be liable for any indirect,
-            incidental, special, consequential, or punitive damages, including
-            but not limited to loss of profits, data, use, or other intangible
-            losses, resulting from your purchase, use of, or inability to use
-            our services or a horse purchased from us.
+            permitted by law, {{ $app.name }} shall not be liable for any
+            indirect, incidental, special, consequential, or punitive damages,
+            including but not limited to loss of profits, data, use, or other
+            intangible losses, resulting from your purchase, use of, or
+            inability to use our services or a horse purchased from us.
           </p>
         </li>
       </ul>
       <h4>10. Indemnification</h4>
       <p>
-        You agree to indemnify and hold harmless Horses Ranch and its owners,
+        You agree to indemnify and hold harmless {{ $app.name }} and its owners,
         employees, and agents from and against any claims, liabilities, damages,
         losses, and expenses (including legal fees) arising out of or in any way
         connected with your breach of these Terms, your use of the Site, or your

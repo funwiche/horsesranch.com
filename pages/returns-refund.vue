@@ -4,7 +4,7 @@
     <div class="md">
       <h4>1. Our Commitment</h4>
       <p>
-        At Horses Ranch, we are dedicated to ensuring a perfect match between
+        At {{ $app.name }}, we are dedicated to ensuring a perfect match between
         our horses and their new owners. We stand behind the health and
         soundness of our animals and offer a transparent return process should
         serious, undisclosed issues arise.
@@ -107,8 +107,8 @@
         </li>
         <li>
           <p>
-            Upon safe arrival of the horse back at Horses Ranch, the refund will
-            be processed to your original payment method.
+            Upon safe arrival of the horse back at {{ $app.name }}, the refund
+            will be processed to your original payment method.
           </p>
         </li>
       </ul>
