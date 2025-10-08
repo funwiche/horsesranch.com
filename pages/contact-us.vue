@@ -1,5 +1,8 @@
 <template>
-  <v-breadcrums title="Contact Us" desc="Let’s Get In Touch!" />
+  <v-breadcrums
+    title="Contact Us"
+    desc="Let’s find the perfect horse for you."
+  />
   <section class="bg-white">
     <div class="sm md:lg md:flex gap-10 p-6 sm:p-12">
       <div class="flex-1 pb-10">
@@ -21,28 +24,47 @@
       <div class="flex-1">
         <h2 class="text-4xl font-black uppercase">
           Send Us <br />
-          A Message
+          Inquiries
         </h2>
         <div class="w-16 border-2 rounded-lg border-tint mb-6" />
         <form @submit.prevent="submit">
+          <div class="flex gap-4">
+            <input
+              required
+              placeholder="Last Name*"
+              class="h-14 flex-1 mb-4 border rounded-lg px-4"
+            />
+            <input
+              required
+              placeholder="First Name*"
+              class="h-14 flex-1 mb-4 border rounded-lg px-4"
+            />
+          </div>
+          <div class="flex gap-4 mb-4">
+            <input
+              required
+              placeholder="City"
+              class="h-14 flex-1 border rounded-lg px-4"
+            />
+            <input
+              required
+              placeholder="City"
+              class="h-14 flex-1 border rounded-lg px-4"
+            />
+          </div>
           <input
             required
-            placeholder="Full name*"
+            placeholder="Email Address*"
             class="h-14 w-full border rounded-lg px-4 mb-4"
           />
           <input
             required
-            placeholder="Email address*"
+            placeholder="Phone Number*"
             class="h-14 w-full border rounded-lg px-4 mb-4"
           />
           <input
             required
-            placeholder="Phone number*"
-            class="h-14 w-full border rounded-lg px-4 mb-4"
-          />
-          <input
-            required
-            placeholder="Address* (city, state, country)"
+            placeholder="Horse's Name"
             class="h-14 w-full border rounded-lg px-4 mb-4"
           />
           <textarea
@@ -60,6 +82,7 @@
       </div>
     </div>
   </section>
+  <section class="h-96 bg-base"></section>
 </template>
 
 <script setup lang="ts">
