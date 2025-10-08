@@ -21,9 +21,7 @@
       </p>
 
       <h4>
-        <strong
-          >3. Limited Health Guarantee &amp; Eligibility for Return</strong
-        >
+        <strong>3. Limited Health Guarantee and Eligibility for Return</strong>
       </h4>
       <p>
         We offer a limited guarantee on all horses for
