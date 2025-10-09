@@ -71,6 +71,8 @@
             label="Message"
             placeholder="Message here..."
           />
+          <Alert v-model="error" />
+          <Alert v-model="success" success />
           <v-input submit :loading="loading" />
         </form>
       </div>
@@ -94,6 +96,8 @@ const links = [
   { name: "Office Hours", path: $app.hours, icon: "clock" },
 ];
 const loading = ref(false);
+const success = ref("");
+const error = ref("");
 const body = reactive({
   lname: "",
   fname: "",
@@ -108,7 +112,29 @@ const body = reactive({
 });
 async function submit() {
   try {
-  } catch (error) {}
+    loading.value = true;
+    const html = `<!DOCTYPE html><html lang=en><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Email</title><style>div{font-size:14px;margin-bottom:8px}</style><body><div><b>Full name:</b> ${body.lname} ${body.fname}</div><div><b>Email Address: </b>${body.email}</div><div><b>Phone Number:</b> ${body.phone}</div><div><b>Address:</b> ${body.city}, ${body.state} ${body.zip}, ${body.country}</div><div><b>Horse's Name:</b> ${body.horse}</div><div><b>Message: </b>${body.message}</div>`;
+    const name = `${body.lname} ${body.fname}`;
+    await $fetch($app.api, {
+      method: "POST",
+      body: { html, to: $app.email, name, ...body },
+    });
+    body.lname = "";
+    body.fname = "";
+    body.city = "";
+    body.state = "";
+    body.zip = "";
+    body.country = "";
+    body.email = "";
+    body.phone = "";
+    body.horse = "";
+    body.message = "";
+    success.value = "Your message has been sent successfully!";
+  } catch (err) {
+    error.value = "An error occurred. Please try again later!";
+  } finally {
+    loading.value = false;
+  }
 }
 </script>
 
