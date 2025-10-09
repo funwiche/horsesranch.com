@@ -8,7 +8,7 @@
         <nuxt-link
           v-for="n in links"
           :to="n.path"
-          class="center flex-col px-6 py-1 uppercase text-sm font-bold relative group"
+          class="center flex-col px-4 py-1 uppercase text-sm font-bold relative group"
         >
           {{ n.name }}
           <span
@@ -41,6 +41,7 @@ const links: any = [
   { name: "Our Horses", path: "/horses" },
   { name: "Hauling", path: "/hauling" },
   { name: "FAQs", path: "/faqs" },
+  { name: "How to buy", path: "/how-to-buy" },
   { name: "Testimonials", path: "/testimonials" },
   { name: "Contact", path: "/contact-us" },
 ];

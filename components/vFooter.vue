@@ -53,10 +53,11 @@ const links: any = [
   {
     title: "Quick Links",
     paths: [
-      { name: "Home", path: "/" },
+      // { name: "Home", path: "/" },
       { name: "About Us", path: "/about-us" },
       { name: "Contact Us", path: "/contact-us" },
       { name: "Our Horses", path: "/horses" },
+      { name: "Hauling", path: "/hauling" },
       { name: "Testimonials", path: "/testimonials" },
     ],
   },
@@ -64,7 +65,7 @@ const links: any = [
     title: "Explore",
     paths: [
       { name: "Help & FAQs", path: "/faqs" },
-      { name: "Hauling", path: "/hauling" },
+      { name: "How to buy", path: "/how-to-buy" },
       { name: "Privacy Policy", path: "/privacy-policy" },
       { name: "Terms of Service", path: "/terms-of-service" },
       { name: "Returns & Refund", path: "/returns-refund" },
