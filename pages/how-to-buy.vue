@@ -87,6 +87,26 @@
       </p>
     </div>
   </section>
+  <section
+    class="text-white bg-[url('/breadcumbs.png')] bg-cover bg-center mb-12"
+  >
+    <div class="text-center bg-black/65 p-12 md:p-20">
+      <div class="text-lg uppercase mb-4 text-tint font-semibold">
+        we have amazing offers now!
+      </div>
+      <h2 class="font-black text-3xl sm:text-4xl mb-6 capitalize">
+        get a 10% discount off now by paying with cryptocurrency
+      </h2>
+      <div class="text-xl mb-6">
+        We accept Bitcoin, Ethereum, USDT, USDC and many more
+      </div>
+      <v-btn
+        to="/horses"
+        title="VIEW OUR HORSES"
+        style="height: 48px; width: 240px; border-radius: 0"
+      />
+    </div>
+  </section>
 </template>
 
 <script setup lang="ts"></script>
