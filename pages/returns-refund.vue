@@ -21,43 +21,36 @@
       </p>
 
       <h4>
-        <strong>3. Limited Health Guarantee and Eligibility for Return</strong>
+        <strong>3. Purchase and Health Guarantee</strong>
       </h4>
       <p>
-        We offer a limited guarantee on all horses for
-        <strong>72 hours</strong> after delivery to your specified address.
+        We offer
+        <strong>30 days</strong> money back guarantee.
       </p>
       <p>
-        To be eligible for a return and refund, a horse must have a
-        <strong>major, undisclosed health or soundness issue</strong> that was
-        not apparent during the pre-purchase exam and that prevents it from
-        being used for its advertised purpose.
+        We also guarantee the Horse to be free from fatal or life-altering
+        diseases that adversely affect its health for a period of one (1) year
+        from the date of arrival.
       </p>
-      <p>This guarantee <strong>does not cover</strong>:</p>
-
+      <p>
+        In the event of the Horse's death within this one-year period, the Buyer
+        agrees to have a necropsy (autopsy) performed at their expense. If the
+        necropsy reveals a congenital defect or disease as the cause of death,
+        the Seller shall:
+      </p>
       <ul>
         <li>
-          <p>
-            Behavioral or training issues that were demonstrated or disclosed
-            prior to sale.
-          </p>
+          <p>Provide a replacement Horse of equal value</p>
         </li>
         <li>
-          <p>Minor conditions, blemishes, or scars.</p>
-        </li>
-        <li>
-          <p>
-            Injuries or illnesses that occur after the horse has been delivered
-            to you.
-          </p>
-        </li>
-        <li>
-          <p>
-            Failure to thrive in a new environment or issues arising from a
-            change in management.
-          </p>
+          <p>Pay for the cost of the necropsy</p>
         </li>
       </ul>
+      <p>
+        This guarantee is contingent upon the Buyer providing proper care and
+        maintenance of the Horse, including regular veterinary check-ups and
+        vaccinations.
+      </p>
       <h4>
         <strong>4. The Return Process</strong>
       </h4>
@@ -73,7 +66,7 @@
         </li>
         <li>
           <p>
-            <strong>Provide Veterinary Report:</strong> Within the 72-hour
+            <strong>Provide Veterinary Report:</strong> Within the 30 days
             window, provide a detailed written report from a licensed
             veterinarian diagnosing the issue and stating it is likely
             pre-existing. This examination must be at your expense.
@@ -112,7 +105,7 @@
       </ul>
       <h4>6. Final Sales</h4>
       <p>
-        All sales are considered final after the 72-hour guarantee period has
+        All sales are considered final after the 30 days guarantee period has
         expired, or if the terms of this policy are not met. We do not accept
         returns for buyer's remorse or a change in circumstances.
       </p>
@@ -121,10 +114,10 @@
       <p>Questions about this policy or to initiate a return?</p>
       <p>
         <strong class="no-underline">{{ $app.name }}</strong> <br />
-        <strong class="no-underline">Address:</strong>{{ $app.address }} <br />
-        <strong class="no-underline">Business Hours:</strong>{{ $app.hours }}
+        <strong class="no-underline">Address: </strong>{{ $app.address }} <br />
+        <strong class="no-underline">Business Hours: </strong>{{ $app.hours }}
         <br />
-        <strong class="no-underline">Email Address:</strong> {{ $app.email }}
+        <strong class="no-underline">Email Address: </strong> {{ $app.email }}
         <br />
         <strong class="no-underline">Phone Number:</strong> {{ $app.phone }}
       </p>

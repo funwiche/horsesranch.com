@@ -194,10 +194,10 @@
       <p>Questions about these Terms of Service should be sent to us at:</p>
       <p>
         <strong class="no-underline">{{ $app.name }}</strong> <br />
-        <strong class="no-underline">Address:</strong>{{ $app.address }} <br />
-        <strong class="no-underline">Business Hours:</strong>{{ $app.hours }}
+        <strong class="no-underline">Address: </strong>{{ $app.address }} <br />
+        <strong class="no-underline">Business Hours: </strong>{{ $app.hours }}
         <br />
-        <strong class="no-underline">Email Address:</strong> {{ $app.email }}
+        <strong class="no-underline">Email Address: </strong> {{ $app.email }}
         <br />
         <strong class="no-underline">Phone Number:</strong> {{ $app.phone }}
       </p>
