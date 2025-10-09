@@ -2,7 +2,9 @@
   <header class="px-6">
     <div class="lg h-24 flex-between">
       <div>
-        <img src="/horses-ranch-logo.png" :alt="$app.name" class="w-40" />
+        <nuxt-link to="/">
+          <img src="/horses-ranch-logo.png" :alt="$app.name" class="w-40" />
+        </nuxt-link>
       </div>
       <div class="max-lg:hidden flex-1 flex-end divide-x text-tint pl-8">
         <nuxt-link
