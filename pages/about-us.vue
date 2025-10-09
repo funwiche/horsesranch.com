@@ -88,14 +88,21 @@
   </section>
   <section class="px-6 py-12 lg:py-20">
     <div class="lg">
-      <h2 class="font-black text-5xl mb-6">
+      <h2 class="font-black text-5xl mb-6 text-white">
         Equine <span class="text-tint">Athletes</span>
       </h2>
-      <div class="masonry-grid">
+      <div class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 gap-2">
+        <img
+          v-for="n in 27"
+          :src="`/gallery/${n.toString().padStart(2, '0')}.jpg`"
+          class="object-cover object-center aspect-square rounded-lg"
+        />
+      </div>
+      <!-- <div class="masonry-grid">
         <div v-for="n in 27" class="masonry-item">
           <img :src="`/gallery/${n.toString().padStart(2, '0')}.jpg`" />
         </div>
-      </div>
+      </div> -->
     </div>
   </section>
 </template>
@@ -137,13 +144,13 @@ const values = [
 
 <style scoped>
 .masonry-grid {
-  columns: 4 250px;
-  column-gap: 15px;
+  columns: 5 150px;
+  column-gap: 10px;
 }
 
 .masonry-item {
   break-inside: avoid;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   background: white;
   border-radius: 8px;
   overflow: hidden;
