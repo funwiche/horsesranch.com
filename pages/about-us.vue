@@ -113,7 +113,7 @@
       <h2 class="font-black text-5xl mb-6 text-white">
         Equine <span class="text-tint">Athletes</span>
       </h2>
-      <div class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 gap-2">
+      <div class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 gap-1">
         <img
           v-for="n in 25"
           :src="`/gallery/${n.toString().padStart(2, '0')}.jpg`"
