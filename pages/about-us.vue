@@ -89,38 +89,6 @@
       </div>
     </div>
   </section>
-  <!-- <section class="text-white px-6 py-12 lg:py-20">
-    <div class="sm lg:lg md:flex md:flex-row-reverse items-center gap-12">
-      <div class="flex-1 max-lg:mb-8">
-        <img src="/slides/01.jpg" :alt="$app.name" class="rounded-2xl" />
-      </div>
-      <div class="flex-1">
-        <h2 class="font-black text-4xl">Our Mission</h2>
-        <p>
-          <strong>Versatile Horses Ranch</strong> is a private ranch in McAllen,
-          Texas, owned by Charles H. Davis. They specialize in training horses
-          through a thorough desensitization program, exposing them to a wide
-          variety of sights, sounds, and situations to ensure they are calm and
-          reliable.
-        </p>
-        <p>
-          The ranch primarily caters to novice and inexperienced riders, with an
-          average customer age of 55. Many clients haven't ridden in over 30
-          years or have never owned a horse. While they focus on gentle,
-          family-oriented horses suitable for beginners, they also have more
-          advanced horses for experienced riders.
-        </p>
-        <p>
-          A key part of their process is matching the right horse to the rider.
-          They emphasize the importance of being honest about your current
-          riding ability, confidence level, and goals, rather than past
-          experience. They encourage potential buyers to self-reflect on their
-          desired riding style and frequency to ensure a perfect fit for
-          everyone, from total beginners to seasoned riders.
-        </p>
-      </div>
-    </div>
-  </section> -->
   <section class="bg-base/65 px-6 py-12 lg:py-20">
     <div class="lg">
       <h2 class="font-black text-4xl mb-12 text-center">
@@ -152,11 +120,6 @@
           class="object-cover object-center aspect-[3/4] rounded-lg"
         />
       </div>
-      <!-- <div class="masonry-grid">
-        <div v-for="n in 27" class="masonry-item">
-          <img :src="`/gallery/${n.toString().padStart(2, '0')}.jpg`" />
-        </div>
-      </div> -->
     </div>
   </section>
 </template>

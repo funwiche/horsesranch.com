@@ -60,7 +60,7 @@
         to clear.
       </p>
       <p>
-        Prior to transport horses off the premises of Seamless Horse Ranch
+        Prior to transport horses off the premises of {{ $app.name }}
         Facility, mandatory insurance coverage must be secured through our
         ranch. This insurance protects the life of the horses from any
         eventuality during transit.
@@ -80,9 +80,9 @@
       </p>
       <p>
         <strong
-          >Note: The Seamless Horse Ranch is a private facility and visiting is
-          by appointment only. If you would like to come out, please: Contact me
-          to make an appointment.</strong
+          >Note: The {{ $app.name }} is a private facility and visiting is by
+          appointment only. If you would like to come out, please: Contact me to
+          make an appointment.</strong
         >
       </p>
     </div>
