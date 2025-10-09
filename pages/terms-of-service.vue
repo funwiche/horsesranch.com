@@ -160,34 +160,12 @@
         and is protected by copyright and other intellectual property laws.
       </p>
 
-      <h4>9. Disclaimer of Warranties and Limitation of Liability</h4>
-      <ul>
-        <li>
-          <p>
-            <strong>"As Is" Basis:</strong> The horses are sold on an "as is"
-            and "where is" basis, with the sole exception of the limited
-            guarantee outlined in our Return and Refund Policy.
-          </p>
-        </li>
-        <li>
-          <p>
-            <strong>No Guarantees:</strong> Beyond the express terms of the
-            Return Policy, {{ $app.name }} makes no warranties, express or
-            implied, regarding the horse's future performance, temperament, or
-            suitability for any particular purpose.
-          </p>
-        </li>
-        <li>
-          <p>
-            <strong>Limitation of Liability:</strong> To the fullest extent
-            permitted by law, {{ $app.name }} shall not be liable for any
-            indirect, incidental, special, consequential, or punitive damages,
-            including but not limited to loss of profits, data, use, or other
-            intangible losses, resulting from your purchase, use of, or
-            inability to use our services or a horse purchased from us.
-          </p>
-        </li>
-      </ul>
+      <h4>9. Disclaimer of Warranties</h4>
+      <p>
+        We stand behind our horses. If you are not completely satisfied with
+        your purchase, you can return it within 30 days of delivery for a full
+        refund of the product price.
+      </p>
       <h4>10. Indemnification</h4>
       <p>
         You agree to indemnify and hold harmless {{ $app.name }} and its owners,
@@ -200,7 +178,7 @@
       <h4>11. Governing Law</h4>
       <p>
         These Terms shall be governed by and construed in accordance with the
-        laws of the State of [Your State], without regard to its conflict of law
+        laws of the State of Texas, without regard to its conflict of law
         principles.
       </p>
 
