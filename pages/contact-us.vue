@@ -5,7 +5,7 @@
   />
   <section class="bg-white">
     <div class="sm md:lg md:flex gap-10 p-6 sm:p-12">
-      <div class="w-1/3 pb-10">
+      <div class="md:w-1/3 pb-10">
         <h2 class="text-4xl font-black uppercase">
           Contact <br />
           Information
@@ -21,7 +21,7 @@
           </div>
         </div>
       </div>
-      <div class="w-2/3">
+      <div class="md:w-2/3">
         <h2 class="text-4xl font-black uppercase">
           Send Us <br />
           Inquiries
@@ -84,7 +84,7 @@
     style="border: 0"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
-  ></iframe>
+  />
 </template>
 
 <script setup lang="ts">

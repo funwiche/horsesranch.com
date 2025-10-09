@@ -51,10 +51,10 @@ const limit = 24;
 // const width = ref(0);
 const page = computed(() => parseInt((route.query.page as string) || "1"));
 const starts = computed(() => (page.value - 1) * limit);
-const total = computed(() => Math.ceil(products.length / limit));
+const total = Math.ceil(products.length / limit);
 
 const items = computed(() =>
-  products.slice((page.value - 1) * limit, page.value * limit)
+  [...products].slice((page.value - 1) * limit, page.value * limit)
 );
 function navigate(page: number) {
   navigateTo({ name: "horses", query: { ...route.query, page } });

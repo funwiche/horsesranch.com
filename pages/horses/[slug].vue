@@ -62,5 +62,5 @@ const item = computed(() =>
 );
 const image = ref(0);
 const contain = ref(false);
-const featured = products.sort(() => Math.random() - 0.5).slice(0, 4);
+const featured = [...products].sort(() => Math.random() - 0.5).slice(0, 4);
 </script>
