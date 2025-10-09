@@ -10,57 +10,53 @@
       <div>
         <h2 class="font-black text-4xl">Who We Are</h2>
         <div class="mb-6">
-          We have an excellent facility that is located in southern Texas,
-          McAllen. Buy with confidence at {{ $app.name }}! Every horse here has
-          been hand selected! Well-broke, classy and, above all, safe. Each
-          horse comes with documentation of vaccinations, a certificate of
-          soundness from a certified veterinarian.
-        </div>
-
-        <div class="mb-6">
-          We take pride in offering a rich variety of horse breeds and
-          disciplines, each accompanied by comprehensive health records,
-          engaging videos, and striking images that showcase the grace and
-          beauty of our equine companions.
+          <strong>{{ $app.name }}</strong> is a private ranch in McAllen, Texas,
+          owned by Lucas Davis. They specialize in training horses through a
+          thorough desensitization program, exposing them to a wide variety of
+          sights, sounds, and situations to ensure they are calm and reliable.
         </div>
         <div class="mb-6">
-          What sets us apart? We build on trust and transparency, offering you
-          the opportunity to connect with your potential horse on a personal
-          level.
+          The ranch primarily caters to novice and inexperienced riders, with an
+          average customer age of 55. Many clients haven't ridden in over 30
+          years or have never owned a horse. While they focus on gentle,
+          family-oriented horses suitable for beginners, they also have more
+          advanced horses for experienced riders.
         </div>
         <div class="mb-6">
-          Whether you&rsquo;re a seasoned equestrian or a first-time owner, our
-          listings offer detailed insight to help you find the right companion.
-          Explore, connect, and embark on a smooth horse-buying journey.
-        </div>
-        <div>
-          Your dream horse awaits&mdash;find it here at {{ $app.name }}.
+          A key part of their process is matching the right horse to the rider.
+          They emphasize the importance of being honest about your current
+          riding ability, confidence level, and goals, rather than past
+          experience. They encourage potential buyers to self-reflect on their
+          desired riding style and frequency to ensure a perfect fit for
+          everyone, from total beginners to seasoned riders.
         </div>
       </div>
     </div>
     <div class="sm lg:lg">
       <div class="mb-6">
-        <strong>Versatile Horses Ranch</strong> is a private ranch in McAllen,
-        Texas, owned by Charles H. Davis. They specialize in training horses
-        through a thorough desensitization program, exposing them to a wide
-        variety of sights, sounds, and situations to ensure they are calm and
-        reliable.
+        We have an excellent facility that is located in southern Texas,
+        McAllen. Buy with confidence at {{ $app.name }}! Every horse here has
+        been hand selected! Well-broke, classy and, above all, safe. Each horse
+        comes with documentation of vaccinations, a certificate of soundness
+        from a certified veterinarian.
+      </div>
+
+      <div class="mb-6">
+        We take pride in offering a rich variety of horse breeds and
+        disciplines, each accompanied by comprehensive health records, engaging
+        videos, and striking images that showcase the grace and beauty of our
+        equine companions.
       </div>
       <div class="mb-6">
-        The ranch primarily caters to novice and inexperienced riders, with an
-        average customer age of 55. Many clients haven't ridden in over 30 years
-        or have never owned a horse. While they focus on gentle, family-oriented
-        horses suitable for beginners, they also have more advanced horses for
-        experienced riders.
+        What sets us apart? We build on trust and transparency, offering you the
+        opportunity to connect with your potential horse on a personal level.
       </div>
       <div class="mb-6">
-        A key part of their process is matching the right horse to the rider.
-        They emphasize the importance of being honest about your current riding
-        ability, confidence level, and goals, rather than past experience. They
-        encourage potential buyers to self-reflect on their desired riding style
-        and frequency to ensure a perfect fit for everyone, from total beginners
-        to seasoned riders.
+        Whether you&rsquo;re a seasoned equestrian or a first-time owner, our
+        listings offer detailed insight to help you find the right companion.
+        Explore, connect, and embark on a smooth horse-buying journey.
       </div>
+      <div>Your dream horse awaits&mdash;find it here at {{ $app.name }}.</div>
     </div>
   </section>
   <hr class="lg" />
