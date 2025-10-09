@@ -32,11 +32,13 @@
             <input
               required
               placeholder="Last Name*"
+              v-model="body.lname"
               class="h-14 flex-1 mb-4 border rounded-lg px-4"
             />
             <input
               required
               placeholder="First Name*"
+              v-model="body.fname"
               class="h-14 flex-1 mb-4 border rounded-lg px-4"
             />
           </div>
@@ -44,42 +46,52 @@
             <input
               required
               placeholder="City"
+              v-model="body.city"
               class="h-14 flex-1 border rounded-lg px-4"
             />
             <input
               required
               placeholder="State"
+              v-model="body.state"
               class="h-14 flex-1 border rounded-lg px-4"
             />
             <input
               required
-              placeholder="Zip"
+              placeholder="Zip Code"
+              v-model="body.zip"
               class="h-14 flex-1 border rounded-lg px-4"
             />
           </div>
           <input
             required
+            v-model="body.country"
             placeholder="Country*"
             class="h-14 w-full border rounded-lg px-4 mb-4"
           />
           <input
             required
+            type="email"
+            v-model="body.email"
             placeholder="Email Address*"
             class="h-14 w-full border rounded-lg px-4 mb-4"
           />
           <input
             required
+            type="tel"
+            v-model="body.phone"
             placeholder="Phone Number*"
             class="h-14 w-full border rounded-lg px-4 mb-4"
           />
           <input
             required
+            v-model="body.horse"
             placeholder="Horse's Name"
             class="h-14 w-full border rounded-lg px-4 mb-4"
           />
           <textarea
             required
             rows="4"
+            v-model="body.message"
             placeholder="Message here..."
             class="border rounded-lg p-4 mb-4"
           />
@@ -103,10 +115,15 @@ const links = [
   { name: "Office Hours", path: $app.hours, icon: "clock" },
 ];
 const body = reactive({
-  name: "",
+  lname: "",
+  fname: "",
+  city: "",
+  state: "",
+  zip: "",
+  country: "",
   email: "",
   phone: "",
-  location: "",
+  horse: "",
   message: "",
 });
 async function submit() {
