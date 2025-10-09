@@ -28,92 +28,72 @@
         </h2>
         <div class="w-16 border-2 rounded-lg border-tint mb-6" />
         <form @submit.prevent="submit">
-          <div class="flex gap-4">
-            <input
-              required
-              placeholder="Last Name*"
-              v-model="body.lname"
-              class="h-14 flex-1 mb-4 border rounded-lg px-4"
-            />
-            <input
-              required
-              placeholder="First Name*"
-              v-model="body.fname"
-              class="h-14 flex-1 mb-4 border rounded-lg px-4"
-            />
+          <div class="grid sm:grid-cols-2 gap-x-4">
+            <v-input required label="Last Name" v-model="body.lname" />
+            <v-input required label="First Name" v-model="body.fname" />
           </div>
-          <div class="flex gap-4 mb-4">
-            <input
-              required
-              placeholder="City"
-              v-model="body.city"
-              class="h-14 flex-1 border rounded-lg px-4"
-            />
-            <input
-              required
-              placeholder="State"
-              v-model="body.state"
-              class="h-14 flex-1 border rounded-lg px-4"
-            />
-            <input
-              required
-              placeholder="Zip Code"
-              v-model="body.zip"
-              class="h-14 flex-1 border rounded-lg px-4"
-            />
+          <div class="grid sm:grid-cols-2 gap-x-4">
+            <v-input required label="City" v-model="body.city" />
+            <div class="grid grid-cols-3 gap-x-4">
+              <v-input
+                required
+                label="State"
+                v-model="body.state"
+                class="col-span-2"
+              />
+              <v-input label="Zip Code" v-model="body.zip" />
+            </div>
           </div>
-          <input
+          <v-input
+            select
             required
+            label="Country"
             v-model="body.country"
-            placeholder="Country*"
-            class="h-14 w-full border rounded-lg px-4 mb-4"
+            :items="countries"
           />
-          <input
+          <v-input
             required
             type="email"
             v-model="body.email"
-            placeholder="Email Address*"
-            class="h-14 w-full border rounded-lg px-4 mb-4"
+            label="Email Address"
           />
-          <input
+          <v-input
             required
             type="tel"
             v-model="body.phone"
-            placeholder="Phone Number*"
-            class="h-14 w-full border rounded-lg px-4 mb-4"
+            label="Phone Number"
           />
-          <input
+          <v-input required v-model="body.horse" label="Horse's Name" />
+          <v-input
+            textarea
             required
-            v-model="body.horse"
-            placeholder="Horse's Name"
-            class="h-14 w-full border rounded-lg px-4 mb-4"
-          />
-          <textarea
-            required
-            rows="4"
             v-model="body.message"
+            label="Message"
             placeholder="Message here..."
-            class="border rounded-lg p-4 mb-4"
           />
-          <input
-            type="submit"
-            value="Send Message"
-            class="h-16 px-8 rounded-full text-xl font-bold text-tint bg-black hover:bg-tint hover:text-black transition-all cursor-pointer w-56"
-          />
+          <v-input submit :loading="loading" />
         </form>
       </div>
     </div>
   </section>
-  <section class="h-96 bg-base"></section>
+  <iframe
+    class="h-96 w-full bg-base"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114541.62295031208!2d-98.3214679971407!3d26.215353517139786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8665a72330469c2f%3A0xe6455e97e44f00e1!2sMcAllen%2C%20TX%2078501%2C%20USA!5e0!3m2!1sen!2suk!4v1760018200094!5m2!1sen!2suk"
+    referrerpolicy="no-referrer-when-downgrade"
+    style="border: 0"
+    loading="lazy"
+  />
 </template>
 
 <script setup lang="ts">
+import countries from "@/resources/countries.json";
 const links = [
   { name: "Office Address", path: $app.address, icon: "map-location-dot" },
   { name: "Call Us", path: $app.phone, icon: "phone-rotary" },
   { name: "Email Us", path: $app.email, icon: "envelope" },
   { name: "Office Hours", path: $app.hours, icon: "clock" },
 ];
+const loading = ref(false);
 const body = reactive({
   lname: "",
   fname: "",
