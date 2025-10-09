@@ -285,22 +285,22 @@
     }
   }
   .textfield {
-    @apply relative flex-start;
+    @apply relative flex-start mb-4;
     input,
     select,
     textarea {
-      @apply border rounded;
+      @apply border rounded-lg outline-none outline-offset-0 transition-all duration-300 px-2.5;
       &:hover {
         @apply border-black;
       }
-      &:focus {
-        @apply border-info outline-4 outline-info/65;
+      &.focus {
+        @apply border-info outline-4 outline-info/35;
       }
-      &:invalid {
+      &.error {
         @apply border-error;
       }
-      &:focus:invalid {
-        @apply border-error outline-4 outline-error/65;
+      &.error.focus {
+        @apply border-error outline-4 outline-error/35;
       }
       &:disabled {
         @apply disabled;
@@ -308,26 +308,15 @@
     }
     input,
     select {
-      &.dense {
-        @apply h-9 leading-9 text-xs;
-      }
-      &.medium {
-        @apply h-12 leading-[48px] text-base;
-      }
-      &.large {
-        @apply h-14 leading-[56px] text-lg;
+      @apply h-12 leading-[48px] text-sm;
+      &.dirty {
+        @apply pt-1;
       }
     }
     textarea {
-      @apply resize-none h-auto py-2 leading-normal;
-      &.dense {
-        @apply h-auto leading-normal text-xs;
-      }
-      &.medium {
-        @apply h-auto leading-normal text-base;
-      }
-      &.large {
-        @apply h-auto leading-snug text-lg;
+      @apply resize-none h-auto py-3 leading-normal text-sm;
+      &.dirty {
+        @apply pt-3;
       }
     }
   }
