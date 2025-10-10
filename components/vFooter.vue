@@ -9,7 +9,7 @@
           <img
             src="/horses-ranch-logo.png"
             :alt="$app.name"
-            class="w-40 mb-4"
+            class="w-60 mb-4"
           />
           <div>
             {{ $app.desc }}

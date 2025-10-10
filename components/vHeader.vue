@@ -3,7 +3,7 @@
     <div class="lg h-24 flex-between">
       <div>
         <nuxt-link to="/">
-          <img src="/horses-ranch-logo.png" :alt="$app.name" class="w-64" />
+          <img src="/horses-ranch-logo.png" :alt="$app.name" class="w-60" />
         </nuxt-link>
       </div>
       <div class="max-lg:hidden flex-1 flex-end divide-x text-tint pl-8">
