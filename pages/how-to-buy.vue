@@ -101,7 +101,7 @@
         We accept Bitcoin, Ethereum, USDT, USDC and many more
       </div>
       <v-btn
-        to="/horses"
+        to="/horses-for-sale"
         title="VIEW OUR HORSES"
         style="height: 48px; width: 240px; border-radius: 0"
       />

@@ -20,7 +20,7 @@
           <div class="mb-6">
             {{ $app.desc }}
           </div>
-          <v-btn title="available horses" to="/horses" />
+          <v-btn title="available horses" to="/horses-for-sale" />
         </div>
       </div>
     </div>
@@ -32,7 +32,9 @@
         Available <span class="text-tint">Horses</span>
       </h2>
       <v-archive :items="featured" />
-      <div class="pt-6 center"><v-btn title="view all" to="/horses" /></div>
+      <div class="pt-6 center">
+        <v-btn title="view all" to="/horses-for-sale" />
+      </div>
     </div>
   </section>
   <hr class="lg" />
@@ -81,7 +83,7 @@
         All horses come with a 30 days Money-Back guarantee.
       </div>
       <v-btn
-        to="/horses"
+        to="/horses-for-sale"
         title="VIEW OUR HORSES"
         style="height: 48px; width: 240px; border-radius: 0"
       />

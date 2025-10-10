@@ -3,7 +3,7 @@
     <div class="lg h-24 flex-between">
       <div>
         <nuxt-link to="/">
-          <img src="/horses-ranch-logo.png" :alt="$app.name" class="w-40" />
+          <img src="/horses-ranch-logo.png" :alt="$app.name" class="w-64" />
         </nuxt-link>
       </div>
       <div class="max-lg:hidden flex-1 flex-end divide-x text-tint pl-8">
@@ -40,7 +40,7 @@
 const links: any = [
   { name: "Home", path: "/" },
   { name: "About", path: "/about-us" },
-  { name: "Our Horses", path: "/horses" },
+  { name: "Our Horses", path: "/horses-for-sale" },
   { name: "Hauling", path: "/hauling" },
   { name: "FAQs", path: "/faqs" },
   { name: "How to buy", path: "/how-to-buy" },

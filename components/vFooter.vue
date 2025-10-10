@@ -56,7 +56,7 @@ const links: any = [
       // { name: "Home", path: "/" },
       { name: "About Us", path: "/about-us" },
       { name: "Contact Us", path: "/contact-us" },
-      { name: "Our Horses", path: "/horses" },
+      { name: "Our Horses", path: "/horses-for-sale" },
       { name: "Hauling", path: "/hauling" },
       { name: "Testimonials", path: "/testimonials" },
     ],
