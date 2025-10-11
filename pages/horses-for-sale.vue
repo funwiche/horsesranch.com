@@ -29,7 +29,7 @@
 import products from "@/resources/products.json";
 const route = useRoute();
 const limit = 24;
-const horses = products.filter((el) => (el.desc = "Horses"));
+const horses = products.filter((el) => el.category == "Horses");
 const page = computed(() => parseInt((route.query.page as string) || "1"));
 const starts = computed(() => (page.value - 1) * limit);
 const total = Math.ceil(horses.length / limit);

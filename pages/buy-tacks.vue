@@ -10,5 +10,5 @@
 
 <script lang="ts" setup>
 import products from "@/resources/products.json";
-const items = products.filter((el) => (el.desc = "Horses")).slice(0, 8);
+const items = products.filter((el) => el.category == "Horses").slice(0, 8);
 </script>

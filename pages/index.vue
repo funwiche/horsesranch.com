@@ -92,18 +92,20 @@
 </template>
 
 <script lang="ts" setup>
+import products from "@/resources/products.json";
+
 const featured = useFeatured();
 import faqs from "@/resources/faqs.json";
 const index = ref(20);
 const slide = ref(0);
 onMounted(() => setInterval(() => slide.value++, 6000));
-function generateHorseSlug(str: string) {
-  return str
-    .replace(/[\d.]/g, "")
-    .replace(/\s*hands?/gi, "")
-    .trim()
-    .replace(/\s+/g, " ")
-    .toLowerCase()
-    .replace(/\s/g, "-");
-}
+// function generateHorseSlug(str: string) {
+//   return str
+//     .replace(/[\d.]/g, "")
+//     .replace(/\s*hands?/gi, "")
+//     .trim()
+//     .replace(/\s+/g, " ")
+//     .toLowerCase()
+//     .replace(/\s/g, "-");
+// }
 </script>

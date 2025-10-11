@@ -28,7 +28,7 @@
           <h1 class="font-black font-serif">{{ item.title }}</h1>
           <h2 class="text-tint font-black">${{ $f.num(item.price, 0) }}</h2>
           <div class="py-6 border-y italic font-serif mb-6">
-            {{ item.short_desc }}
+            {{ item.excerpt }}
           </div>
           <nuxt-link
             to="/contact-us"
@@ -40,7 +40,7 @@
       </div>
       <div class="border bg-white text-black p-8 rounded-lg">
         <h2>Description</h2>
-        {{ item.desc }}
+        {{ item.description }}
       </div>
     </div>
   </section>
@@ -58,7 +58,7 @@
 import products from "@/resources/products.json";
 const route = useRoute();
 const item = computed(() =>
-  products.find(({ slug }) => route.params.slug == slug)
+  [...products].find(({ slug }) => route.params.slug == slug)
 );
 const image = ref(0);
 const contain = ref(false);

@@ -13,7 +13,7 @@
         >${{ $f.num(item.price, 0) }}</span
       >
       <div class="py-4">
-        {{ item.short_desc }}
+        {{ item.excerpt }}
       </div>
     </div>
     <div
