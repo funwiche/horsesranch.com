@@ -42,6 +42,7 @@ const links: any = [
   { name: "About", path: "/about-us" },
   { name: "Our Horses", path: "/horses-for-sale" },
   { name: "Hauling", path: "/hauling" },
+  { name: "Buy Tacks", path: "/buy-tacks" },
   { name: "FAQs", path: "/faqs" },
   { name: "How to buy", path: "/how-to-buy" },
   { name: "Testimonials", path: "/testimonials" },
