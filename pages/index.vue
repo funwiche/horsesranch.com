@@ -33,7 +33,7 @@
   <section class="px-6 py-12">
     <div class="lg text-white text-center">
       <h2 class="font-black text-4xl sm:text-5xl mb-6">
-        Our free Hauling service at Peak Pulse Horses is available in some
+        Our free Hauling service at {{ $app.name }} is available in some
         selected States! With a 30 Day Money Back Guarantee.
       </h2>
       <div class="sm:text-lg mb-4">
