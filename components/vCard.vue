@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link :to="`/horses/${item.slug}`" class="flex flex-col text-white">
+  <nuxt-link :to="`/${item.slug}`" class="flex flex-col text-white">
     <div class="aspect-square overflow-hidden">
       <img
         :src="item.images[0]"

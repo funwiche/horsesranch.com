@@ -1,7 +1,7 @@
 [
   {
     "id": 458,
-    "slug": "aiysha",
+    "slug": "aiysha-quarter-horse-dappled-buckskin-mare",
     "title": "Aiysha",
     "price": 8800,
     "short_desc": "2017 Quarter Horse Dappled Buckskin Mare 15 Hands",
@@ -11,7 +11,7 @@
   },
   {
     "id": 461,
-    "slug": "ajax",
+    "slug": "ajax-quarter-horse-buckskin-gelding",
     "title": "Ajax",
     "price": 9000,
     "short_desc": "2017 Quarter Horse Buckskin Gelding 15 Hands",
@@ -21,7 +21,7 @@
   },
   {
     "id": 464,
-    "slug": "akira",
+    "slug": "akira-tennessee-walking-horse-chocolate-overo-gelding",
     "title": "Akira",
     "price": 7400,
     "short_desc": "2016 Tennessee Walking Horse Chocolate Overo Gelding 15.1 Hands",
@@ -31,7 +31,7 @@
   },
   {
     "id": 467,
-    "slug": "alex",
+    "slug": "alex-gypsy-vanner-tobiano-gelding",
     "title": "Alex",
     "price": 9900,
     "short_desc": "2017 Gypsy Vanner Tobiano Gelding 15.2 Hands",
@@ -41,7 +41,7 @@
   },
   {
     "id": 470,
-    "slug": "ali",
+    "slug": "ali-spotted-saddle-horse-black-tobiano-gelding",
     "title": "Ali",
     "price": 7300,
     "short_desc": "2015 Spotted Saddle Horse Black Tobiano Gelding 15.1 Hands",
@@ -51,7 +51,7 @@
   },
   {
     "id": 473,
-    "slug": "alibaba",
+    "slug": "alibaba-quarter-horse-red-roan-gelding",
     "title": "Alibaba",
     "price": 8700,
     "short_desc": "2016 Quarter Horse Red Roan Gelding 15.1 Hands",
@@ -61,7 +61,7 @@
   },
   {
     "id": 476,
-    "slug": "amber",
+    "slug": "amber-quarter-horse-buckskin-mare",
     "title": "Amber",
     "price": 8700,
     "short_desc": "2017 Quarter Horse Buckskin Mare 15.1 Hands",
@@ -71,7 +71,7 @@
   },
   {
     "id": 479,
-    "slug": "amigo",
+    "slug": "amigo-welsh-pony-horse-blue-roan-mare",
     "title": "Amigo",
     "price": 5900,
     "short_desc": "2016 Welsh Pony Horse Blue Roan Mare 12 Hands",
@@ -81,7 +81,7 @@
   },
   {
     "id": 482,
-    "slug": "andy",
+    "slug": "andy-quarter-horse-red-roan-gelding",
     "title": "Andy",
     "price": 8600,
     "short_desc": "2016 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -91,7 +91,7 @@
   },
   {
     "id": 485,
-    "slug": "anita",
+    "slug": "anita-draft-cross-horse-dapple-grey-mare",
     "title": "Anita",
     "price": 8000,
     "short_desc": "2016 Draft Cross Horse Dapple Grey Mare 16.1 Hands",
@@ -101,7 +101,7 @@
   },
   {
     "id": 488,
-    "slug": "apollo",
+    "slug": "apollo-quarter-horse-dun-gelding",
     "title": "Apollo",
     "price": 8000,
     "short_desc": "2016 Quarter Horse Dun Gelding 14.3 Hands",
@@ -111,7 +111,7 @@
   },
   {
     "id": 491,
-    "slug": "april",
+    "slug": "april-gypsy-vanner-buckskin-gelding",
     "title": "April",
     "price": 9850,
     "short_desc": "2016 Gypsy Vanner Buckskin Gelding 14.3 Hands",
@@ -121,7 +121,7 @@
   },
   {
     "id": 494,
-    "slug": "arnold",
+    "slug": "arnold-quarter-horse-blue-roan-gelding",
     "title": "Arnold",
     "price": 8500,
     "short_desc": "2017 Quarter Horse Blue Roan Gelding 15.1 Hands",
@@ -131,7 +131,7 @@
   },
   {
     "id": 497,
-    "slug": "arrow",
+    "slug": "arrow-quarter-horse-sorrel-rabicano-gelding",
     "title": "Arrow",
     "price": 7500,
     "short_desc": "2015 Quarter Horse Sorrel Rabicano Gelding 15 Hands",
@@ -141,7 +141,7 @@
   },
   {
     "id": 500,
-    "slug": "ashanti",
+    "slug": "ashanti-pony-horse-grulla-mare",
     "title": "Ashanti",
     "price": 4800,
     "short_desc": "2017 Pony Horse Grulla Mare 9 Hands",
@@ -151,7 +151,7 @@
   },
   {
     "id": 503,
-    "slug": "austin",
+    "slug": "austin-quarter-horse-palomino-gelding",
     "title": "Austin",
     "price": 8000,
     "short_desc": "2014 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -161,7 +161,7 @@
   },
   {
     "id": 506,
-    "slug": "avenger",
+    "slug": "avenger-quarter-horse-red-roan-gelding",
     "title": "Avenger",
     "price": 8000,
     "short_desc": "2014 Quarter Horse Red Roan Gelding 15 Hands",
@@ -171,7 +171,7 @@
   },
   {
     "id": 509,
-    "slug": "bailey",
+    "slug": "bailey-quarter-horse-red-roan-gelding",
     "title": "Bailey",
     "price": 8600,
     "short_desc": "2016 Quarter Horse Red Roan Gelding 15 Hands",
@@ -181,7 +181,7 @@
   },
   {
     "id": 512,
-    "slug": "bandera",
+    "slug": "bandera-spotted-saddle-horse-black-tobiano-gelding",
     "title": "Bandera",
     "price": 7000,
     "short_desc": "2016 Spotted Saddle Horse Black Tobiano Gelding 15.2 Hands",
@@ -191,7 +191,7 @@
   },
   {
     "id": 515,
-    "slug": "bandit",
+    "slug": "bandit-quarter-horse-red-roan-gelding",
     "title": "Bandit",
     "price": 8500,
     "short_desc": "2017 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -201,7 +201,7 @@
   },
   {
     "id": 518,
-    "slug": "banjo",
+    "slug": "banjo-rocky-mountain-horse-chocolate-gelding",
     "title": "Banjo",
     "price": 7300,
     "short_desc": "2016 Rocky Mountain Horse Chocolate Gelding 15.1 Hands",
@@ -211,7 +211,7 @@
   },
   {
     "id": 521,
-    "slug": "barbaro",
+    "slug": "barbaro-thoroughbred-bay-gelding",
     "title": "Barbaro",
     "price": 13500,
     "short_desc": "2016 Thoroughbred Bay Gelding 17 Hands",
@@ -221,7 +221,7 @@
   },
   {
     "id": 524,
-    "slug": "bashiru",
+    "slug": "bashiru-quarter-horse-palomino-gelding",
     "title": "Bashiru",
     "price": 8500,
     "short_desc": "2014 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -231,7 +231,7 @@
   },
   {
     "id": 527,
-    "slug": "baylee",
+    "slug": "baylee-quarter-horse-bay-roan-gelding",
     "title": "Baylee",
     "price": 8500,
     "short_desc": "2015 Quarter Horse Bay Roan Gelding 15 Hands",
@@ -241,7 +241,7 @@
   },
   {
     "id": 530,
-    "slug": "beamer",
+    "slug": "beamer-quarter-horse-buckskin-gelding",
     "title": "Beamer",
     "price": 8700,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 14.3 Hands",
@@ -251,7 +251,7 @@
   },
   {
     "id": 533,
-    "slug": "bear",
+    "slug": "bear-quarter-horse-buckskin-gelding",
     "title": "Bear",
     "price": 8200,
     "short_desc": "2015 Quarter Horse Buckskin Gelding 15.1 Hands",
@@ -261,7 +261,7 @@
   },
   {
     "id": 536,
-    "slug": "beauregard",
+    "slug": "beauregard-spotted-saddle-horse-chocolate-tobiano-gelding",
     "title": "Beauregard",
     "price": 7500,
     "short_desc": "2014 Spotted Saddle Horse Chocolate Tobiano Gelding 15.2 Hands",
@@ -271,7 +271,7 @@
   },
   {
     "id": 539,
-    "slug": "beauty",
+    "slug": "beauty-quarter-horse-palomino-mare",
     "title": "Beauty",
     "price": 7400,
     "short_desc": "2015 Quarter Horse Palomino Mare 14.3 Hands",
@@ -281,7 +281,7 @@
   },
   {
     "id": 542,
-    "slug": "bello",
+    "slug": "bello-quarter-horse-chestnut-gelding",
     "title": "Bello",
     "price": 7300,
     "short_desc": "2016 Quarter Horse Chestnut Gelding 14.2 Hands",
@@ -291,7 +291,7 @@
   },
   {
     "id": 545,
-    "slug": "benny",
+    "slug": "benny-dutch-warmblood-gelding-chestnut-gelding",
     "title": "Benny",
     "price": 14400,
     "short_desc": "2017 Dutch Warmblood Gelding Chestnut Gelding 16.1 Hands",
@@ -301,7 +301,7 @@
   },
   {
     "id": 548,
-    "slug": "biggy (bugsy)",
+    "slug": "biggy-(bugsy)-quarter-horse-buckskin-gelding",
     "title": "Biggy (Bugsy)",
     "price": 8800,
     "short_desc": "2015 Quarter Horse Buckskin Gelding 14.2 Hands",
@@ -311,7 +311,7 @@
   },
   {
     "id": 551,
-    "slug": "billy",
+    "slug": "billy-quarter-horse-palomino-gelding",
     "title": "Billy",
     "price": 8200,
     "short_desc": "2014 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -321,7 +321,7 @@
   },
   {
     "id": 554,
-    "slug": "biscuit",
+    "slug": "biscuit-quarter-horse-palomino-gelding",
     "title": "Biscuit",
     "price": 8000,
     "short_desc": "2017 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -331,7 +331,7 @@
   },
   {
     "id": 557,
-    "slug": "bishop",
+    "slug": "bishop-quarter-horse-palomino-gelding",
     "title": "Bishop",
     "price": 8300,
     "short_desc": "2015 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -341,7 +341,7 @@
   },
   {
     "id": 560,
-    "slug": "blaze",
+    "slug": "blaze-spotted-saddle-horse-black-tobiano-gelding",
     "title": "Blaze",
     "price": 7400,
     "short_desc": "2016 Spotted Saddle Horse Black Tobiano Gelding 15.1 Hands",
@@ -351,7 +351,7 @@
   },
   {
     "id": 563,
-    "slug": "blue",
+    "slug": "blue-tennessee-walking-horse-true-blue-roan-gelding",
     "title": "Blue",
     "price": 7650,
     "short_desc": "2016 Tennessee Walking Horse True Blue Roan Gelding 16 Hands",
@@ -361,7 +361,7 @@
   },
   {
     "id": 566,
-    "slug": "bolt",
+    "slug": "bolt-quarter-horse-blue-roan-gelding",
     "title": "Bolt",
     "price": 9000,
     "short_desc": "2015 Quarter Horse Blue Roan Gelding 15.2 Hands",
@@ -371,7 +371,7 @@
   },
   {
     "id": 569,
-    "slug": "bonito",
+    "slug": "bonito-tennessee-walking-horse-black-tobiano-gelding",
     "title": "Bonito",
     "price": 7800,
     "short_desc": "2017 Tennessee Walking Horse Black Tobiano Gelding 16 Hands",
@@ -381,7 +381,7 @@
   },
   {
     "id": 572,
-    "slug": "boomer",
+    "slug": "boomer-quarter-horse-red-roan-gelding",
     "title": "Boomer",
     "price": 9000,
     "short_desc": "2015 Quarter Horse Red Roan Gelding 15 Hands",
@@ -391,7 +391,7 @@
   },
   {
     "id": 575,
-    "slug": "boris",
+    "slug": "boris-gypsy-vanner-black-tobiano-gelding",
     "title": "Boris",
     "price": 10300,
     "short_desc": "2015 Gypsy Vanner Black Tobiano Gelding 14.3 Hands",
@@ -401,7 +401,7 @@
   },
   {
     "id": 578,
-    "slug": "boss",
+    "slug": "boss-dutch-warmblood-bay-gelding",
     "title": "Boss",
     "price": 12000,
     "short_desc": "2015 Dutch Warmblood Bay Gelding 17 Hands",
@@ -411,7 +411,7 @@
   },
   {
     "id": 581,
-    "slug": "bourbon",
+    "slug": "bourbon-quarter-horse-palomino-gelding",
     "title": "Bourbon",
     "price": 8000,
     "short_desc": "2014 Quarter Horse Palomino Gelding 15 Hands",
@@ -421,7 +421,7 @@
   },
   {
     "id": 584,
-    "slug": "breeze",
+    "slug": "breeze-quarter-horse-black-gelding",
     "title": "Breeze",
     "price": 9000,
     "short_desc": "2016 Quarter Horse Black Gelding 15 Hands",
@@ -431,7 +431,7 @@
   },
   {
     "id": 586,
-    "slug": "broli",
+    "slug": "broli-quarter-horse-buckskin-gelding",
     "title": "Broli",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 15 Hands",
@@ -441,7 +441,7 @@
   },
   {
     "id": 589,
-    "slug": "bruce lee",
+    "slug": "bruce-lee-paint-horse-sorrel-overo-gelding",
     "title": "Bruce Lee",
     "price": 7000,
     "short_desc": "2016 Paint Horse Sorrel Overo Gelding 15 Hands",
@@ -451,7 +451,7 @@
   },
   {
     "id": 592,
-    "slug": "bubblegum",
+    "slug": "bubblegum-quarter-horse-buckskin-gelding",
     "title": "Bubblegum",
     "price": 9300,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 14.2 hands",
@@ -461,7 +461,7 @@
   },
   {
     "id": 595,
-    "slug": "bucky",
+    "slug": "bucky-quarter-horse-grulla-gelding",
     "title": "Bucky",
     "price": 8600,
     "short_desc": "2017 Quarter Horse Grulla Gelding 15.1 Hands",
@@ -471,7 +471,7 @@
   },
   {
     "id": 598,
-    "slug": "buzz",
+    "slug": "buzz-quarter-horse-buckskin-gelding",
     "title": "Buzz",
     "price": 8700,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 15.3 Hands",
@@ -481,7 +481,7 @@
   },
   {
     "id": 601,
-    "slug": "calypso",
+    "slug": "calypso-gypsy-vanner-black-gelding",
     "title": "Calypso",
     "price": 9500,
     "short_desc": "2015 Gypsy Vanner Black Gelding 14.2 Hands",
@@ -491,7 +491,7 @@
   },
   {
     "id": 604,
-    "slug": "captain",
+    "slug": "captain-friesian-x-morgan-bay-gelding",
     "title": "Captain",
     "price": 9500,
     "short_desc": "2016 Friesian x Morgan Bay Gelding 16 Hands",
@@ -501,7 +501,7 @@
   },
   {
     "id": 607,
-    "slug": "carson",
+    "slug": "carson-gypsy-vanner-buckskin-gelding",
     "title": "Carson",
     "price": 9700,
     "short_desc": "2016 Gypsy Vanner Buckskin Gelding 14.3 Hands",
@@ -511,7 +511,7 @@
   },
   {
     "id": 610,
-    "slug": "casanova",
+    "slug": "casanova-paint-horse-buckskin-tobiano-gelding",
     "title": "Casanova",
     "price": 8300,
     "short_desc": "2016 Paint Horse Buckskin Tobiano Gelding 14.3 Hands",
@@ -521,7 +521,7 @@
   },
   {
     "id": 613,
-    "slug": "cash",
+    "slug": "cash-quarter-horse-buckskin-gelding",
     "title": "Cash",
     "price": 8800,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 15 Hands",
@@ -531,7 +531,7 @@
   },
   {
     "id": 616,
-    "slug": "champion",
+    "slug": "champion-quarter-horse-chestnut-gelding",
     "title": "Champion",
     "price": 8400,
     "short_desc": "2015 Quarter Horse Chestnut Gelding 15 Hands",
@@ -541,7 +541,7 @@
   },
   {
     "id": 619,
-    "slug": "cherokee",
+    "slug": "cherokee-quarter-horse-blue-roan-gelding",
     "title": "Cherokee",
     "price": 9200,
     "short_desc": "2017 Quarter Horse Blue Roan Gelding 15.2 Hands",
@@ -551,7 +551,7 @@
   },
   {
     "id": 622,
-    "slug": "chewy",
+    "slug": "chewy-quarter-horse-red-roan-gelding",
     "title": "Chewy",
     "price": 7500,
     "short_desc": "2016 Quarter Horse Red Roan Gelding 15 Hands",
@@ -561,7 +561,7 @@
   },
   {
     "id": 625,
-    "slug": "cheyenne",
+    "slug": "cheyenne-percheron-cross-horse-black-gelding",
     "title": "Cheyenne",
     "price": 7000,
     "short_desc": "2016 Percheron Cross Horse Black Gelding 16.2 Hands",
@@ -571,7 +571,7 @@
   },
   {
     "id": 628,
-    "slug": "chlautile",
+    "slug": "chlautile-paint-horse-palomino-tobiano-mare",
     "title": "Chlautile",
     "price": 6500,
     "short_desc": "2015 Paint Horse Palomino Tobiano Mare 15.1 Hands",
@@ -581,7 +581,7 @@
   },
   {
     "id": 631,
-    "slug": "colabo",
+    "slug": "colabo-gypsy-vanner-horse-black-overo-gelding",
     "title": "Colabo",
     "price": 9800,
     "short_desc": "2017 Gypsy Vanner Horse Black Overo Gelding 15 Hands",
@@ -591,7 +591,7 @@
   },
   {
     "id": 634,
-    "slug": "copper",
+    "slug": "copper-quarter-horse-black-gelding",
     "title": "Copper",
     "price": 6700,
     "short_desc": "2014 Quarter Horse Black Gelding 15.1 Hands",
@@ -601,7 +601,7 @@
   },
   {
     "id": 637,
-    "slug": "cougar",
+    "slug": "cougar-tennessee-walking-horse-chocolate-tobiano-gelding",
     "title": "Cougar",
     "price": 6900,
     "short_desc": "2015 Tennessee Walking Horse Chocolate Tobiano Gelding 15.1 Hands",
@@ -611,7 +611,7 @@
   },
   {
     "id": 640,
-    "slug": "cruiser",
+    "slug": "cruiser-quarter-horse-gray-gelding",
     "title": "Cruiser",
     "price": 8700,
     "short_desc": "2014 Quarter Horse Gray Gelding 15.1 Hands",
@@ -621,7 +621,7 @@
   },
   {
     "id": 643,
-    "slug": "cruz",
+    "slug": "cruz-warmblood-horse-bay-gelding",
     "title": "Cruz",
     "price": 10800,
     "short_desc": "2014 Warmblood Horse Bay Gelding 16.2 Hands",
@@ -631,7 +631,7 @@
   },
   {
     "id": 646,
-    "slug": "cupid",
+    "slug": "cupid-quarter-horse-sorrel-gelding",
     "title": "Cupid",
     "price": 8300,
     "short_desc": "2016 Quarter Horse Sorrel Gelding 15 Hands",
@@ -641,7 +641,7 @@
   },
   {
     "id": 649,
-    "slug": "cynthia",
+    "slug": "cynthia-paint-horse-chestnut-tobiano-mare",
     "title": "Cynthia",
     "price": 7900,
     "short_desc": "2016 Paint Horse Chestnut Tobiano Mare 14.1 Hands",
@@ -651,7 +651,7 @@
   },
   {
     "id": 652,
-    "slug": "cyrus",
+    "slug": "cyrus-mule-horse-bay-gelding",
     "title": "Cyrus",
     "price": 7400,
     "short_desc": "2016 Mule Horse Bay Gelding 14 Hands",
@@ -661,7 +661,7 @@
   },
   {
     "id": 655,
-    "slug": "daisy",
+    "slug": "daisy-spotted-saddle-champaign-mare",
     "title": "Daisy",
     "price": 5900,
     "short_desc": "2015 Spotted Saddle Champaign Mare 14.2 Hands",
@@ -671,7 +671,7 @@
   },
   {
     "id": 658,
-    "slug": "dallas",
+    "slug": "dallas-quarter-horse-palomino-gelding-gelding",
     "title": "Dallas",
     "price": 9200,
     "short_desc": "2016 Quarter Horse Palomino Gelding Gelding 16 Hands",
@@ -681,7 +681,7 @@
   },
   {
     "id": 661,
-    "slug": "dandy",
+    "slug": "dandy-quarter-horse-chestnut-gelding",
     "title": "Dandy",
     "price": 8300,
     "short_desc": "2016 Quarter Horse Chestnut Gelding 15 Hands",
@@ -691,7 +691,7 @@
   },
   {
     "id": 664,
-    "slug": "danny",
+    "slug": "danny-quarter-horse-buckskin-gelding",
     "title": "Danny",
     "price": 8200,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 15 Hands",
@@ -701,7 +701,7 @@
   },
   {
     "id": 667,
-    "slug": "dante",
+    "slug": "dante-quarter-horse-sorrel-gelding",
     "title": "Dante",
     "price": 8000,
     "short_desc": "2016 Quarter Horse Sorrel Gelding 15.2 Hands",
@@ -711,7 +711,7 @@
   },
   {
     "id": 670,
-    "slug": "darrion",
+    "slug": "darrion-mustang-horse-grulla-w/-stripes-gelding",
     "title": "Darrion",
     "price": 9800,
     "short_desc": "2016 Mustang Horse Grulla W/ Stripes Gelding 15 Hands",
@@ -721,7 +721,7 @@
   },
   {
     "id": 673,
-    "slug": "dash",
+    "slug": "dash-quarter-horse-palomino-gelding",
     "title": "Dash",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Palomino Gelding 15.2 Hands",
@@ -731,7 +731,7 @@
   },
   {
     "id": 676,
-    "slug": "david",
+    "slug": "david-pony-horse-palomino-paint-gelding",
     "title": "David",
     "price": 7000,
     "short_desc": "2015 Pony Horse Palomino Paint Gelding 13.3 Hands",
@@ -741,7 +741,7 @@
   },
   {
     "id": 679,
-    "slug": "davis",
+    "slug": "davis-azteca-horse-blue-roan-gelding",
     "title": "Davis",
     "price": 5400,
     "short_desc": "2016 Azteca Horse Blue Roan Gelding 14.3 Hands",
@@ -751,7 +751,7 @@
   },
   {
     "id": 682,
-    "slug": "deputy",
+    "slug": "deputy-quarter-horse-buckskin-gelding",
     "title": "Deputy",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 15 Hands",
@@ -761,7 +761,7 @@
   },
   {
     "id": 685,
-    "slug": "diamond",
+    "slug": "diamond-gypsy-vanner-horse-black-and-white-mare",
     "title": "Diamond",
     "price": 9500,
     "short_desc": "2018 Gypsy Vanner Horse Black and White Mare 14 Hands",
@@ -771,7 +771,7 @@
   },
   {
     "id": 688,
-    "slug": "diego",
+    "slug": "diego-draft-cross-horse-grey-gelding",
     "title": "Diego",
     "price": 8500,
     "short_desc": "2016 Draft cross Horse Grey Gelding 16.1 Hands",
@@ -781,7 +781,7 @@
   },
   {
     "id": 691,
-    "slug": "disco",
+    "slug": "disco-quarter-horse-sorrel-gelding",
     "title": "Disco",
     "price": 8400,
     "short_desc": "2016 Quarter Horse Sorrel Gelding 15 Hands",
@@ -791,7 +791,7 @@
   },
   {
     "id": 694,
-    "slug": "diva",
+    "slug": "diva-mule-horse-bay-mare",
     "title": "Diva",
     "price": 6900,
     "short_desc": "2016 Mule Horse Bay Mare 15 Hands",
@@ -801,7 +801,7 @@
   },
   {
     "id": 697,
-    "slug": "dorian",
+    "slug": "dorian-dutch-warmblood-horse-black-mare",
     "title": "Dorian",
     "price": 11300,
     "short_desc": "2017 Dutch Warmblood Horse Black Mare 16 Hands",
@@ -811,7 +811,7 @@
   },
   {
     "id": 700,
-    "slug": "dots and dashes",
+    "slug": "dots-and-dashes-appaloosa-horse-red-roan-gelding",
     "title": "Dots and Dashes",
     "price": 9000,
     "short_desc": "2017 Appaloosa Horse Red Roan Gelding 15.1 Hands",
@@ -824,7 +824,7 @@
   },
   {
     "id": 703,
-    "slug": "dream",
+    "slug": "dream-paint-horse-palomino-gelding",
     "title": "Dream",
     "price": 7400,
     "short_desc": "2015 Paint Horse Palomino Gelding 15.2 Hands",
@@ -834,7 +834,7 @@
   },
   {
     "id": 706,
-    "slug": "dusty",
+    "slug": "dusty-quarter-horse-sorrel-gelding",
     "title": "Dusty",
     "price": 8000,
     "short_desc": "2015 Quarter Horse Sorrel Gelding 14.2 Hands",
@@ -844,7 +844,7 @@
   },
   {
     "id": 709,
-    "slug": "eclipse",
+    "slug": "eclipse-gypsy-vanner-black-gelding",
     "title": "Eclipse",
     "price": 12000,
     "short_desc": "2014 Gypsy Vanner Black Gelding 14.1 Hands",
@@ -854,7 +854,7 @@
   },
   {
     "id": 712,
-    "slug": "elsie",
+    "slug": "elsie-gypsy-vanner-horse-cremello-mare",
     "title": "Elsie",
     "price": 9400,
     "short_desc": "2016 Gypsy Vanner Horse Cremello Mare 15 Hands",
@@ -864,7 +864,7 @@
   },
   {
     "id": 715,
-    "slug": "eresen",
+    "slug": "eresen-missouri-fox-trotter-horse-blue-roan-gelding",
     "title": "Eresen",
     "price": 7700,
     "short_desc": "2016 Missouri Fox Trotter Horse Blue Roan Gelding 15.1 Hands",
@@ -874,7 +874,7 @@
   },
   {
     "id": 718,
-    "slug": "excellence",
+    "slug": "excellence-quarter-horse-dapple-grey-gelding",
     "title": "Excellence",
     "price": 8200,
     "short_desc": "2017 Quarter Horse Dapple Grey Gelding 15.1 Hands",
@@ -884,7 +884,7 @@
   },
   {
     "id": 721,
-    "slug": "fiona",
+    "slug": "fiona-draft-cross-horse-bay-tobiano-mare",
     "title": "Fiona",
     "price": 8000,
     "short_desc": "2015 Draft Cross Horse Bay Tobiano Mare 16 Hands",
@@ -894,7 +894,7 @@
   },
   {
     "id": 724,
-    "slug": "florence",
+    "slug": "florence-paint-horse-palomino-overo-mare",
     "title": "Florence",
     "price": 6000,
     "short_desc": "2017 Paint Horse Palomino Overo Mare 15 Hands",
@@ -904,7 +904,7 @@
   },
   {
     "id": 727,
-    "slug": "fluffy",
+    "slug": "fluffy-gypsy-vanner-tobiano-gelding",
     "title": "Fluffy",
     "price": 9700,
     "short_desc": "2017 Gypsy Vanner Tobiano Gelding 14 Hands",
@@ -914,7 +914,7 @@
   },
   {
     "id": 730,
-    "slug": "genie",
+    "slug": "genie-tennessee-walking-horse-bay-mare",
     "title": "Genie",
     "price": 8000,
     "short_desc": "2016 Tennessee Walking Horse Bay Mare 15.1 Hands",
@@ -924,7 +924,7 @@
   },
   {
     "id": 733,
-    "slug": "genius",
+    "slug": "genius-quarter-horse-red-roan-gelding",
     "title": "Genius",
     "price": 8200,
     "short_desc": "2015 Quarter Horse Red Roan Gelding 15.1 Hands",
@@ -934,7 +934,7 @@
   },
   {
     "id": 736,
-    "slug": "george",
+    "slug": "george-quarter-horse-red-roan-gelding",
     "title": "George",
     "price": 8200,
     "short_desc": "2017 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -944,7 +944,7 @@
   },
   {
     "id": 739,
-    "slug": "ghost",
+    "slug": "ghost-quarter-horse-red-roan-gelding",
     "title": "Ghost",
     "price": 8300,
     "short_desc": "2016 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -954,7 +954,7 @@
   },
   {
     "id": 742,
-    "slug": "ginger",
+    "slug": "ginger-paint-horse-tobiano-gelding",
     "title": "Ginger",
     "price": 8500,
     "short_desc": "2017 Paint Horse Tobiano Gelding 15 Hands",
@@ -964,7 +964,7 @@
   },
   {
     "id": 745,
-    "slug": "gizmo",
+    "slug": "gizmo-quarter-horse-palomino-gelding",
     "title": "Gizmo",
     "price": 8600,
     "short_desc": "2015 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -974,7 +974,7 @@
   },
   {
     "id": 747,
-    "slug": "gold",
+    "slug": "gold-gypsy-vanner-horse-champagne-tobiano-gelding",
     "title": "Gold",
     "price": 9400,
     "short_desc": "2016 Gypsy Vanner Horse Champagne Tobiano Gelding 15 Hands",
@@ -984,7 +984,7 @@
   },
   {
     "id": 750,
-    "slug": "goldie",
+    "slug": "goldie-paint-horse-tobiano-gelding",
     "title": "Goldie",
     "price": 7000,
     "short_desc": "2016 Paint Horse Tobiano Gelding 15 Hands",
@@ -994,7 +994,7 @@
   },
   {
     "id": 753,
-    "slug": "goliath",
+    "slug": "goliath-quarter-horse-palomino-gelding",
     "title": "Goliath",
     "price": 9000,
     "short_desc": "2015 Quarter Horse Palomino Gelding 15.1 Hands",
@@ -1004,7 +1004,7 @@
   },
   {
     "id": 756,
-    "slug": "gucci",
+    "slug": "gucci-quarter-horse-red-roan-gelding",
     "title": "Gucci",
     "price": 5300,
     "short_desc": "2016 Quarter Horse Red Roan Gelding 15.1 Hand",
@@ -1014,7 +1014,7 @@
   },
   {
     "id": 759,
-    "slug": "gunner",
+    "slug": "gunner-paint-horse-sorrel-overo-gelding",
     "title": "Gunner",
     "price": 6800,
     "short_desc": "2016 Paint Horse Sorrel Overo Gelding 14.3 Hands",
@@ -1024,7 +1024,7 @@
   },
   {
     "id": 762,
-    "slug": "hanna",
+    "slug": "hanna-tennessee-walking-horse-grey-mare",
     "title": "Hanna",
     "price": 7600,
     "short_desc": "2016 Tennessee Walking Horse Grey Mare 14.2 Hands",
@@ -1034,7 +1034,7 @@
   },
   {
     "id": 765,
-    "slug": "harvey",
+    "slug": "harvey-quarter-horse-black-gelding",
     "title": "Harvey",
     "price": 8000,
     "short_desc": "2015 Quarter Horse Black Gelding 15.1 Hands",
@@ -1044,7 +1044,7 @@
   },
   {
     "id": 768,
-    "slug": "henry",
+    "slug": "henry-gypsy-vanner-piebald-gelding",
     "title": "Henry",
     "price": 8500,
     "short_desc": "2017 Gypsy Vanner Piebald Gelding 14.1 Hands",
@@ -1054,7 +1054,7 @@
   },
   {
     "id": 771,
-    "slug": "hercules",
+    "slug": "hercules-quarter-horse-bay-gelding",
     "title": "Hercules",
     "price": 7800,
     "short_desc": "2016 Quarter Horse Bay Gelding 15 Hands",
@@ -1064,7 +1064,7 @@
   },
   {
     "id": 774,
-    "slug": "hero",
+    "slug": "hero-quarter-horse-sorrel-gelding",
     "title": "Hero",
     "price": 8000,
     "short_desc": "2016 Quarter Horse Sorrel Gelding 16.2 Hands",
@@ -1078,7 +1078,7 @@
   },
   {
     "id": 778,
-    "slug": "amarillo",
+    "slug": "amarillo-quarter-horse-palomino-gelding",
     "title": "Amarillo",
     "price": 7900,
     "short_desc": "2016 Quarter Horse Palomino Gelding 15 Hands",
@@ -1088,7 +1088,7 @@
   },
   {
     "id": 781,
-    "slug": "hershey",
+    "slug": "hershey-draft-cross-horse-grulla-w/-stripes-gelding",
     "title": "Hershey",
     "price": 7700,
     "short_desc": "2015 Draft cross Horse Grulla w/ Stripes Gelding 16.3 Hands",
@@ -1098,7 +1098,7 @@
   },
   {
     "id": 784,
-    "slug": "hidalgo",
+    "slug": "hidalgo-dutch-warmblood-grey-gelding",
     "title": "Hidalgo",
     "price": 10800,
     "short_desc": "2016 Dutch Warmblood Grey Gelding 16.1 Hands",
@@ -1108,7 +1108,7 @@
   },
   {
     "id": 787,
-    "slug": "hildi",
+    "slug": "hildi-warmblood-horse-bay-gelding",
     "title": "Hildi",
     "price": 10900,
     "short_desc": "2015 Warmblood Horse Bay Gelding 16.3 Hands",
@@ -1118,7 +1118,7 @@
   },
   {
     "id": 790,
-    "slug": "holiday",
+    "slug": "holiday-paint-horse-gray-gelding",
     "title": "Holiday",
     "price": 7600,
     "short_desc": "2015 Paint Horse Gray Gelding 14.1 Hands",
@@ -1128,7 +1128,7 @@
   },
   {
     "id": 793,
-    "slug": "hunter",
+    "slug": "hunter-quarter-horse-palomino-gelding",
     "title": "Hunter",
     "price": 7400,
     "short_desc": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -1138,7 +1138,7 @@
   },
   {
     "id": 796,
-    "slug": "ivar",
+    "slug": "ivar-belgian-warmblood-horse-bay-gelding",
     "title": "Ivar",
     "price": 14000,
     "short_desc": "2016 Belgian Warmblood Horse Bay Gelding 16 Hands",
@@ -1148,7 +1148,7 @@
   },
   {
     "id": 798,
-    "slug": "jackpots",
+    "slug": "jackpots-friesian-horse-black-gelding",
     "title": "Jackpots",
     "price": 10500,
     "short_desc": "2016 Friesian Horse Black Gelding 16.1 Hands",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": 801,
-    "slug": "jimmy",
+    "slug": "jimmy-quarter-horse-palomino-gelding",
     "title": "Jimmy",
     "price": 8200,
     "short_desc": "2017 Quarter Horse Palomino Gelding 15 Hands",
@@ -1168,7 +1168,7 @@
   },
   {
     "id": 804,
-    "slug": "jockey",
+    "slug": "jockey-pony-horse-bay-gelding",
     "title": "Jockey",
     "price": 12800,
     "short_desc": "2014 Pony Horse Bay Gelding 14.1 Hands",
@@ -1178,7 +1178,7 @@
   },
   {
     "id": 807,
-    "slug": "jubline",
+    "slug": "jubline-gypsy-vanner-horse-black-tobiano-mare",
     "title": "Jubline",
     "price": 9500,
     "short_desc": "2018 Gypsy Vanner Horse Black Tobiano Mare 14.1 Hands",
@@ -1188,7 +1188,7 @@
   },
   {
     "id": 810,
-    "slug": "justice",
+    "slug": "justice-friesian-horse-black-gelding",
     "title": "Justice",
     "price": 9000,
     "short_desc": "2016 Friesian Horse Black Gelding 17.2 Hands",
@@ -1198,7 +1198,7 @@
   },
   {
     "id": 813,
-    "slug": "justin",
+    "slug": "justin-quarter-horse-buckskin-gelding",
     "title": "Justin",
     "price": 8300,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 14.3 Hands",
@@ -1208,7 +1208,7 @@
   },
   {
     "id": 816,
-    "slug": "kingsley",
+    "slug": "kingsley-quarter-horse-roan-gelding",
     "title": "Kingsley",
     "price": 8800,
     "short_desc": "2016 Quarter Horse Roan Gelding 15 Hands",
@@ -1218,7 +1218,7 @@
   },
   {
     "id": 819,
-    "slug": "kipper",
+    "slug": "kipper-quarter-horse-bay-roan-gelding",
     "title": "Kipper",
     "price": 8300,
     "short_desc": "2016 Quarter Horse Bay Roan Gelding 15 Hands",
@@ -1228,7 +1228,7 @@
   },
   {
     "id": 822,
-    "slug": "kobby",
+    "slug": "kobby-paint-horse-palomino-overo-mare",
     "title": "Kobby",
     "price": 6900,
     "short_desc": "2016 Paint Horse Palomino Overo Mare 15.3 Hands",
@@ -1238,7 +1238,7 @@
   },
   {
     "id": 825,
-    "slug": "legacy",
+    "slug": "legacy-quarter-horse-blue-roan-gelding",
     "title": "Legacy",
     "price": 8000,
     "short_desc": "2015 Quarter Horse Blue Roan Gelding 14.3 Hands",
@@ -1248,7 +1248,7 @@
   },
   {
     "id": 828,
-    "slug": "legend",
+    "slug": "legend-quarter-horse-palomino-gelding",
     "title": "Legend",
     "price": 8800,
     "short_desc": "2016 Quarter Horse Palomino Gelding 15.1 Hands",
@@ -1258,7 +1258,7 @@
   },
   {
     "id": 831,
-    "slug": "leo",
+    "slug": "leo-quarter-horse-chestnut-gelding",
     "title": "Leo",
     "price": 9000,
     "short_desc": "2015 Quarter Horse Chestnut Gelding 15 Hands",
@@ -1268,7 +1268,7 @@
   },
   {
     "id": 834,
-    "slug": "lilly",
+    "slug": "lilly-draft-percheron-qh-bay-mare",
     "title": "Lilly",
     "price": 4700,
     "short_desc": "2017 Draft Percheron QH Bay Mare 15.2 Hands",
@@ -1278,7 +1278,7 @@
   },
   {
     "id": 837,
-    "slug": "lollipop",
+    "slug": "lollipop-quarter-horse-red-roan-mare",
     "title": "Lollipop",
     "price": 8400,
     "short_desc": "2016 Quarter Horse Red Roan Mare 15.1 Hands",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": 840,
-    "slug": "lucky",
+    "slug": "lucky-quarter-horse-buckskin-gelding",
     "title": "Lucky",
     "price": 7400,
     "short_desc": "2015 Quarter Horse Buckskin Gelding 15.1 Hands",
@@ -1298,7 +1298,7 @@
   },
   {
     "id": 843,
-    "slug": "lucy",
+    "slug": "lucy-quarter-horse-buckskin-mare",
     "title": "Lucy",
     "price": 8500,
     "short_desc": "2015 Quarter Horse Buckskin Mare 15 Hands",
@@ -1308,7 +1308,7 @@
   },
   {
     "id": 846,
-    "slug": "luna",
+    "slug": "luna-warmblood-horse-bay-&amp;-white-gelding",
     "title": "Luna",
     "price": 9500,
     "short_desc": "2016 Warmblood Horse Bay &amp; White Gelding 16.2 Hands",
@@ -1318,7 +1318,7 @@
   },
   {
     "id": 849,
-    "slug": "lyrical",
+    "slug": "lyrical-appaloosa-chestnut-gelding",
     "title": "Lyrical",
     "price": 7400,
     "short_desc": "2017 Appaloosa Chestnut Gelding 16 Hands",
@@ -1328,7 +1328,7 @@
   },
   {
     "id": 852,
-    "slug": "magic",
+    "slug": "magic-quarter-horse-black-gelding",
     "title": "Magic",
     "price": 8300,
     "short_desc": "2016 Quarter Horse Black Gelding 15 Hand",
@@ -1338,7 +1338,7 @@
   },
   {
     "id": 855,
-    "slug": "mariah",
+    "slug": "mariah-quarter-horse-buckskin-mare",
     "title": "Mariah",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Buckskin Mare 15.1 Hands",
@@ -1348,7 +1348,7 @@
   },
   {
     "id": 858,
-    "slug": "mario",
+    "slug": "mario-gypsy-vanner-black-gelding",
     "title": "Mario",
     "price": 9600,
     "short_desc": "2016 Gypsy Vanner Black Gelding 14.3 Hands",
@@ -1358,7 +1358,7 @@
   },
   {
     "id": 861,
-    "slug": "master",
+    "slug": "master-quarter-horse-blue-roan-gelding",
     "title": "Master",
     "price": 9200,
     "short_desc": "2016 Quarter Horse Blue roan Gelding 15.2 Hands",
@@ -1368,7 +1368,7 @@
   },
   {
     "id": 864,
-    "slug": "maxine",
+    "slug": "maxine-friesian-horse-black-mare",
     "title": "Maxine",
     "price": 9500,
     "short_desc": "2017 Friesian Horse Black Mare 16 Hands",
@@ -1378,7 +1378,7 @@
   },
   {
     "id": 867,
-    "slug": "mercedes",
+    "slug": "mercedes-quarter-horse-sorrel-gelding",
     "title": "Mercedes",
     "price": 7500,
     "short_desc": "2017 Quarter Horse Sorrel Gelding 14.2 Hands",
@@ -1388,7 +1388,7 @@
   },
   {
     "id": 870,
-    "slug": "mick",
+    "slug": "mick-quarter-horse-buckskin-gelding",
     "title": "Mick",
     "price": 7600,
     "short_desc": "2015 Quarter Horse Buckskin Gelding 15 Hands",
@@ -1398,7 +1398,7 @@
   },
   {
     "id": 873,
-    "slug": "mickey",
+    "slug": "mickey-paint-horse-bay-overo-gelding",
     "title": "Mickey",
     "price": 6500,
     "short_desc": "2015 Paint Horse Bay Overo Gelding 15.3 Hands",
@@ -1408,7 +1408,7 @@
   },
   {
     "id": 876,
-    "slug": "midnight",
+    "slug": "midnight-quarter-horse-bay-gelding",
     "title": "Midnight",
     "price": 7300,
     "short_desc": "2016 Quarter Horse Bay Gelding 15 Hands",
@@ -1418,7 +1418,7 @@
   },
   {
     "id": 879,
-    "slug": "missy",
+    "slug": "missy-quarter-horse-black-mare",
     "title": "Missy",
     "price": 8500,
     "short_desc": "2015 Quarter Horse Black Mare 15.1 Hands",
@@ -1428,7 +1428,7 @@
   },
   {
     "id": 882,
-    "slug": "moana",
+    "slug": "moana-andalusian-bay-mare",
     "title": "Moana",
     "price": 7900,
     "short_desc": "2016 Andalusian Bay Mare 15.2 Hands",
@@ -1438,7 +1438,7 @@
   },
   {
     "id": 885,
-    "slug": "mocha",
+    "slug": "mocha-quarter-horse-gray-gelding",
     "title": "Mocha",
     "price": 8400,
     "short_desc": "2017 Quarter Horse Gray Gelding 15 Hands",
@@ -1448,7 +1448,7 @@
   },
   {
     "id": 888,
-    "slug": "montana",
+    "slug": "montana-quarter-horse-palomino-gelding",
     "title": "Montana",
     "price": 8300,
     "short_desc": "2015 Quarter Horse Palomino Gelding 15.1 Hands",
@@ -1458,7 +1458,7 @@
   },
   {
     "id": 891,
-    "slug": "moonshine",
+    "slug": "moonshine-quarter-horse-palomino-gelding",
     "title": "Moonshine",
     "price": 7500,
     "short_desc": "2014 Quarter Horse Palomino Gelding 15.1 Hands",
@@ -1468,7 +1468,7 @@
   },
   {
     "id": 894,
-    "slug": "mylene",
+    "slug": "mylene-quarter-horse-palomino-mare",
     "title": "Mylene",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Palomino Mare 15 Hands",
@@ -1478,7 +1478,7 @@
   },
   {
     "id": 897,
-    "slug": "nacho",
+    "slug": "nacho-quarter-horse-chestnut-gelding",
     "title": "Nacho",
     "price": 7400,
     "short_desc": "2015 Quarter Horse Chestnut Gelding 15.1 Hands",
@@ -1488,7 +1488,7 @@
   },
   {
     "id": 900,
-    "slug": "olaf",
+    "slug": "olaf-quarter-horse-gray-gelding",
     "title": "Olaf",
     "price": 6200,
     "short_desc": "2015 Quarter Horse Gray Gelding 15 Hands",
@@ -1498,7 +1498,7 @@
   },
   {
     "id": 902,
-    "slug": "outlaw",
+    "slug": "outlaw-quarter-horse-palomino-gelding",
     "title": "Outlaw",
     "price": 8700,
     "short_desc": "2015 Quarter Horse Palomino Gelding 15 Hands",
@@ -1508,7 +1508,7 @@
   },
   {
     "id": 905,
-    "slug": "paco",
+    "slug": "paco-paint-horse-bay-gelding",
     "title": "Paco",
     "price": 7500,
     "short_desc": "2016 Paint Horse Bay Gelding 14.3 Hands",
@@ -1518,7 +1518,7 @@
   },
   {
     "id": 908,
-    "slug": "parfect",
+    "slug": "parfect-quarter-horse-red-dun-gelding",
     "title": "Parfect",
     "price": 8000,
     "short_desc": "2014 Quarter Horse Red Dun Gelding 14.3 Hands",
@@ -1528,7 +1528,7 @@
   },
   {
     "id": 911,
-    "slug": "patrick",
+    "slug": "patrick-quarter-horse-sorrel-gelding",
     "title": "Patrick",
     "price": 7700,
     "short_desc": "2015 Quarter Horse Sorrel Gelding 15 Hands",
@@ -1538,7 +1538,7 @@
   },
   {
     "id": 914,
-    "slug": "patriot",
+    "slug": "patriot-quarter-horse-bay-roan-gelding",
     "title": "Patriot",
     "price": 8400,
     "short_desc": "2015 Quarter Horse Bay Roan Gelding 15 Hands",
@@ -1548,7 +1548,7 @@
   },
   {
     "id": 917,
-    "slug": "peach",
+    "slug": "peach-quarter-horse-red-dun-gelding",
     "title": "Peach",
     "price": 6800,
     "short_desc": "2014 Quarter Horse Red Dun Gelding 14.3 Hands",
@@ -1558,7 +1558,7 @@
   },
   {
     "id": 920,
-    "slug": "pepper",
+    "slug": "pepper-quarter-horse-bay-gelding",
     "title": "Pepper",
     "price": 8600,
     "short_desc": "2017 Quarter Horse Bay Gelding 15. Hands",
@@ -1568,7 +1568,7 @@
   },
   {
     "id": 923,
-    "slug": "phantom",
+    "slug": "phantom-quarter-horse-buckskin-dun-gelding",
     "title": "Phantom",
     "price": 8500,
     "short_desc": "2017 Quarter Horse Buckskin Dun Gelding 15.1 Hands",
@@ -1578,7 +1578,7 @@
   },
   {
     "id": 926,
-    "slug": "phyno",
+    "slug": "phyno-paint-horse-tobiano-gelding",
     "title": "Phyno",
     "price": 8300,
     "short_desc": "2016 Paint Horse Tobiano Gelding 15 Hands",
@@ -1588,7 +1588,7 @@
   },
   {
     "id": 928,
-    "slug": "picasso",
+    "slug": "picasso-missouri-fox-trotter-pinto-mare",
     "title": "Picasso",
     "price": 6000,
     "short_desc": "2016 Missouri Fox Trotter Pinto Mare 15.1 Hands",
@@ -1598,7 +1598,7 @@
   },
   {
     "id": 931,
-    "slug": "picolo",
+    "slug": "picolo-paint-horse-bay-tobiano-gelding",
     "title": "Picolo",
     "price": 7000,
     "short_desc": "2015 Paint Horse Bay Tobiano Gelding 14.2 Hands",
@@ -1608,7 +1608,7 @@
   },
   {
     "id": 934,
-    "slug": "pirate",
+    "slug": "pirate-quarter-horse-gray-gelding",
     "title": "Pirate",
     "price": 5800,
     "short_desc": "2016 Quarter Horse Gray Gelding 15.1 Hands",
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 937,
-    "slug": "prince",
+    "slug": "prince-pony-horse-bay-gelding",
     "title": "Prince",
     "price": 4500,
     "short_desc": "2020 Pony Horse Bay Gelding 7.2 Hands",
@@ -1628,7 +1628,7 @@
   },
   {
     "id": 940,
-    "slug": "queen",
+    "slug": "queen-quarter-horse-buckskin-mare",
     "title": "Queen",
     "price": 8000,
     "short_desc": "2016 Quarter Horse Buckskin Mare 14.3 Hands",
@@ -1638,7 +1638,7 @@
   },
   {
     "id": 943,
-    "slug": "queency",
+    "slug": "queency-paint-horse-red-roan-and-white-mare",
     "title": "Queency",
     "price": 6500,
     "short_desc": "2017 Paint Horse Red Roan and White Mare 15 Hands",
@@ -1648,7 +1648,7 @@
   },
   {
     "id": 946,
-    "slug": "rambo",
+    "slug": "rambo-draft-cross-black-gelding",
     "title": "Rambo",
     "price": 9000,
     "short_desc": "2016 Draft Cross Black Gelding 16 Hands",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": 949,
-    "slug": "ramos",
+    "slug": "ramos-quarter-horse-gray-gelding",
     "title": "Ramos",
     "price": 8500,
     "short_desc": "2017 Quarter Horse Gray Gelding 14.3 Hands",
@@ -1668,7 +1668,7 @@
   },
   {
     "id": 952,
-    "slug": "randy",
+    "slug": "randy-quarter-horse-buckskin-gelding",
     "title": "Randy",
     "price": 8500,
     "short_desc": "2017 Quarter Horse Buckskin Gelding 15.2 Hands",
@@ -1678,7 +1678,7 @@
   },
   {
     "id": 955,
-    "slug": "rascal",
+    "slug": "rascal-quarter-horse-buckskin-gelding",
     "title": "Rascal",
     "price": 8600,
     "short_desc": "2017 Quarter Horse Buckskin Gelding 14.3 Hands",
@@ -1688,7 +1688,7 @@
   },
   {
     "id": 958,
-    "slug": "rebel",
+    "slug": "rebel-quarter-horse-palomino-gelding",
     "title": "Rebel",
     "price": 8800,
     "short_desc": "2017 Quarter Horse Palomino Gelding 15 Hands",
@@ -1698,7 +1698,7 @@
   },
   {
     "id": 961,
-    "slug": "red bloom",
+    "slug": "red-bloom-quarter-horse-dun-mare",
     "title": "Red Bloom",
     "price": 8500,
     "short_desc": "2017 Quarter Horse Dun Mare 14.3 Hands",
@@ -1708,7 +1708,7 @@
   },
   {
     "id": 964,
-    "slug": "rex",
+    "slug": "rex-quarter-horse-palomino-gelding",
     "title": "Rex",
     "price": 8500,
     "short_desc": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -1718,7 +1718,7 @@
   },
   {
     "id": 967,
-    "slug": "ringo",
+    "slug": "ringo-thoroughbred-horse-bay-gelding",
     "title": "Ringo",
     "price": 11800,
     "short_desc": "2014 Thoroughbred Horse Bay Gelding 16 Hands",
@@ -1728,7 +1728,7 @@
   },
   {
     "id": 970,
-    "slug": "rita",
+    "slug": "rita-paint-horse-black-tobiano-mare",
     "title": "Rita",
     "price": 7300,
     "short_desc": "2016 Paint Horse Black Tobiano Mare 13.2 Hands",
@@ -1738,7 +1738,7 @@
   },
   {
     "id": 973,
-    "slug": "robinhood",
+    "slug": "robinhood-quarter-horse-palomino-gelding",
     "title": "Robinhood",
     "price": 8700,
     "short_desc": "2016 Quarter Horse Palomino Gelding 15 Hands",
@@ -1748,7 +1748,7 @@
   },
   {
     "id": 976,
-    "slug": "dillion",
+    "slug": "dillion-quarter-horse-buckskin-gelding",
     "title": "Dillion",
     "price": 8300,
     "short_desc": "2017 Quarter Horse Buckskin Gelding 15.1 Hands",
@@ -1758,7 +1758,7 @@
   },
   {
     "id": 979,
-    "slug": "rocky",
+    "slug": "rocky-rocky-mountain-horse-black-gelding",
     "title": "Rocky",
     "price": 8900,
     "short_desc": "2016 Rocky Mountain Horse Black Gelding 15 Hands",
@@ -1768,7 +1768,7 @@
   },
   {
     "id": 982,
-    "slug": "rose",
+    "slug": "rose-swedish-warmblood-horse-bay-mare",
     "title": "Rose",
     "price": 9700,
     "short_desc": "2016 Swedish Warmblood Horse Bay Mare 16.0 Hands",
@@ -1778,7 +1778,7 @@
   },
   {
     "id": 985,
-    "slug": "rosine",
+    "slug": "rosine-paint-horse-black-tobiano-mare",
     "title": "Rosine",
     "price": 7800,
     "short_desc": "2016 Paint Horse Black Tobiano Mare 15 Hands",
@@ -1788,7 +1788,7 @@
   },
   {
     "id": 988,
-    "slug": "roswell",
+    "slug": "roswell-pony-horse-red-roan-gelding",
     "title": "Roswell",
     "price": 6800,
     "short_desc": "2016 Pony Horse Red Roan Gelding 11.3 Hands",
@@ -1798,7 +1798,7 @@
   },
   {
     "id": 991,
-    "slug": "ruby",
+    "slug": "ruby-warmblood-horse-grey-gelding",
     "title": "Ruby",
     "price": 10800,
     "short_desc": "2017 Warmblood Horse Grey Gelding 16.0 Hands",
@@ -1808,7 +1808,7 @@
   },
   {
     "id": 994,
-    "slug": "ruz",
+    "slug": "ruz-quarter-horse-black-gelding",
     "title": "Ruz",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Black Gelding 15 Hands",
@@ -1818,7 +1818,7 @@
   },
   {
     "id": 997,
-    "slug": "sahara",
+    "slug": "sahara-quarter-horse-red-roan-gelding",
     "title": "Sahara",
     "price": 8000,
     "short_desc": "2015 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -1828,7 +1828,7 @@
   },
   {
     "id": 1000,
-    "slug": "samba king",
+    "slug": "samba-king-paint-horse-tobiano-gelding",
     "title": "Samba King",
     "price": 6500,
     "short_desc": "2015 Paint Horse Tobiano Gelding 16 Hands",
@@ -1838,7 +1838,7 @@
   },
   {
     "id": 1003,
-    "slug": "sandy",
+    "slug": "sandy-quarter-horse-buckskin-mare",
     "title": "Sandy",
     "price": 8500,
     "short_desc": "2015 Quarter Horse Buckskin Mare 15 Hands",
@@ -1848,7 +1848,7 @@
   },
   {
     "id": 1006,
-    "slug": "schatzi",
+    "slug": "schatzi-icelandic-horse-sorrel-tobiano-gelding",
     "title": "Schatzi",
     "price": 7000,
     "short_desc": "2016 Icelandic Horse Sorrel Tobiano Gelding 14.1 Hands",
@@ -1858,7 +1858,7 @@
   },
   {
     "id": 1009,
-    "slug": "scooby",
+    "slug": "scooby-quarter-horse-buckskin-gelding",
     "title": "Scooby",
     "price": 8300,
     "short_desc": "2017 Quarter Horse Buckskin Gelding 14.1 Hands",
@@ -1868,7 +1868,7 @@
   },
   {
     "id": 1011,
-    "slug": "shadow",
+    "slug": "shadow-quarter-horse-sorrel-gelding",
     "title": "Shadow",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Sorrel Gelding 14.3 Hands",
@@ -1878,7 +1878,7 @@
   },
   {
     "id": 1014,
-    "slug": "shatta",
+    "slug": "shatta-andalusian-palomino-gelding",
     "title": "Shatta",
     "price": 8000,
     "short_desc": "2016 Andalusian Palomino Gelding 15.2 Hands",
@@ -1888,7 +1888,7 @@
   },
   {
     "id": 1016,
-    "slug": "sheriff",
+    "slug": "sheriff-quarter-horse-gray-gelding",
     "title": "Sheriff",
     "price": 8700,
     "short_desc": "2016 Quarter Horse Gray Gelding 14.3 Hands",
@@ -1898,7 +1898,7 @@
   },
   {
     "id": 1019,
-    "slug": "silver",
+    "slug": "silver-quarter-horse-buckskin-mare",
     "title": "Silver",
     "price": 8600,
     "short_desc": "2015 Quarter Horse Buckskin Mare 15 Hands",
@@ -1908,7 +1908,7 @@
   },
   {
     "id": 1022,
-    "slug": "sir luiz",
+    "slug": "sir-luiz-warmblood-horse-bay-gelding",
     "title": "Sir Luiz",
     "price": 14000,
     "short_desc": "2014 Warmblood Horse Bay Gelding 16.3 Hands",
@@ -1918,7 +1918,7 @@
   },
   {
     "id": 1025,
-    "slug": "skepta",
+    "slug": "skepta-quarter-horse-buckskin-roan",
     "title": "Skepta",
     "price": 8400,
     "short_desc": "2017 Quarter Horse Buckskin Roan 14 Hands",
@@ -1928,7 +1928,7 @@
   },
   {
     "id": 1028,
-    "slug": "snickers",
+    "slug": "snickers-quarter-horse-palomino-gelding",
     "title": "Snickers",
     "price": 8300,
     "short_desc": "2017 Quarter Horse Palomino Gelding 15 Hands",
@@ -1938,7 +1938,7 @@
   },
   {
     "id": 1031,
-    "slug": "snoopy",
+    "slug": "snoopy-quarter-horse-palomino-gelding",
     "title": "Snoopy",
     "price": 5300,
     "short_desc": "2016 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -1948,7 +1948,7 @@
   },
   {
     "id": 1034,
-    "slug": "soldier",
+    "slug": "soldier-haflinger-horse-chestnut-gelding",
     "title": "Soldier",
     "price": 7000,
     "short_desc": "2016 Haflinger Horse Chestnut Gelding 13.2 Hands",
@@ -1958,7 +1958,7 @@
   },
   {
     "id": 1037,
-    "slug": "spooncat",
+    "slug": "spooncat-paint-horse-grulla-tobiano-gelding",
     "title": "Spooncat",
     "price": 7000,
     "short_desc": "2016 Paint Horse Grulla Tobiano Gelding 15.1 Hands",
@@ -1968,7 +1968,7 @@
   },
   {
     "id": 1040,
-    "slug": "spot",
+    "slug": "spot-fjord-horse-dun-gelding",
     "title": "Spot",
     "price": 8000,
     "short_desc": "2016 Fjord Horse Dun Gelding 14 Hands",
@@ -1978,7 +1978,7 @@
   },
   {
     "id": 1043,
-    "slug": "star",
+    "slug": "star-quarter-horse-bay-roan-gelding",
     "title": "Star",
     "price": 8800,
     "short_desc": "2016 Quarter Horse Bay Roan Gelding 15 Hands",
@@ -1988,7 +1988,7 @@
   },
   {
     "id": 1046,
-    "slug": "starlette",
+    "slug": "starlette-missouri-fox-trotter-bay-tobiano-mare",
     "title": "Starlette",
     "price": 6000,
     "short_desc": "2016 Missouri Fox Trotter Bay Tobiano Mare 14.2 Hands",
@@ -1998,7 +1998,7 @@
   },
   {
     "id": 1049,
-    "slug": "stars",
+    "slug": "stars-quarter-horse-red-dun-gelding",
     "title": "Stars",
     "price": 8200,
     "short_desc": "2017 Quarter Horse Red Dun Gelding 15.2 Hands",
@@ -2008,7 +2008,7 @@
   },
   {
     "id": 1052,
-    "slug": "stones",
+    "slug": "stones-quarter-horse-gray-gelding",
     "title": "Stones",
     "price": 8300,
     "short_desc": "2015 Quarter Horse Gray Gelding 14.1 Hands",
@@ -2018,7 +2018,7 @@
   },
   {
     "id": 1055,
-    "slug": "storm",
+    "slug": "storm-quarter-horse-bay-gelding",
     "title": "Storm",
     "price": 8300,
     "short_desc": "2014 Quarter Horse Bay Gelding 14.3 Hands",
@@ -2028,7 +2028,7 @@
   },
   {
     "id": 1058,
-    "slug": "stormzy",
+    "slug": "stormzy-paint-horse-black-tobiano-gelding",
     "title": "Stormzy",
     "price": 6900,
     "short_desc": "2016 Paint Horse Black Tobiano Gelding 15 Hands",
@@ -2038,7 +2038,7 @@
   },
   {
     "id": 1061,
-    "slug": "sugar",
+    "slug": "sugar-quarter-horse-buckskin-mare",
     "title": "Sugar",
     "price": 8000,
     "short_desc": "2015 Quarter Horse Buckskin Mare 15.1 Hands",
@@ -2048,7 +2048,7 @@
   },
   {
     "id": 1064,
-    "slug": "sun",
+    "slug": "sun-quarter-horse-palomino-gelding",
     "title": "Sun",
     "price": 8700,
     "short_desc": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -2058,7 +2058,7 @@
   },
   {
     "id": 1067,
-    "slug": "sunny",
+    "slug": "sunny-quarter-horse-palomino-gelding",
     "title": "Sunny",
     "price": 5700,
     "short_desc": "2015 Quarter Horse Palomino Gelding 15 Hands",
@@ -2068,7 +2068,7 @@
   },
   {
     "id": 1070,
-    "slug": "tacha",
+    "slug": "tacha-gypsy-vanner-horse-black-mare",
     "title": "Tacha",
     "price": 9500,
     "short_desc": "2018 Gypsy Vanner Horse Black Mare 14.1 Hands",
@@ -2078,7 +2078,7 @@
   },
   {
     "id": 1073,
-    "slug": "teddy",
+    "slug": "teddy-quarter-horse-buckskin-gelding",
     "title": "Teddy",
     "price": 8400,
     "short_desc": "2016 Quarter Horse Buckskin Gelding 14.2 Hands",
@@ -2088,7 +2088,7 @@
   },
   {
     "id": 1076,
-    "slug": "tequila",
+    "slug": "tequila-quarter-horse-red-dun-gelding",
     "title": "Tequila",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Red Dun Gelding 15 Hands",
@@ -2098,7 +2098,7 @@
   },
   {
     "id": 1079,
-    "slug": "tessy",
+    "slug": "tessy-quarter-horse-tobiano-mare",
     "title": "Tessy",
     "price": 8000,
     "short_desc": "2014 Quarter Horse Tobiano Mare 16 Hands",
@@ -2108,7 +2108,7 @@
   },
   {
     "id": 1082,
-    "slug": "tex",
+    "slug": "tex-quarter-horse-buckskin-gelding",
     "title": "Tex",
     "price": 8600,
     "short_desc": "2017 Quarter Horse Buckskin Gelding 15.2 Hands",
@@ -2118,7 +2118,7 @@
   },
   {
     "id": 1085,
-    "slug": "thunder",
+    "slug": "thunder-quarter-horse-palomino-gelding",
     "title": "Thunder",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Palomino Gelding 15 Hands",
@@ -2128,7 +2128,7 @@
   },
   {
     "id": 1088,
-    "slug": "torch",
+    "slug": "torch-quarter-horse-palomino-gelding",
     "title": "Torch",
     "price": 8800,
     "short_desc": "2015 Quarter Horse Palomino Gelding 15 Hands",
@@ -2138,7 +2138,7 @@
   },
   {
     "id": 1091,
-    "slug": "trooper",
+    "slug": "trooper-quarter-horse-palomino-gelding",
     "title": "Trooper",
     "price": 8500,
     "short_desc": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -2148,7 +2148,7 @@
   },
   {
     "id": 1093,
-    "slug": "tucker",
+    "slug": "tucker-tennessee-walker-blue-roan-gelding",
     "title": "Tucker",
     "price": 8700,
     "short_desc": "2016 Tennessee Walker Blue Roan Gelding 16 Hands",
@@ -2163,7 +2163,7 @@
   },
   {
     "id": 1095,
-    "slug": "turner",
+    "slug": "turner-quarter-horse-gray-gelding",
     "title": "Turner",
     "price": 8000,
     "short_desc": "2016 Quarter Horse Gray Gelding 14.3 Hands",
@@ -2173,7 +2173,7 @@
   },
   {
     "id": 1098,
-    "slug": "vandam",
+    "slug": "vandam-paint-horse-black-tobiano-gelding",
     "title": "Vandam",
     "price": 7600,
     "short_desc": "2016 Paint Horse Black Tobiano Gelding 14.2 Hands",
@@ -2183,7 +2183,7 @@
   },
   {
     "id": 1101,
-    "slug": "victoria",
+    "slug": "victoria-paint-horse-palomino-tobiano-gelding",
     "title": "Victoria",
     "price": 6500,
     "short_desc": "2016 Paint Horse Palomino Tobiano Gelding 15 Hands",
@@ -2193,7 +2193,7 @@
   },
   {
     "id": 1104,
-    "slug": "victory",
+    "slug": "victory-gypsy-vanner-horse-dapple-grey-gelding",
     "title": "Victory",
     "price": 9900,
     "short_desc": "2017 Gypsy Vanner Horse Dapple Grey Gelding 14.1 Hands",
@@ -2203,7 +2203,7 @@
   },
   {
     "id": 1107,
-    "slug": "whiskey",
+    "slug": "whiskey-quarter-horse-blue-roan-gelding",
     "title": "Whiskey",
     "price": 8400,
     "short_desc": "2016 Quarter Horse Blue Roan Gelding 16.2 Hands",
@@ -2213,7 +2213,7 @@
   },
   {
     "id": 1110,
-    "slug": "whisper",
+    "slug": "whisper-quarter-horse-palomino-gelding",
     "title": "Whisper",
     "price": 8500,
     "short_desc": "2015 Quarter Horse Palomino Gelding 15 Hands",
@@ -2223,7 +2223,7 @@
   },
   {
     "id": 1113,
-    "slug": "willy",
+    "slug": "willy-pony-horse-sorrel-gelding-height",
     "title": "Willy",
     "price": 7000,
     "short_desc": "2016 Pony Horse Sorrel Gelding 12.1 Height",
@@ -2233,7 +2233,7 @@
   },
   {
     "id": 1116,
-    "slug": "winnie",
+    "slug": "winnie-rocky-mountain-horse-chocolate-mare",
     "title": "Winnie",
     "price": 7000,
     "short_desc": "2017 Rocky Mountain Horse Chocolate Mare 15.1 Hands",
@@ -2243,7 +2243,7 @@
   },
   {
     "id": 1119,
-    "slug": "wrangler",
+    "slug": "wrangler-quarter-horse-red-roan-gelding",
     "title": "Wrangler",
     "price": 8400,
     "short_desc": "2015 Quarter Horse Red Roan Gelding 15.1 Hands",
@@ -2253,7 +2253,7 @@
   },
   {
     "id": 1122,
-    "slug": "xavier",
+    "slug": "xavier-warmblood-horse-bay-gelding",
     "title": "Xavier",
     "price": 12000,
     "short_desc": "2016 Warmblood Horse Bay Gelding 17.1 Hands",
@@ -2263,7 +2263,7 @@
   },
   {
     "id": 1125,
-    "slug": "yankee",
+    "slug": "yankee-quarter-horse-bay-gelding",
     "title": "Yankee",
     "price": 8500,
     "short_desc": "2016 Quarter Horse Bay Gelding 15.3 Hands",
@@ -2273,7 +2273,7 @@
   },
   {
     "id": 1128,
-    "slug": "zidane",
+    "slug": "zidane-quarter-horse-dunalino-gelding",
     "title": "Zidane",
     "price": 8400,
     "short_desc": "2017 Quarter Horse Dunalino Gelding 14.2 Hands",
