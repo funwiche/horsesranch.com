@@ -32,18 +32,6 @@
             <v-input required label="Last Name" v-model="body.lname" />
             <v-input required label="First Name" v-model="body.fname" />
           </div>
-          <div class="grid sm:grid-cols-2 gap-x-4">
-            <v-input required label="City" v-model="body.city" />
-            <div class="grid grid-cols-3 gap-x-4">
-              <v-input
-                required
-                label="State"
-                v-model="body.state"
-                class="col-span-2"
-              />
-              <v-input label="Zip Code" v-model="body.zip" />
-            </div>
-          </div>
           <v-input
             select
             required
@@ -51,6 +39,38 @@
             v-model="body.country"
             :items="countries"
           />
+          <div class="grid sm:grid-cols-2 gap-x-4">
+            <v-input required label="City" v-model="body.city" />
+            <div class="grid grid-cols-3 gap-x-4">
+              <v-input
+                select
+                required
+                label="State"
+                v-model="body.state"
+                class="col-span-2"
+                :items="states.united_states"
+                v-if="!body.country || body.country == 'United States'"
+              />
+              <v-input
+                select
+                required
+                label="Province"
+                v-model="body.state"
+                class="col-span-2"
+                :items="states.canada"
+                v-else-if="body.country == 'Canada'"
+              />
+              <v-input
+                v-else
+                required
+                label="State or Province"
+                v-model="body.state"
+                class="col-span-2"
+              />
+              <v-input label="Zip Code" v-model="body.zip" />
+            </div>
+          </div>
+
           <v-input
             required
             type="email"
@@ -95,6 +115,75 @@ const links = [
   { name: "Email Us", path: $app.email, icon: "envelope" },
   { name: "Office Hours", path: $app.hours, icon: "clock" },
 ];
+const states = {
+  united_states: [
+    "Alabama",
+    "Alaska",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "Florida",
+    "Georgia",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Ohio",
+    "Oklahoma",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming",
+  ],
+  canada: [
+    "Alberta",
+    "British Columbia",
+    "Manitoba",
+    "New Brunswick",
+    "Newfoundland and Labrador",
+    "Nova Scotia",
+    "Ontario",
+    "Prince Edward Island",
+    "Quebec",
+    "Saskatchewan",
+    "Northwest Territories",
+    "Nunavut",
+    "Yukon",
+  ],
+};
 const loading = ref(false);
 const success = ref("");
 const error = ref("");
