@@ -48,7 +48,6 @@
 import products from "@/resources/products.json";
 const route = useRoute();
 const limit = 24;
-// const width = ref(0);
 const page = computed(() => parseInt((route.query.page as string) || "1"));
 const starts = computed(() => (page.value - 1) * limit);
 const total = Math.ceil(products.length / limit);
@@ -60,8 +59,4 @@ function navigate(page: number) {
   navigateTo({ name: "horses-for-sale", query: { ...route.query, page } });
   document.querySelector("#top")?.scrollIntoView();
 }
-// onMounted(() => {
-//   width.value = innerWidth;
-//   window.addEventListener("resize", () => (width.value = innerWidth));
-// });
 </script>

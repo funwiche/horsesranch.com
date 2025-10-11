@@ -115,7 +115,7 @@
       </h2>
       <div class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 gap-1">
         <img
-          v-for="n in 25"
+          v-for="n in 20"
           :src="`/gallery/${n.toString().padStart(2, '0')}.jpg`"
           class="object-cover object-center aspect-[3/4] rounded-lg"
         />
