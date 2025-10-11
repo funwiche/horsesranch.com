@@ -11,17 +11,7 @@
       </p>
 
       <h4>
-        <strong>2. Pre-Purchase Examination (PPE) Requirement</strong>
-      </h4>
-      <p>
-        To ensure your complete confidence, we <strong>require</strong> a
-        pre-purchase veterinary examination (PPE) at the buyer's expense before
-        any sale is finalized. This is your opportunity to verify the horse's
-        condition for its intended purpose.
-      </p>
-
-      <h4>
-        <strong>3. Purchase and Health Guarantee</strong>
+        <strong>2. Purchase and Health Guarantee</strong>
       </h4>
       <p>
         We offer
@@ -52,7 +42,7 @@
         vaccinations.
       </p>
       <h4>
-        <strong>4. The Return Process</strong>
+        <strong>3. The Return Process</strong>
       </h4>
       <p>To initiate a return, you must:</p>
 
@@ -80,7 +70,7 @@
           </p>
         </li>
       </ol>
-      <h4>5. Refund Process</h4>
+      <h4>4. Refund Process</h4>
       <p>If your return is approved based on the above conditions:</p>
 
       <ul>
@@ -103,14 +93,14 @@
           </p>
         </li>
       </ul>
-      <h4>6. Final Sales</h4>
+      <h4>5. Final Sales</h4>
       <p>
         All sales are considered final after the 30 days guarantee period has
         expired, or if the terms of this policy are not met. We do not accept
         returns for buyer's remorse or a change in circumstances.
       </p>
 
-      <h4>7. Contact Us</h4>
+      <h4>6. Contact Us</h4>
       <p>Questions about this policy or to initiate a return?</p>
       <p>
         <strong class="no-underline">{{ $app.name }}</strong> <br />
