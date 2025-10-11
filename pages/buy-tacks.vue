@@ -12,7 +12,7 @@
           <img
             :src="item.images[0]"
             :alt="item.title"
-            class="aspect-[4/3] object-cover object-center"
+            class="aspect-square object-cover object-center"
           />
           <div class="text-center p-2">
             <h3 class="font-black font-serif mb-4">{{ item.title }}</h3>
