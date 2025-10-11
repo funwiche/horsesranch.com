@@ -57,7 +57,7 @@ const items = computed(() =>
   [...products].slice((page.value - 1) * limit, page.value * limit)
 );
 function navigate(page: number) {
-  navigateTo({ name: "horses", query: { ...route.query, page } });
+  navigateTo({ name: "horses-for-sale", query: { ...route.query, page } });
   document.querySelector("#top")?.scrollIntoView();
 }
 // onMounted(() => {
