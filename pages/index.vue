@@ -20,9 +20,31 @@
           <div class="mb-6">
             {{ $app.desc }}
           </div>
+          <div class="mb-4 text-tint">
+            Please feel free to call, text or email us anytime within our
+            working hours with any questions.
+          </div>
           <v-btn title="available horses" to="/horses-for-sale" />
         </div>
       </div>
+    </div>
+  </section>
+  <hr class="lg" />
+  <section class="px-6 py-12">
+    <div class="lg text-white text-center">
+      <h2 class="font-black text-4xl sm:text-5xl mb-6">
+        Our free Hauling service at Peak Pulse Horses is available in some
+        selected States! With a 30 Day Money Back Guarantee.
+      </h2>
+      <div class="sm:text-lg mb-4">
+        You do not need to worry about paying extra for shipping if you are
+        within our FREE SHIPPING ZONE as it is already inclusive in the horse
+        price. We ship all over the USA, South America, Canada, Europe and Asia.
+        Our horses will come health guaranteed!
+      </div>
+      <nuxt-link class="">
+        <v-btn title="Learn More" to="/hauling" />
+      </nuxt-link>
     </div>
   </section>
   <hr class="lg" />
@@ -99,13 +121,147 @@ import faqs from "@/resources/faqs.json";
 const index = ref(20);
 const slide = ref(0);
 onMounted(() => setInterval(() => slide.value++, 6000));
-// function generateHorseSlug(str: string) {
-//   return str
-//     .replace(/[\d.]/g, "")
-//     .replace(/\s*hands?/gi, "")
-//     .trim()
-//     .replace(/\s+/g, " ")
-//     .toLowerCase()
-//     .replace(/\s/g, "-");
-// }
+
+const poo = [
+  {
+    title: "1 – White Rock Ranch Cutter",
+    slug: "1-white-rock-ranch-cutter",
+    link: "https://seamlesshorsranch.com/horse/1-white-rock-ranch-cutter",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Ranch-Cutter.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Ranch-Cutter1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Ranch-Cutter2.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Ranch-Cutter3.jpg",
+    ],
+    price: 2100,
+    Category: "Tacks",
+    excerpt: "",
+    description:
+      "This White Rock Cutting Saddle is built on a Hadlock Brand, Buster Welch Tree, that carries a 5-year tree warranty, with Herman Oak leather, it comes standard with rawhide wrapped stirrups (pictured with Nettles stirrups $125 up-charge). It has a 9-inch front swell height, 13-inch width, 3-inch cantel, and is a full quarter horse bar width. This saddle features a Basketweave/Floral combo tooling with roughout jockey and fenders. These saddles known as “ranch cutters” are some of the most versatile in the industry and are used for Trails, Ranch, Team Sorting, Cutting, and other disciplines as well. These trees fit a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. We have 15.5″ and 16.5″ in stock and ready to ship!",
+  },
+  {
+    title: "2 – White Rock Cutting Saddle",
+    slug: "2-white-rock-cutting-saddle",
+    link: "https://seamlesshorsranch.com/horse/2-white-rock-cutting-saddle",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle2.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle3.jpg",
+    ],
+    price: 2000,
+    Category: "Tacks",
+    excerpt: "",
+    description:
+      "This White Rock Cutting Saddle is built on a Hadlock Brand, Buster Welch Tree, that carries a 5-year tree warranty, with Herman Oak leather, it comes standard with rawhide wrapped stirrups (pictured with Nettles stirrups – additional $125). It has a 9-inch front swell height, 13-inch width, and 3-inch cantel and is a full quarter horse bar width. This saddle features Floral tooling with a padded seat and roughout fenders. These saddles known as “cutters” are some of the most versatile in the industry and are used for Trails, Ranch, Team Sorting, Cutting, and other disciplines as well. These trees fit a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. We have 15″ and 16″ in stock ready to ship!",
+  },
+  {
+    title: "3 – White Rock Cutting Saddle",
+    slug: "3-white-rock-cutting-saddle",
+    link: "https://seamlesshorsranch.com/horse/3-white-rock-cutting-saddle",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle3-1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle1-1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle2-1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle-1.jpg",
+    ],
+    price: 1990,
+    Category: "Tacks",
+    excerpt: "",
+    description:
+      "This White Rock Cutting Saddle is built on a Hadlock Brand, Buster Welch Tree, that carries a 5-year tree warranty, with Herman Oak leather, it comes standard with rawhide wrapped stirrups (pictured with Nettles stirrups – additional $125). It has a 9-inch front swell height, 13-inch width, 3-inch cantel, and is a full quarter horse bar width. This saddle features a Diamond tooling pattern with roughout jockey and fenders. These saddles known as “cutters” are some of the most versatile in the industry and are used for Trails, Ranch, Team Sorting, Cutting, and other disciplines as well. These trees fit a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. We have 16″ and 16.5″ in stock and ready to ship!",
+  },
+  {
+    title: "4 – White Rock Cutting Saddle",
+    slug: "4-white-rock-cutting-saddle",
+    link: "https://seamlesshorsranch.com/horse/4-white-rock-cutting-saddle",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle-1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle1-1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle2-1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/White-Rock-Cutting-Saddle3-1.jpg",
+    ],
+    price: 2100,
+    Category: "Tacks",
+    excerpt: "",
+    description:
+      "This White Rock Cutting Saddle is built on a Hadlock Brand, Buster Welch Tree, that carries a 5-year tree warranty, with Herman Oak leather, it comes standard with rawhide wrapped stirrups (pictured with Nettles stirrups – additional $125). It has a 9-inch front swell height, 13-inch width, 3-inch cantel, and is a full quarter horse bar width. This saddle features a Spide tooling pattern with a Braid Border on a roughout jockey and fenders. These saddles known as “cutters” are some of the most versatile in the industry and are used for Trails, Ranch, Team Sorting, Cutting, and other disciplines as well. These trees fit a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. We have 16″ in stock ready to ship!",
+  },
+  {
+    title: "5 – White Rock Cutting Saddle",
+    slug: "5-white-rock-cutting-saddle",
+    link: "https://seamlesshorsranch.com/horse/5-white-rock-cutting-saddle",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/5-–-White-Rock-Cutting-Saddle.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/5-–-White-Rock-Cutting-Saddle2.jpg",
+    ],
+    price: 2000,
+    Category: "Tacks",
+    excerpt: "",
+    description: "",
+  },
+  {
+    title: "6 – White Rock Ranch Cutter",
+    slug: "6-white-rock-ranch-cutter",
+    link: "https://seamlesshorsranch.com/horse/6-white-rock-ranch-cutter",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/6-–-White-Rock-Ranch-Cutter.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/6-–-White-Rock-Ranch-Cutter1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/6-–-White-Rock-Ranch-Cutter3.jpg",
+    ],
+    price: 1990,
+    Category: "Tacks",
+    excerpt: "",
+    description:
+      "This White Rock Cutting Saddle is built on a Hadlock Brand, Buster Welch Tree, that carries a 5-year tree warranty, with Herman Oak leather, it comes standard with rawhide wrapped stirrups (pictured with Nettles stirrups – additional $125). It has a 9-inch front swell height, 13-inch width, 3-inch cantel, and is a full quarter horse bar width. This saddle features a Snake Border tooling on Light Oiled Leather with roughout jockey and fenders. These saddles known as “ranch cutters” are some of the most versatile in the industry and are used for Trails, Ranch, Team Sorting, Cutting, and other disciplines as well. These trees fit a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. We have 15.5″, 16.5″ and 17″ in stock and ready to ship!",
+  },
+  {
+    title: "7 – White Rock Cutting Saddle",
+    slug: "7-white-rock-cutting-saddle",
+    link: "https://seamlesshorsranch.com/horse/7-white-rock-cutting-saddle",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/7-–-White-Rock-Cutting-Saddle.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/7-–-White-Rock-Cutting-Saddle1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/7-–-White-Rock-Cutting-Saddle2.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/7-–-White-Rock-Cutting-Saddle3.jpg",
+    ],
+    price: 2500,
+    Category: "Tacks",
+    excerpt: "",
+    description:
+      "This White Rock Cutting Saddle is built on a Hadlock Brand, Buster Welch Tree, that carries a 5-year tree warranty, with Herman Oak leather, it comes standard with rawhide wrapped stirrups (pictured with Nettles stirrups – additional $125). It has a 9-inch front swell height, 13-inch width, 3-inch cantel, and a full quarter horse bar width. This saddle features a Basketweave tooling on Rich Chocolate Brown Leather combined with a white Buckstitch set on a roughout jockey and fenders. These saddles known as “cutters” are some of the most versatile in the industry and are used for Trails, Ranch, Team Sorting, Cutting, and other disciplines as well. These trees fit a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. We have 16″ in stock ready to ship!",
+  },
+  {
+    title: "8 – White Rock Cutting Saddle",
+    slug: "8-white-rock-cutting-saddle",
+    link: "https://seamlesshorsranch.com/horse/8-white-rock-cutting-saddle",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/8-–-White-Rock-Cutting-Saddle.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/8-–-White-Rock-Cutting-Saddle2.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/8-–-White-Rock-Cutting-Saddle1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/8-–-White-Rock-Cutting-Saddle3.jpg",
+    ],
+    price: 2500,
+    Category: "Tacks",
+    excerpt: "",
+    description:
+      "This White Rock Cutting Saddle is built on a Hadlock Brand, Buster Welch Tree, that carries a 5-year tree warranty, with Herman Oak leather, it comes standard with rawhide wrapped stirrups (pictured with Nettles stirrups – additional $125). It has a 9-inch front swell height, 13-inch width, and 3-inch cantel and is a full quarter horse bar width. This saddle features Snowflake tooling and bordering on Deep Chestnut Leather with White Buckstitch on a roughout jockey and fenders. These saddles known as “cutters” are some of the most versatile in the industry and are used for Trails, Ranch, Team Sorting, Cutting, and other disciplines as well. These trees fit a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. We have 16″ in stock ready to ship!",
+  },
+  {
+    title: "9 – White Rock Cutting Saddle",
+    slug: "9-white-rock-cutting-saddle",
+    link: "https://seamlesshorsranch.com/horse/9-white-rock-cutting-saddle",
+    images: [
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/9-–-White-Rock-Cutting-Saddle.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/9-–-White-Rock-Cutting-Saddle1.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/9-–-White-Rock-Cutting-Saddle2.jpg",
+      "https://seamlesshorsranch.com/wp-content/uploads/2024/07/9-–-White-Rock-Cutting-Saddle3.jpg",
+    ],
+    price: 1990,
+    Category: "Tacks",
+    excerpt: "",
+    description:
+      "This White Rock Cutting Saddle is built on a Hadlock Brand, Buster Welch Tree, that carries a 5-year tree warranty, with Herman Oak leather, it comes standard with rawhide wrapped stirrups (pictured with Nettles stirrups $125 up-charge). It has a 9-inch front swell height, 13-inch width, 3-inch cantel, and a full quarter horse bar width. This saddle features a Shell tooling on Rich Chocolate Leather with roughout jockey and fenders. This saddle is built with a single rear skirt making it about 5 lbs lighter than any of the other saddles. These saddles known as “cutters” are some of the most versatile in the industry and are used for Trails, Ranch, Team Sorting, Cutting, and other disciplines as well. These trees fit a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. We have 16″ in stock ready to ship!",
+  },
+];
 </script>

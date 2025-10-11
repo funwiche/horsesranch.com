@@ -27,15 +27,25 @@
         <div class="flex-1 text-white">
           <h1 class="font-black font-serif">{{ item.title }}</h1>
           <h2 class="text-tint font-black">${{ $f.num(item.price, 0) }}</h2>
-          <div class="py-6 border-y italic font-serif mb-6">
-            {{ item.excerpt }}
-          </div>
-          <nuxt-link
-            to="/contact-us"
-            class="rounded-lg uppercase text-sm bg-[#625C33] opacity-90 inline-flex items-center h-16 px-8 hover:opacity-100 font-bold"
-          >
-            Contact us about {{ item.title }}
-          </nuxt-link>
+          <section v-if="item.category == 'Horses'">
+            <div class="py-6 border-y italic font-serif mb-6">
+              {{ item.excerpt }}
+            </div>
+            <nuxt-link
+              to="/contact-us"
+              class="rounded-lg uppercase text-sm bg-[#625C33] opacity-90 inline-flex items-center h-16 px-8 hover:opacity-100 font-bold"
+            >
+              Contact us about {{ item.title }}
+            </nuxt-link>
+          </section>
+          <section v-else class="py-4 border-t mt-6">
+            <nuxt-link
+              to="/contact-us"
+              class="bg-tint text-black px-6 py-3 uppercase hover:opacity-75 inline-block"
+            >
+              Send Inquiry
+            </nuxt-link>
+          </section>
         </div>
       </div>
       <div class="border bg-white text-black p-8 rounded-lg">
