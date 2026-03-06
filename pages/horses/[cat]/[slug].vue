@@ -4,7 +4,7 @@
     <div class="sm sm:md lg:lg">
       <div class="py-8 grid lg:grid-cols-2 gap-12">
         <div class="flex-1">
-          <div class="center bg-white rounded-lg overflow-hidden aspect-[5/4]">
+          <div class="center bg-white overflow-hidden aspect-[5/4]">
             <img
               @click="contain = !contain"
               :src="item.images[image]"
@@ -20,24 +20,26 @@
               :src="n"
               :alt="item.imageAlt"
               :class="{ 'opacity-50 cursor-pointer': image != i }"
-              class="aspect-square w-20 object-center object-cover rounded-lg hover:opacity-100"
+              class="aspect-square w-20 object-center object-cover hover:opacity-100"
             />
           </div>
         </div>
         <div class="flex-1 text-white">
           <h1 class="font-black font-serif">{{ item.title }}</h1>
           <h2 class="text-tint font-black">${{ $f.num(item.price, 0) }}</h2>
-          <div class="py-6 border-y italic font-serif">
+          <hr class="my-6" />
+          <div class="italic font-serif">
             {{ item.seoDesc }}
           </div>
-          <div class="py-3 text-sm">
-            <div class="flex py-2">
-              <div class="w-36 opacity-75">Category</div>
+          <hr class="my-6" />
+          <div class="text-sm">
+            <div class="flex">
+              <div class="w-36">Category</div>
               :
               <div class="flex-1 pl-2">
                 <nuxt-link
                   :to="`/horses/${item.category}`"
-                  class="hover:text-tint hover:underline"
+                  class="text-tint hover:underline"
                 >
                   {{
                     categories.find((el) => el.slug == (item as any).category)
@@ -46,26 +48,26 @@
                 </nuxt-link>
               </div>
             </div>
-            <div class="flex py-2">
-              <div class="w-36 opacity-75">Sex</div>
+            <div class="flex pt-1">
+              <div class="w-36">Sex</div>
               :
               <div class="flex-1 pl-2">
                 <nuxt-link
                   :to="`/horses?=sex=${encodeURIComponent(item.sex)}`"
-                  class="hover:text-tint hover:underline"
+                  class="text-tint hover:underline"
                 >
                   {{ item.sex }}
                 </nuxt-link>
               </div>
             </div>
-            <div class="flex py-2">
-              <div class="w-36 opacity-75">Keywords</div>
+            <div class="flex pt-1">
+              <div class="w-36">Keywords</div>
               :
               <div class="flex-1 pl-2">
                 <span v-for="n in item.tags">
                   <nuxt-link
                     :to="`/horses?keyword=${encodeURIComponent(n)}`"
-                    class="hover:text-tint hover:underline"
+                    class="text-tint hover:underline"
                   >
                     {{ n }} </nuxt-link
                   >,
@@ -73,16 +75,16 @@
               </div>
             </div>
           </div>
-
+          <hr class="my-6" />
           <nuxt-link
             to="/contact-us"
-            class="rounded-lg uppercase text-xs bg-[#625C33] opacity-90 inline-flex items-center h-16 px-8 hover:opacity-100"
+            class="bg-tint text-black font-bold opacity-90 center h-12 px-8 hover:opacity-100"
           >
             Contact us about {{ item.title }}
           </nuxt-link>
         </div>
       </div>
-      <div class="border bg-white text-black p-8 rounded-lg">
+      <div class="border bg-white text-black p-8">
         <h3>Description</h3>
         {{ item.description }}
       </div>
