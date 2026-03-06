@@ -32,10 +32,15 @@
           <h1 class="font-black font-serif">{{ item.title }}</h1>
           <h2 class="text-tint font-black">${{ $f.num(item.price, 0) }}</h2>
 
-          <div class="text-sm mb-4">
+          <div class="text-sm mb-2">
             {{ item.seoDesc }}
           </div>
-          <div v-for="n in item.specs.split('|')" class="text-sm">
+          <div
+            v-for="n in item.specs.split('|')"
+            class="text-sm flex-start py-1 font-semibold px-3"
+          >
+            <i class="fa-solid fa-circle mr-1 text-[8px]" />
+
             {{ n }}
           </div>
 
