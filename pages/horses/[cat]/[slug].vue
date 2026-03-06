@@ -91,8 +91,8 @@
   <NotFound v-else />
   <section v-if="featured.length" class="px-6 py-12 text-white">
     <div class="lg">
-      <h3 class="text-4xl font-black">Related horses</h3>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 py-6">
+      <h3 class="text-3xl font-bold">Related horses</h3>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
         <v-card :item="item" v-for="item in featured" :key="item.slug" />
       </div>
     </div>
