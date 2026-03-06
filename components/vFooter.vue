@@ -21,7 +21,7 @@
             <div class="w-16 border-2 rounded-lg border-tint -mt-2" />
           </div>
           <div v-if="link.title == 'Contact Info'">
-            <div v-for="n in link.paths" class="flex items-center py-1.5">
+            <div v-for="n in link.paths" class="flex items-center py-1.5 mb-2">
               <i :class="`fa-solid fa-${n.icon} w-6`" />
               <div>
                 <div class="text-xs opacity-50">{{ n.name }}</div>
@@ -53,17 +53,18 @@ const links: any = [
   {
     title: "Quick Links",
     paths: [
-      // { name: "Home", path: "/" },
+      { name: "Home", path: "/" },
       { name: "About Us", path: "/about-us" },
       { name: "Contact Us", path: "/contact-us" },
       { name: "Our Horses", path: "/horses" },
+      { name: "Horse Tacks", path: "/tacks" },
       { name: "Hauling", path: "/hauling" },
-      { name: "Testimonials", path: "/testimonials" },
     ],
   },
   {
     title: "Explore",
     paths: [
+      { name: "Testimonials", path: "/testimonials" },
       { name: "Help & FAQs", path: "/faqs" },
       { name: "How to buy", path: "/how-to-buy" },
       { name: "Privacy Policy", path: "/privacy-policy" },
