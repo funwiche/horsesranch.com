@@ -23,7 +23,7 @@
           </nuxt-link>
           <div
             v-if="n.path == '/horses'"
-            class="text-xs absolute top-6 left-0 bg-white text-black overflow-hidden h-0 group-hover:h-96 group-hover:overflow-y-auto transition-all duration-300 rounded-md"
+            class="text-xs absolute z-10 top-6 left-0 bg-white text-black overflow-hidden h-0 group-hover:h-96 group-hover:overflow-y-auto transition-all duration-300 rounded-md"
           >
             <div class="py-0.5 font-medium divide-y divide-slate-200">
               <nuxt-link
