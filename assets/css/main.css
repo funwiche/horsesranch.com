@@ -211,6 +211,9 @@
   }
 }
 @layer components {
+  .v-bg {
+    @apply bg-[url('/bg.jpg')] bg-cover bg-center;
+  }
   .btn {
     @apply h-10 px-4 rounded inline-center bg-info opacity-90 text-white text-sm font-medium;
     &.block {

@@ -25,7 +25,7 @@
   </section>
 </template>
 
-<script lang="ts" setup>
+<script setup lang="ts">
 import horses from "@/resources/horses.json";
 const route = useRoute();
 const limit = 24;
@@ -37,7 +37,9 @@ const items = computed(() =>
   [...horses].slice((page.value - 1) * limit, page.value * limit),
 );
 function navigate(page: number) {
-  navigateTo({ name: "horses-for-sale", query: { ...route.query, page } });
+  navigateTo({ name: "horses", query: { ...route.query, page } });
   document.querySelector("#top")?.scrollIntoView();
 }
 </script>
+
+<style scoped></style>

@@ -54,25 +54,26 @@
       </div>
     </div>
   </section>
+  <NotFound v-else />
   <section class="px-6 py-12 text-white">
     <div class="lg">
       <h3 class="text-4xl font-black">Related horses</h3>
       <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 py-6">
-        <v-card :item="item" v-for="item in featured" :key="item.id" />
+        <v-card :item="item" v-for="item in featured" :key="item.slug" />
       </div>
     </div>
   </section>
 </template>
 
 <script lang="ts" setup>
-import products from "@/resources/products.json";
+import horses from "@/resources/horses.json";
 const route = useRoute();
 const item = computed(() =>
-  [...products].find(({ slug }) => route.params.slug == slug)
+  [...horses].find(({ slug }) => route.params.slug == slug),
 );
 const image = ref(0);
 const contain = ref(false);
-const featured = [...products.filter((el) => el.category == "Horses")]
+const featured = [...horses.filter((el) => el.category == "Horses")]
   .sort(() => Math.random() - 0.5)
   .slice(0, 4);
 </script>

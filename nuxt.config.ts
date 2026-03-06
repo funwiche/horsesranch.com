@@ -11,7 +11,7 @@ export default defineNuxtConfig({
       charset: "utf-16",
       viewport: "width=device-width, initial-scale=1, shrink-to-fit=no",
       title: $app.title,
-      titleTemplate: `%s - ${$app.name}`,
+      titleTemplate: `%s | ${$app.name}`,
       meta: [
         { charset: "utf-8" },
         { name: "format-detection", content: "telephone=no" },
@@ -23,7 +23,7 @@ export default defineNuxtConfig({
         { name: "og:type", content: "website" },
         {
           name: "og:title",
-          content: `${$app.title} - ${$app.name}`,
+          content: `${$app.title} | ${$app.name}`,
         },
         {
           name: "og:description",

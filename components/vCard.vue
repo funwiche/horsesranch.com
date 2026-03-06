@@ -1,9 +1,12 @@
 <template>
-  <nuxt-link :to="`/${item.slug}`" class="flex flex-col text-white">
+  <nuxt-link
+    :to="`/horses/${item.category}/${item.slug}`"
+    class="flex flex-col text-white"
+  >
     <div class="aspect-square overflow-hidden">
       <img
         :src="item.images[0]"
-        :alt="item.title"
+        :alt="item.imageAlt"
         class="h-full w-full object-cover object-center"
       />
     </div>

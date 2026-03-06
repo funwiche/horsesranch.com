@@ -1,22 +1,11 @@
 <template>
   <section
-    class="lg grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 border border-t-0"
+    class="lg grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 border divide-x divide-y"
   >
-    <div
-      class="p-4 border-t"
-      :class="
-        i % 4 != 3 && width >= 1280
-          ? 'border-r'
-          : i % 3 != 2 && width < 1280 && width >= 968
-          ? 'border-r'
-          : i % 2 != 1 && width < 968 && width >= 600
-          ? 'border-r'
-          : 'border-r-0'
-      "
-      v-for="(item, i) in items"
-    >
+    <div class="p-4 -ml-[1px] -mt-[1px]" v-for="(item, i) in items">
       <v-card :item="item" class="h-full" />
     </div>
+    <div class="border-t border-l -ml-[1px] -mt-[1px]" />
   </section>
 </template>
 

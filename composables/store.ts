@@ -1,8 +1,8 @@
-import products from "@/resources/products.json";
+import horses from "@/resources/horses.json";
 export const useFeatured = () =>
   useState("featured", () =>
-    [...products.filter((el) => el.category == "Horses")]
+    [...horses]
       .slice()
       .sort(() => Math.random() - 0.5)
-      .slice(0, 12)
+      .slice(0, 12),
   );
