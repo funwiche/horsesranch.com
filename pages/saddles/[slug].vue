@@ -31,57 +31,47 @@
         <div class="flex-1 text-white">
           <h1 class="font-black font-serif">{{ item.title }}</h1>
           <h2 class="text-tint font-black">${{ $f.num(item.price, 0) }}</h2>
-
-          <div class="text-sm mb-2">
-            {{ item.seoDesc }}
-          </div>
+          <hr />
+          <div class="py-4">{{ item.seoDesc }}</div>
           <div
             v-for="n in item.specs.split('|')"
-            class="text-sm flex-start py-1 font-semibold px-3"
+            class="flex-start font-semibold px-3"
           >
-            <i class="fa-solid fa-circle mr-1 text-[8px]" />
+            <i class="fa-solid fa-circle mr-2 text-[8px]" />
 
             {{ n }}
           </div>
 
-          <div class="pt-6">
+          <div class="py-6">
             <h4 class="underline underline-offset-4 decoration-2">
               Extra Options with additional charge
             </h4>
-            <div class="grid sm:grid-cols-3 gap-2 text-sm">
+            <div class="grid sm:grid-cols-3 gap-1">
               <div v-for="extra in extras" class="flex-start">
-                <i class="fa-light fa-circle-check mr-2 text-tint" />
+                <i
+                  class="fa-solid fa-circle-check mr-2 text-tint text-[16px]"
+                />
                 {{ extra }}
               </div>
             </div>
           </div>
-          <div class="pt-6">
-            <h4 class="underline underline-offset-4 decoration-2">Keywords</h4>
-            <span v-for="n in item.tags" class="text-xs font-bold">
-              <nuxt-link
-                :to="`/saddles?keyword=${encodeURIComponent(n)}`"
-                class="text-tint hover:underline"
-              >
-                {{ n }} </nuxt-link
-              >,
-            </span>
-          </div>
+
           <nuxt-link
             to="/contact-us"
-            class="rounded-lg uppercase text-xs bg-[#625C33] opacity-90 inline-flex items-center h-16 px-8 hover:opacity-100"
+            class="bg-tint text-black font-bold opacity-90 center h-12 px-8 hover:opacity-100"
           >
             Get a Saddle Quote
           </nuxt-link>
         </div>
       </div>
-      <div class="border bg-white text-black p-8 rounded-lg">
+      <div class="border bg-white text-black p-8">
         <h3>Description</h3>
         {{ item.description }}
       </div>
       <section class="py-12">
         <div class="lg">
-          <h3 class="text-4xl font-black text-white">More Saddles</h3>
-          <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 py-6">
+          <h3 class="text-3xl font-bold text-white">More Saddles</h3>
+          <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             <v-saddle-card v-for="n in featured" :item="n" />
           </div>
         </div>
