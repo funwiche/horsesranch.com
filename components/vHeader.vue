@@ -100,7 +100,7 @@ const links: any = [
   { name: "Home", path: "/" },
   { name: "About", path: "/about-us" },
   { name: "Our Horses", path: "/horses" },
-  { name: "Horse Tacks", path: "/tacks" },
+  { name: "Saddles", path: "/saddles" },
   { name: "Hauling", path: "/hauling" },
   { name: "Riding Levels", path: "/riding-levels" },
   { name: "FAQs", path: "/faqs" },
