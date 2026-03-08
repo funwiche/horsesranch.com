@@ -38,7 +38,7 @@
               :
               <div class="flex-1 pl-2">
                 <nuxt-link
-                  :to="`/horses/${item.category}`"
+                  :to="`/horses?breed=${item.category}`"
                   class="text-tint hover:underline"
                 >
                   {{
@@ -53,7 +53,7 @@
               :
               <div class="flex-1 pl-2">
                 <nuxt-link
-                  :to="`/horses?=sex=${encodeURIComponent(item.sex)}`"
+                  :to="`/horses?sex=${encodeURIComponent(item.sex)}`"
                   class="text-tint hover:underline"
                 >
                   {{ item.sex }}

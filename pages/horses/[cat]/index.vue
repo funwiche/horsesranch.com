@@ -3,7 +3,7 @@
   <v-breadcrums v-else :title="category.title" />
   <section v-if="category && items.length" class="p-6 text-white">
     <section class="lg">
-      <section class="py-8">
+      <section class="pb-6">
         Showing {{ starts + 1 }}-{{ starts + items.length }} of
         {{ results.length }} results
       </section>
@@ -47,7 +47,7 @@ const items = computed(() =>
 );
 function navigate(page: number) {
   navigateTo({ path: route.path, query: { ...route.query, page } });
-  document.querySelector("#top")?.scrollIntoView();
+  window.scrollTo(0, 0);
 }
 </script>
 

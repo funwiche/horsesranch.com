@@ -38,6 +38,6 @@ const items = computed(() =>
 );
 function navigate(page: number) {
   navigateTo({ name: "horses-for-sale", query: { ...route.query, page } });
-  document.querySelector("#top")?.scrollIntoView();
+  window.scrollTo(0, 0);
 }
 </script>

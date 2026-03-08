@@ -5,7 +5,7 @@
   />
   <section class="p-6">
     <section class="lg">
-      <section class="py-8 text-white">
+      <section class="pb-6 text-white">
         Showing all {{ saddles.length }} results
       </section>
       <div class="grid gap-6 sm:grid-cols-2 md:grid-cols-4">

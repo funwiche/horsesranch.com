@@ -24,7 +24,7 @@
             Please feel free to call, text or email us anytime within our
             working hours with any questions.
           </div>
-          <v-btn title="available horses" to="/horses-for-sale" />
+          <v-btn title="available horses" to="/horses" />
         </div>
       </div>
     </div>
@@ -55,7 +55,7 @@
       </h2>
       <v-archive :items="featured" />
       <div class="pt-6 center">
-        <v-btn title="view all" to="/horses-for-sale" />
+        <v-btn title="view all" to="/horses" />
       </div>
     </div>
   </section>
@@ -105,7 +105,7 @@
         All horses come with a 30 days Money-Back guarantee.
       </div>
       <v-btn
-        to="/horses-for-sale"
+        to="/horses"
         title="VIEW OUR HORSES"
         style="height: 48px; width: 240px; border-radius: 0"
       />
