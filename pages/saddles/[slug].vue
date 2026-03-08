@@ -88,7 +88,10 @@ const item = computed(() =>
 );
 const image = ref(0);
 const contain = ref(false);
-const featured = [...saddles].sort(() => Math.random() - 0.5).slice(0, 4);
+const featured = [...saddles]
+  .filter((el) => el.slug != route.params.slug)
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 4);
 const extras = [
   "Floral Tooling",
   "Basket Weave Tooling",
