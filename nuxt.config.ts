@@ -8,13 +8,13 @@ export default defineNuxtConfig({
   components: [{ path: "~/components", pathPrefix: false, global: true }],
   app: {
     head: {
-      charset: "utf-16",
+      charset: "utf-8",
       viewport: "width=device-width, initial-scale=1, shrink-to-fit=no",
       title: $app.title,
       titleTemplate: `%s | ${$app.name}`,
       meta: [
-        { charset: "utf-8" },
         { name: "format-detection", content: "telephone=no" },
+        { name: "theme-color", content: "#474A48" },
         {
           name: "description",
           content: $app.desc,
