@@ -4,7 +4,7 @@
       <div class="flex-1">
         <img
           :src="`/slides/0${(slide % 6) + 1}.jpg`"
-          class="aspect-[4/3] md:aspect-square rounded-xl object-cover object-center"
+          class="aspect-square rounded-xl object-cover object-center"
         />
       </div>
       <div class="flex-1 flex-start py-12">
