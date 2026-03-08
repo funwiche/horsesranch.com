@@ -110,7 +110,11 @@ const item = computed(() =>
 );
 const image = ref(0);
 const contain = ref(false);
-const featured = [...horses.filter((el) => el.category == item.value?.category)]
+const featured = [
+  ...horses.filter(
+    (el) => el.slug != route.params.slug && el.category == item.value?.category,
+  ),
+]
   .sort(() => Math.random() - 0.5)
   .slice(0, 4);
 </script>
