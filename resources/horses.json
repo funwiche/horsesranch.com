@@ -51,7 +51,7 @@
   {
     "slug": "akira-tennessee-walking-horse-chocolate-overo-gelding",
     "title": "Akira",
-    "price": 7400,
+    "price": 7800,
     "images": ["/images/akira-01.jpg", "/images/akira-02.jpg"],
     "category": "tennessee-walking-horses",
     "excerpt": "2016 Tennessee Walking Horse Chocolate Overo Gelding 15.1 Hands",
@@ -101,7 +101,7 @@
   {
     "slug": "ali-spotted-saddle-horse-black-tobiano-gelding",
     "title": "Ali",
-    "price": 7300,
+    "price": 7900,
     "images": ["/images/ali-01.jpg", "/images/ali-02.jpg"],
     "category": "spotted-saddle-horses",
     "excerpt": "2015 Spotted Saddle Horse Black Tobiano Gelding 15.1 Hands",
@@ -326,7 +326,7 @@
   {
     "slug": "arrow-quarter-horse-sorrel-rabicano-gelding",
     "title": "Arrow",
-    "price": 7500,
+    "price": 8800,
     "images": ["/images/arrow-01.jpg", "/images/arrow-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2015 Quarter Horse Sorrel Rabicano Gelding 15 Hands",
@@ -451,7 +451,7 @@
   {
     "slug": "bandera-spotted-saddle-horse-black-tobiano-gelding",
     "title": "Bandera",
-    "price": 7000,
+    "price": 7500,
     "images": ["/images/bandera-01.jpg", "/images/bandera-02.jpg"],
     "category": "spotted-saddle-horses",
     "excerpt": "2016 Spotted Saddle Horse Black Tobiano Gelding 15.2 Hands",
@@ -501,7 +501,7 @@
   {
     "slug": "banjo-rocky-mountain-horse-chocolate-gelding",
     "title": "Banjo",
-    "price": 7300,
+    "price": 7900,
     "images": ["/images/banjo-01.jpeg", "/images/banjo-02.jpeg"],
     "category": "rocky-mountain-horses",
     "excerpt": "2016 Rocky Mountain Horse Chocolate Gelding 15.1 Hands",
@@ -676,7 +676,7 @@
   {
     "slug": "beauty-quarter-horse-palomino-mare",
     "title": "Beauty",
-    "price": 7400,
+    "price": 8600,
     "images": ["/images/beauty-01.jpeg", "/images/beauty-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2015 Quarter Horse Palomino Mare 14.3 Hands",
@@ -701,7 +701,7 @@
   {
     "slug": "bello-quarter-horse-chestnut-gelding",
     "title": "Bello",
-    "price": 7300,
+    "price": 8600,
     "images": ["/images/bello-01.jpg", "/images/bello-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Chestnut Gelding 14.2 Hands",
@@ -1101,7 +1101,7 @@
   {
     "slug": "bruce-lee-paint-horse-sorrel-overo-gelding",
     "title": "Bruce Lee",
-    "price": 7000,
+    "price": 8000,
     "images": ["/images/bruce lee-01.jpg", "/images/bruce lee-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Sorrel Overo Gelding 15 Hands",
@@ -1426,7 +1426,7 @@
   {
     "slug": "chlautile-paint-horse-palomino-tobiano-mare",
     "title": "Chlautile",
-    "price": 6500,
+    "price": 7800,
     "images": ["/images/chlautile-01.jpg", "/images/chlautile-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2015 Paint Horse Palomino Tobiano Mare 15.1 Hands",
@@ -1476,7 +1476,7 @@
   {
     "slug": "copper-quarter-horse-black-gelding",
     "title": "Copper",
-    "price": 6700,
+    "price": 8700,
     "images": ["/images/copper-01.jpg", "/images/copper-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2014 Quarter Horse Black Gelding 15.1 Hands",
@@ -1501,7 +1501,7 @@
   {
     "slug": "cougar-tennessee-walking-horse-chocolate-tobiano-gelding",
     "title": "Cougar",
-    "price": 6900,
+    "price": 7900,
     "images": ["/images/cougar-01.jpg", "/images/cougar-02.jpg"],
     "category": "tennessee-walking-horses",
     "excerpt": "2015 Tennessee Walking Horse Chocolate Tobiano Gelding 15.1 Hands",
@@ -1651,7 +1651,7 @@
   {
     "slug": "daisy-spotted-saddle-champaign-mare",
     "title": "Daisy",
-    "price": 5900,
+    "price": 7800,
     "images": ["/images/daisy-01.jpg", "/images/daisy-02.jpg"],
     "category": "spotted-saddle-horses",
     "excerpt": "2015 Spotted Saddle Champaign Mare 14.2 Hands",
@@ -1851,7 +1851,7 @@
   {
     "slug": "davis-azteca-horse-blue-roan-gelding",
     "title": "Davis",
-    "price": 5400,
+    "price": 6500,
     "images": ["/images/davis-01.jpeg", "/images/davis-02.jpeg"],
     "category": "azteca-horses",
     "excerpt": "2016 Azteca Horse Blue Roan Gelding 14.3 Hands",
@@ -2054,7 +2054,7 @@
   {
     "slug": "dream-paint-horse-palomino-gelding",
     "title": "Dream",
-    "price": 7400,
+    "price": 8400,
     "images": ["/images/dream-01.jpg", "/images/dream-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2015 Paint Horse Palomino Gelding 15.2 Hands",
@@ -2229,7 +2229,7 @@
   {
     "slug": "florence-paint-horse-palomino-overo-mare",
     "title": "Florence",
-    "price": 6000,
+    "price": 7800,
     "images": ["/images/florence-01.jpeg", "/images/florence-02.jpeg"],
     "category": "paint-horses",
     "excerpt": "2017 Paint Horse Palomino Overo Mare 15 Hands",
@@ -2504,7 +2504,7 @@
   {
     "slug": "gucci-quarter-horse-red-roan-gelding",
     "title": "Gucci",
-    "price": 5300,
+    "price": 8300,
     "images": ["/images/gucci-01.jpg", "/images/gucci-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Roan Gelding 15.1 Hand",
@@ -2529,7 +2529,7 @@
   {
     "slug": "gunner-paint-horse-sorrel-overo-gelding",
     "title": "Gunner",
-    "price": 6800,
+    "price": 7900,
     "images": ["/images/gunner-01.jpg", "/images/gunner-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Sorrel Overo Gelding 14.3 Hands",
@@ -2629,7 +2629,7 @@
   {
     "slug": "hercules-quarter-horse-bay-gelding",
     "title": "Hercules",
-    "price": 7800,
+    "price": 8800,
     "images": ["/images/hercules-01.jpg", "/images/hercules-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Bay Gelding 15 Hands",
@@ -2683,7 +2683,7 @@
   {
     "slug": "amarillo-quarter-horse-palomino-gelding",
     "title": "Amarillo",
-    "price": 7900,
+    "price": 8900,
     "images": ["/images/amarillo-01.jpg", "/images/amarillo-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding 15 Hands",
@@ -2783,7 +2783,7 @@
   {
     "slug": "holiday-paint-horse-gray-gelding",
     "title": "Holiday",
-    "price": 7600,
+    "price": 8000,
     "images": ["/images/holiday-01.jpg", "/images/holiday-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2015 Paint Horse Gray Gelding 14.1 Hands",
@@ -2808,7 +2808,7 @@
   {
     "slug": "hunter-quarter-horse-palomino-gelding",
     "title": "Hunter",
-    "price": 7400,
+    "price": 8400,
     "images": ["/images/hunter-01.jpg", "/images/hunter-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -3058,7 +3058,7 @@
   {
     "slug": "kobby-paint-horse-palomino-overo-mare",
     "title": "Kobby",
-    "price": 6900,
+    "price": 7900,
     "images": ["/images/kobby-01.jpg", "/images/kobby-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Palomino Overo Mare 15.3 Hands",
@@ -3208,7 +3208,7 @@
   {
     "slug": "lucky-quarter-horse-buckskin-gelding",
     "title": "Lucky",
-    "price": 7400,
+    "price": 8600,
     "images": ["/images/lucky-01.jpg", "/images/lucky-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2015 Quarter Horse Buckskin Gelding 15.1 Hands",
@@ -3458,7 +3458,7 @@
   {
     "slug": "mick-quarter-horse-buckskin-gelding",
     "title": "Mick",
-    "price": 7600,
+    "price": 8500,
     "images": ["/images/mick-01.jpg", "/images/mick-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2015 Quarter Horse Buckskin Gelding 15 Hands",
@@ -3508,7 +3508,7 @@
   {
     "slug": "midnight-quarter-horse-bay-gelding",
     "title": "Midnight",
-    "price": 7300,
+    "price": 8300,
     "images": ["/images/midnight-01.jpeg", "/images/midnight-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Bay Gelding 15 Hands",
@@ -3558,7 +3558,7 @@
   {
     "slug": "moana-andalusian-bay-mare",
     "title": "Moana",
-    "price": 7900,
+    "price": 8800,
     "images": ["/images/moana-01.jpg", "/images/moana-02.jpg"],
     "category": "andalusian-horses",
     "excerpt": "2016 Andalusian Bay Mare 15.2 Hands",
@@ -3633,7 +3633,7 @@
   {
     "slug": "moonshine-quarter-horse-palomino-gelding",
     "title": "Moonshine",
-    "price": 7500,
+    "price": 8500,
     "images": ["/images/moonshine-01.jpeg", "/images/moonshine-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2014 Quarter Horse Palomino Gelding 15.1 Hands",
@@ -3683,7 +3683,7 @@
   {
     "slug": "nacho-quarter-horse-chestnut-gelding",
     "title": "Nacho",
-    "price": 7400,
+    "price": 8400,
     "images": ["/images/nacho-01.jpg", "/images/nacho-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2015 Quarter Horse Chestnut Gelding 15.1 Hands",
@@ -3708,7 +3708,7 @@
   {
     "slug": "olaf-quarter-horse-gray-gelding",
     "title": "Olaf",
-    "price": 6200,
+    "price": 8200,
     "images": ["/images/olaf-01.jpg"],
     "category": "quarter-horses",
     "excerpt": "2015 Quarter Horse Gray Gelding 15 Hands",
@@ -3783,7 +3783,7 @@
   {
     "slug": "patrick-quarter-horse-sorrel-gelding",
     "title": "Patrick",
-    "price": 7700,
+    "price": 8700,
     "images": ["/images/patrick-01.jpeg", "/images/patrick-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2015 Quarter Horse Sorrel Gelding 15 Hands",
@@ -3833,7 +3833,7 @@
   {
     "slug": "peach-quarter-horse-red-dun-gelding",
     "title": "Peach",
-    "price": 6800,
+    "price": 8800,
     "images": ["/images/peach-01.jpg", "/images/peach-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2014 Quarter Horse Red Dun Gelding 14.3 Hands",
@@ -3933,7 +3933,7 @@
   {
     "slug": "picasso-missouri-fox-trotter-pinto-mare",
     "title": "Picasso",
-    "price": 6000,
+    "price": 7600,
     "images": ["/images/picasso-01.jpg", "/images/picasso-02.jpg"],
     "category": "missouri-fox-trotter-horses",
     "excerpt": "2016 Missouri Fox Trotter Pinto Mare 15.1 Hands",
@@ -3958,7 +3958,7 @@
   {
     "slug": "picolo-paint-horse-bay-tobiano-gelding",
     "title": "Picolo",
-    "price": 7000,
+    "price": 7800,
     "images": ["/images/picolo-01.jpg", "/images/picolo-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2015 Paint Horse Bay Tobiano Gelding 14.2 Hands",
@@ -3983,7 +3983,7 @@
   {
     "slug": "pirate-quarter-horse-gray-gelding",
     "title": "Pirate",
-    "price": 5800,
+    "price": 8800,
     "images": ["/images/pirate-01.jpg", "/images/pirate-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Gray Gelding 15.1 Hands",
@@ -4058,7 +4058,7 @@
   {
     "slug": "queency-paint-horse-red-roan-and-white-mare",
     "title": "Queency",
-    "price": 6500,
+    "price": 7800,
     "images": ["/images/queency-01.jpeg", "/images/queency-02.jpeg"],
     "category": "paint-horses",
     "excerpt": "2017 Paint Horse Red Roan and White Mare 15 Hands",
@@ -4533,7 +4533,7 @@
   {
     "slug": "samba-king-paint-horse-tobiano-gelding",
     "title": "Samba King",
-    "price": 6500,
+    "price": 7900,
     "images": ["/images/samba king-01.jpeg", "/images/samba king-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2015 Paint Horse Tobiano Gelding 16 Hands",
@@ -4808,7 +4808,7 @@
   {
     "slug": "snoopy-quarter-horse-palomino-gelding",
     "title": "Snoopy",
-    "price": 5300,
+    "price": 8600,
     "images": ["/images/snoopy-01.jpg", "/images/snoopy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -4933,7 +4933,7 @@
   {
     "slug": "starlette-missouri-fox-trotter-bay-tobiano-mare",
     "title": "Starlette",
-    "price": 6000,
+    "price": 7500,
     "images": ["/images/starlette-01.jpeg", "/images/starlette-02.jpeg"],
     "category": "missouri-fox-trotter-horses",
     "excerpt": "2016 Missouri Fox Trotter Bay Tobiano Mare 14.2 Hands",
@@ -5033,7 +5033,7 @@
   {
     "slug": "stormzy-paint-horse-black-tobiano-gelding",
     "title": "Stormzy",
-    "price": 6900,
+    "price": 7800,
     "images": ["/images/stormzy-01.jpg", "/images/stormzy-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Black Tobiano Gelding 15 Hands",
@@ -5108,7 +5108,7 @@
   {
     "slug": "sunny-quarter-horse-palomino-gelding",
     "title": "Sunny",
-    "price": 5700,
+    "price": 8700,
     "images": ["/images/sunny-01.jpg", "/images/sunny-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2015 Quarter Horse Palomino Gelding 15 Hands",
@@ -5413,7 +5413,7 @@
   {
     "slug": "victoria-paint-horse-palomino-tobiano-gelding",
     "title": "Victoria",
-    "price": 6500,
+    "price": 7500,
     "images": ["/images/victoria-01.jpg", "/images/victoria-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Palomino Tobiano Gelding 15 Hands",
