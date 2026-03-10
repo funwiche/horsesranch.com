@@ -11,15 +11,17 @@
           Information
         </h2>
         <div class="w-16 border-2 rounded-lg border-tint mb-6" />
-        <div v-for="n in links" class="flex items-center pb-6">
-          <i
-            :class="`fa-solid fa-${n.icon}  size-16 text-2xl center bg-tint text-black rounded-md`"
-          />
-          <div class="flex-1 pl-3">
-            <div class="text-lg sm:text-xl font-black">{{ n.name }}</div>
-            <div>{{ n.path }}</div>
+        <address class="block not-italic">
+          <div v-for="n in links" class="flex items-center pb-6">
+            <i
+              :class="`fa-solid fa-${n.icon}  size-16 text-2xl center bg-tint text-black rounded-md`"
+            />
+            <div class="flex-1 pl-3">
+              <div class="text-lg sm:text-xl font-black">{{ n.name }}</div>
+              <div>{{ n.path }}</div>
+            </div>
           </div>
-        </div>
+        </address>
       </div>
       <div class="md:w-2/3">
         <h2 class="text-4xl font-black uppercase">
