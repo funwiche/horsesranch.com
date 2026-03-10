@@ -7,3 +7,6 @@
     <v-footer />
   </div>
 </template>
+<script setup lang="ts">
+useSeo({});
+</script>

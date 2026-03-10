@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Premium Horse Saddle",
+  "image": [
+    "https://example.com/products/saddle1.jpg",
+    "https://example.com/products/saddle2.jpg"
+  ],
+  "description": "High-quality leather horse saddle suitable for all riding levels.",
+  "sku": "SADDLE-001",
+  "brand": {
+    "@type": "Brand",
+    "name": "Versatile Horses Ranch"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "reviewCount": 25
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": 499.99,
+    "availability": "https://schema.org/InStock",
+    "url": "https://example.com/products/premium-horse-saddle",
+    "priceValidUntil": "2026-12-31"
+  }
+}

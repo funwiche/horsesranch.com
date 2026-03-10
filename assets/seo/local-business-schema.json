@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Versatile Horses Ranch",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "McAllen",
+    "addressRegion": "TX",
+    "postalCode": "78504",
+    "addressCountry": "US"
+  },
+  "email": "info@horsesranch.com",
+  "telephone": "+1 (956) 215 0140",
+  "url": "https://www.horsesranch.com",
+  "image": "https://www.horsesranch.com/logo.png",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  ],
+  "sameAs": []
+}

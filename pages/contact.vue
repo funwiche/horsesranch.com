@@ -111,6 +111,12 @@
 
 <script setup lang="ts">
 import countries from "@/resources/countries.json";
+useSeo({
+  title: "Contact Us",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Contact Us", path: "/contact" }],
+});
 const links = [
   { name: "Office Address", path: $app.address, icon: "map-location-dot" },
   { name: "Call Us", path: $app.phone, icon: "phone-rotary" },

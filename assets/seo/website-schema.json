@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Versatile Horses Ranch",
+  "url": "https://horsesranch.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://horsesranch.com/horses?keyword={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}

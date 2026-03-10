@@ -1,0 +1,147 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.horsesranch.com/#organization",
+      "name": "Horses Ranch",
+      "url": "https://www.horsesranch.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.horsesranch.com/logo.png"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://www.horsesranch.com/#localbusiness",
+      "name": "Horses Ranch",
+      "url": "https://www.horsesranch.com/",
+      "image": "https://www.horsesranch.com/logo.png",
+      "telephone": "+1-000-000-0000",
+      "priceRange": "$$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "123 Ranch Road",
+        "addressLocality": "McAllen",
+        "addressRegion": "TX",
+        "postalCode": "78504",
+        "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://facebook.com/horsesranch",
+        "https://instagram.com/horsesranch"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.horsesranch.com/#website",
+      "url": "https://www.horsesranch.com/",
+      "name": "Horses Ranch",
+      "publisher": { "@id": "https://www.horsesranch.com/#organization" },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.horsesranch.com/horses?keyword={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare/#webpage",
+      "url": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare",
+      "name": "Aiysha Quarter Horse Dappled Buckskin Mare",
+      "isPartOf": { "@id": "https://www.horsesranch.com/#website" },
+      "about": {
+        "@id": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare/#product"
+      },
+      "breadcrumb": {
+        "@id": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare/#breadcrumb"
+      },
+      "inLanguage": "en"
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.horsesranch.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Horses",
+          "item": "https://www.horsesranch.com/horses/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Quarter Horses",
+          "item": "https://www.horsesranch.com/horses/quarter-horses/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Aiysha Quarter Horse Dappled Buckskin Mare",
+          "item": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare"
+        }
+      ]
+    },
+
+    {
+      "@type": "Product",
+      "@id": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare/#product",
+      "name": "Aiysha Quarter Horse Dappled Buckskin Mare",
+      "description": "Beautiful dappled buckskin Quarter Horse mare available for sale. Well trained, healthy, and suitable for riding and ranch work.",
+      "image": ["https://www.horsesranch.com/images/aiysha-quarter-horse.jpg"],
+      "brand": {
+        "@type": "Brand",
+        "name": "Horses Ranch"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "8700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare"
+      }
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare/#article",
+      "headline": "Aiysha Quarter Horse Dappled Buckskin Mare",
+      "description": "Learn more about Aiysha, a beautiful dappled buckskin Quarter Horse mare available for sale.",
+      "author": {
+        "@type": "Organization",
+        "name": "Horses Ranch"
+      },
+      "publisher": {
+        "@id": "https://www.horsesranch.com/#organization"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.horsesranch.com/horses/quarter-horses/aiysha-quarter-horse-dappled-buckskin-mare/#webpage"
+      },
+      "datePublished": "2025-01-01",
+      "dateModified": "2025-01-01"
+    }
+  ]
+}

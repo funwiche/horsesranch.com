@@ -1,8 +1,6 @@
 <template>
   <NotFound v-if="!item" />
   <section class="p-6" v-else>
-    <Title>{{ item.setTitle }}</Title>
-
     <div class="sm sm:md lg:lg">
       <div class="py-8 grid lg:grid-cols-2 gap-12">
         <div class="flex-1">
@@ -57,7 +55,7 @@
           </div>
 
           <nuxt-link
-            to="/contact-us"
+            to="/contact"
             class="bg-tint text-black font-bold opacity-90 center h-12 px-8 hover:opacity-100"
           >
             Get a Saddle Quote
@@ -86,6 +84,18 @@ const route = useRoute();
 const item = computed(() =>
   [...saddles].find(({ slug }) => route.params.slug == slug),
 );
+useSeo({
+  title: item.value?.seoTitle,
+  desc: item.value?.seoDesc,
+  image: item.value?.images[0],
+  gallery: item.value?.images,
+  imageAlt: item.value?.imageAlt,
+  price: item.value?.price,
+  breadcrumbs: [
+    { name: "Saddles for sale", path: "/saddles" },
+    { name: item.value?.title, path: route.path },
+  ],
+});
 const image = ref(0);
 const contain = ref(false);
 const featured = [...saddles]

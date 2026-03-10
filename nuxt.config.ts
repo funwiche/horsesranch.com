@@ -6,8 +6,13 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-11-01",
   css: ["~/assets/css/main.css"],
   components: [{ path: "~/components", pathPrefix: false, global: true }],
+  routeRules: {
+    // '/sitemap_index.xml': { isr: 3600 },
+    // '/sitemap-products/*.xml': { isr: 86400 }
+  },
   app: {
     head: {
+      htmlAttrs: { lang: "en", dir: "ltr" },
       charset: "utf-8",
       viewport: "width=device-width, initial-scale=1, shrink-to-fit=no",
       title: $app.title,
@@ -15,25 +20,7 @@ export default defineNuxtConfig({
       meta: [
         { name: "format-detection", content: "telephone=no" },
         { name: "theme-color", content: "#474A48" },
-        {
-          name: "description",
-          content: $app.desc,
-        },
-        { name: "og:locale", content: "en_US" },
-        { name: "og:type", content: "website" },
-        {
-          name: "og:title",
-          content: `${$app.title} | ${$app.name}`,
-        },
-        {
-          name: "og:description",
-          content: $app.desc,
-        },
-        {
-          name: "og:site_name",
-          content: $app.name,
-        },
-        { name: "og:url", content: `https://${$app.domain}` },
+        { name: "robots", content: "index, follow" },
       ],
       link: [
         { rel: "image/x-icon", href: "/favicon.ico" },

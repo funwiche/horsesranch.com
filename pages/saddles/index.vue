@@ -17,4 +17,10 @@
 
 <script lang="ts" setup>
 import saddles from "@/resources/saddles.json";
+useSeo({
+  title: "Saddles for sale",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Saddles for sale", path: "/saddles" }],
+});
 </script>

@@ -65,7 +65,7 @@
       <div class="md:w-1/3 md:text-right p-8">
         <h2 class="font-black text-5xl mb-6">FAQs</h2>
         <div class="text-xl mb-6">Questions we often encounter.</div>
-        <v-btn title="contact us" to="/contact-us" />
+        <v-btn title="contact us" to="/contact" />
       </div>
       <div class="md:w-2/3 border-l">
         <div class="border-b" v-for="(item, i) in faqs.slice(0, 6)">

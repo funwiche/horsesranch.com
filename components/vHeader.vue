@@ -59,7 +59,7 @@
 import categories from "@/resources/categories.json";
 const links: any = [
   { title: "Home", name: "index" },
-  { title: "About", name: "about-us" },
+  { title: "About", name: "about" },
   { title: "Our Horses", name: "horses" },
   { title: "Saddles", name: "saddles" },
   { title: "Hauling", name: "hauling" },
@@ -67,7 +67,7 @@ const links: any = [
   { title: "FAQs", name: "faqs" },
   { title: "How to buy", name: "how-to-buy" },
   { title: "Testimonials", name: "testimonials" },
-  { title: "Contact", name: "contact-us" },
+  { title: "Contact", name: "contact" },
 ];
 const open = ref(false);
 // watch(useRoute(), () => (open.value = false));

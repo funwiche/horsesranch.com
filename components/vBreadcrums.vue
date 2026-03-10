@@ -1,5 +1,5 @@
 <template>
-  <Title>{{ title }}</Title>
+  <!-- <Title>{{ title }}</Title> -->
   <section class="bg-tint p-8 min-h-24 text-black center flex-col">
     <h1 class="mb-0 text-3xl sm:text-5xl font-black font-serif uppercase">
       {{ title }}

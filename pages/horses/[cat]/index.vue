@@ -36,6 +36,15 @@ const route = useRoute();
 const category = computed(() =>
   categories.find((el) => el.slug == route.params.cat),
 );
+useSeo({
+  title: category.value?.title,
+  desc: category.value?.seoDesc,
+  image: "",
+  breadcrumbs: [
+    { name: "Horses for sale", path: "/horses" },
+    { name: category.value?.title, path: route.path },
+  ],
+});
 const limit = 24;
 const results = horses.filter((el) => el.category == route.params.cat);
 const page = computed(() => parseInt((route.query.page as string) || "1"));

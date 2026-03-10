@@ -1,6 +1,5 @@
 <template>
   <section v-if="item" class="p-6">
-    <Title>{{ item.setTitle }}</Title>
     <div class="sm sm:md lg:lg">
       <div class="py-8 grid lg:grid-cols-2 gap-12">
         <div class="flex-1">
@@ -41,10 +40,7 @@
                   :to="`/horses?breed=${item.category}`"
                   class="text-tint hover:underline"
                 >
-                  {{
-                    categories.find((el) => el.slug == (item as any).category)
-                      ?.title
-                  }}
+                  {{ category?.title }}
                 </nuxt-link>
               </div>
             </div>
@@ -77,7 +73,7 @@
           </div>
           <hr class="my-6" />
           <nuxt-link
-            to="/contact-us"
+            to="/contact"
             class="bg-tint text-black font-bold opacity-90 center h-12 px-8 hover:opacity-100"
           >
             Contact us about {{ item.title }}
@@ -108,6 +104,22 @@ const route = useRoute();
 const item = computed(() =>
   [...horses].find(({ slug }) => route.params.slug == slug),
 );
+const category = computed(() =>
+  categories.find((el) => el.slug == route.params.cat),
+);
+useSeo({
+  title: item.value?.seoTitle,
+  desc: item.value?.seoDesc,
+  image: item.value?.images[0],
+  gallery: item.value?.images,
+  imageAlt: item.value?.imageAlt,
+  price: item.value?.price,
+  breadcrumbs: [
+    { name: "Horses for sale", path: "/horses" },
+    { name: category.value?.title, path: `/horses/${route.params.cat}` },
+    { name: item.value?.title, path: route.path },
+  ],
+});
 const image = ref(0);
 const contain = ref(false);
 const featured = [

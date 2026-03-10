@@ -52,8 +52,8 @@ const links: any = [
     title: "Quick Links",
     paths: [
       { name: "Home", path: "/" },
-      { name: "About Us", path: "/about-us" },
-      { name: "Contact Us", path: "/contact-us" },
+      { name: "About Us", path: "/about" },
+      { name: "Contact Us", path: "/contact" },
       { name: "Our Horses", path: "/horses" },
       { name: "Saddles", path: "/saddles" },
       { name: "Hauling", path: "/hauling" },

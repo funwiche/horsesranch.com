@@ -49,6 +49,12 @@
 <script setup lang="ts">
 import horses from "@/resources/horses.json";
 import categories from "@/resources/categories.json";
+useSeo({
+  title: "Horses for sale",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Horses for sale", path: "/horses" }],
+});
 const route = useRoute();
 const limit = 24;
 const breed = computed({
