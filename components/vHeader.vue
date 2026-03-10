@@ -41,10 +41,10 @@
           v-for="item in links"
           :to="item"
           @click="open = !open"
-          class="py-3 px-6 flex rounded-full"
+          class="py-3 px-6 flex rounded-full tracking-wide"
           :class="
             $route.name?.toString().startsWith(item.name)
-              ? 'bg-[#474A48] font-bold text-tint'
+              ? 'bg-[#474A48] font-black text-tint'
               : 'font-medium'
           "
         >
