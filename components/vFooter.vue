@@ -16,15 +16,15 @@
             <h2 class="text-2xl font-black">{{ link.title }}</h2>
             <div class="w-16 border-2 rounded-lg border-tint -mt-2" />
           </div>
-          <div v-if="link.title == 'Contact Info'">
-            <div v-for="n in link.paths" class="flex items-center py-1.5 mb-2">
-              <i :class="`fa-solid fa-${n.icon} w-6`" />
-              <div>
+          <address v-if="link.title == 'Contact Info'" class="not-italic block">
+            <div v-for="n in link.paths" class="flex gap-1 py-1.5 mb-2">
+              <i :class="`fa-solid fa-${n.icon} w-6 mt-1`" />
+              <div class="flex-1">
                 <div class="text-xs opacity-50">{{ n.name }}</div>
-                <div class="-mt-1">{{ n.path }}</div>
+                <div>{{ n.path }}</div>
               </div>
             </div>
-          </div>
+          </address>
           <div v-else>
             <nuxt-link
               :to="n.path"
