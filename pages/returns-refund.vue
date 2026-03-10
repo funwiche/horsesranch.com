@@ -115,6 +115,13 @@
   </section>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useSeo({
+  title: "Returns and Refund",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Returns and Refund", path: "/returns-refund" }],
+});
+</script>
 
 <style scoped></style>

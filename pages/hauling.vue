@@ -64,6 +64,13 @@
   </section>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useSeo({
+  title: "Hauling",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Hauling", path: "/hauling" }],
+});
+</script>
 
 <style scoped></style>

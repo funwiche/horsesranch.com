@@ -15,7 +15,7 @@
             welcome to {{ $app.name }}
           </h5>
           <h1 class="font-black text-4xl sm:text-6xl mb-6">
-            Premium <br />Horses For Sale
+            Family-Safe Ranch Horses for Sale in Texas
           </h1>
           <div class="mb-6">
             {{ $app.desc }}

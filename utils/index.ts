@@ -2,7 +2,7 @@ import { filters } from "snaputils";
 export const $f = filters;
 export const $app = {
   name: "Versatile Horses Ranch",
-  title: "Premium Horses for Sale",
+  title: "Ranch Horses for Sale in Texas",
   tagline:
     "Premium Horses. Exceptional Bloodlines. Find Your Perfect Equine Partner.",
   desc: "Find Your Perfect Equine Partner at Versatile Horses Ranch. We breed and raise quality family horses, confident trail companions, and versatile all-around mounts. Experience our gentle, well-started horses and find a trusted friend for riding, competition, or ranch work. Visit us to meet your new horse.",

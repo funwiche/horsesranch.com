@@ -205,6 +205,13 @@
   </section>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useSeo({
+  title: "Terms of service",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Terms of service", path: "/terms-of-service" }],
+});
+</script>
 
 <style scoped></style>

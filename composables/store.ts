@@ -15,7 +15,6 @@ export const useSeo = ({
   imageAlt,
   gallery,
   price,
-
   breadcrumbs = [],
 }: any) => {
   const route = useRoute();

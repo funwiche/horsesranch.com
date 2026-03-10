@@ -125,6 +125,12 @@
 </template>
 
 <script setup lang="ts">
+useSeo({
+  title: "About Us",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "About Us", path: "/about" }],
+});
 const mission = [
   "Quality and Variety",
   "Sustainable Practices",

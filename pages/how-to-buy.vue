@@ -109,6 +109,13 @@
   </section>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useSeo({
+  title: "How to buy",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "How to buy", path: "/how-to-buy" }],
+});
+</script>
 
 <style scoped></style>

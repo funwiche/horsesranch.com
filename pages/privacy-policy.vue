@@ -237,6 +237,13 @@
   </section>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useSeo({
+  title: "Privacy Policy",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Privacy Policy", path: "/privacy-policy" }],
+});
+</script>
 
 <style scoped></style>

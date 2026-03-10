@@ -15,6 +15,12 @@
 
 <script setup lang="ts">
 import faqs from "@/resources/faqs.json";
+useSeo({
+  title: "Frequently Asked Questions",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Frequently Asked Questions", path: "/faqs" }],
+});
 const model = ref(0);
 </script>
 

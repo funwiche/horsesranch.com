@@ -15,6 +15,12 @@
 
 <script setup lang="ts">
 import testimonials from "@/resources/testimonials.json";
+useSeo({
+  title: "Testimonials",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Testimonials", path: "/testimonials" }],
+});
 </script>
 
 <style scoped></style>

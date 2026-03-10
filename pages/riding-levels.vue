@@ -17,6 +17,12 @@
 </template>
 
 <script setup lang="ts">
+useSeo({
+  title: "Riding Levels",
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: "Riding Levels", path: "/riding-levels" }],
+});
 const levels = [
   {
     title: "💚 Kid Safe Horses",
