@@ -30,8 +30,8 @@
       </p>
       <p>
         <strong
-          >Bank Wire Transfer and Cash are our preferred payments. Zelle and
-          CashApp payments are also allowed.<br /></strong
+          >Bank Wire Transfer and Cash are our preferred payments. Chime, Zelle
+          and CashApp payments are also allowed.<br /></strong
         ><br /><strong
           >Get a 10% discount off your total price by paying with
           cryptocurrencies such as Bitcoins, Ethereum, USDT, and USDC amongst
