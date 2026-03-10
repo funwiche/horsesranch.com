@@ -5,8 +5,8 @@
       <div class="text-white mb-1 text-sm">Sex:</div>
       <select v-model="sex" class="h-12 bg-white border">
         <option value="">Please select</option>
-        <option value="Gelding">Gelding</option>
-        <option value="Mare">Mare</option>
+        <option value="Gelding">Geldings</option>
+        <option value="Mare">Mares</option>
       </select>
       <i class="fa-light fa-chevron-down absolute bottom-2 right-2 text-2xl" />
     </div>
