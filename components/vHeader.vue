@@ -3,53 +3,23 @@
     <section class="px-6 py-4 max-lg:hidden">
       <div class="lg flex-start text-tint">
         <div class="flex-1 flex-start divide-x pr-8">
-          <v-nav
-            v-for="n in links.slice(0, 5)"
-            :to="n.path"
-            :content="n.name"
-          />
-          <!-- <i
-              v-if="n.path == '/horses'"
-              class="fa-solid fa-chevron-down ml-2 group-hover:rotate-180 transition-all duration-300"
-            />
-            <div
-              v-if="n.path == '/horses'"
-              class="text-xs absolute z-10 top-6 left-0 bg-white text-black overflow-hidden h-0 group-hover:border group-hover:h-96 group-hover:overflow-y-auto transition-all duration-300 rounded-md"
-            >
-              <div class="py-0.5 font-medium divide-y divide-slate-200">
-                <nuxt-link
-                  v-for="n in categories"
-                  :to="`/horses/${n.slug}`"
-                  class="flex items-center px-3 h-8 text-xs uppercase whitespace-nowrap"
-                  :class="
-                    $route.params.cat == n.slug ? 'bg-black text-tint' : 'hover'
-                  "
-                >
-                  {{ n.title }}
-                </nuxt-link>
-              </div>
-            </div> -->
-          <!-- </v-nav> -->
+          <v-nav v-for="item in links.slice(0, 5)" :item="item" />
         </div>
         <nuxt-link to="/">
           <img src="/logo.png" :alt="$app.name" class="w-36" />
         </nuxt-link>
         <div class="flex-1 flex-end divide-x pl-8">
-          <v-nav
-            v-for="n in links.slice(5, 10)"
-            :to="n.path"
-            :content="n.name"
-          />
+          <v-nav v-for="item in links.slice(5, 10)" :item="item" />
         </div>
       </div>
     </section>
-    <section class="lg:hidden">
+    <section class="lg:hidden relative">
       <nuxt-link to="/" class="p-3 center relative">
         <img src="/logo.png" :alt="$app.name" class="w-24" />
       </nuxt-link>
       <i
         @click="open = !open"
-        class="fa-solid fa-bars text-xl text-white p-2 center bg-[#474A48]"
+        class="fa-light fa-bars-staggered -scale-x-100 text-3xl text-white center size-20 absolute right-0 top-2"
       />
     </section>
   </header>
@@ -66,14 +36,19 @@
       <div class="h-16 flex items-center justify-end">
         <i @click="open = !open" class="size-16 fa-regular fa-xmark center" />
       </div>
-      <div class="flex-1 overflow-y-auto pb-6">
+      <div class="flex-1 overflow-y-auto px-2 pb-6">
         <nuxt-link
-          v-for="n in links"
-          :to="n.path"
+          v-for="item in links"
+          :to="item"
           @click="open = !open"
-          class="p-3 font-medium hover center"
+          class="py-3 px-6 flex rounded-full"
+          :class="
+            $route.name?.toString().startsWith(item.name)
+              ? 'bg-[#474A48] font-bold text-tint'
+              : 'font-medium'
+          "
         >
-          {{ n.name }}
+          {{ item.title }}
         </nuxt-link>
       </div>
     </nav>
@@ -83,16 +58,16 @@
 <script setup lang="ts">
 import categories from "@/resources/categories.json";
 const links: any = [
-  { name: "Home", path: "/" },
-  { name: "About", path: "/about-us" },
-  { name: "Our Horses", path: "/horses" },
-  { name: "Saddles", path: "/saddles" },
-  { name: "Hauling", path: "/hauling" },
-  { name: "Riding Levels", path: "/riding-levels" },
-  { name: "FAQs", path: "/faqs" },
-  { name: "How to buy", path: "/how-to-buy" },
-  { name: "Testimonials", path: "/testimonials" },
-  { name: "Contact", path: "/contact-us" },
+  { title: "Home", name: "index" },
+  { title: "About", name: "about-us" },
+  { title: "Our Horses", name: "horses" },
+  { title: "Saddles", name: "saddles" },
+  { title: "Hauling", name: "hauling" },
+  { title: "Riding Levels", name: "riding-levels" },
+  { title: "FAQs", name: "faqs" },
+  { title: "How to buy", name: "how-to-buy" },
+  { title: "Testimonials", name: "testimonials" },
+  { title: "Contact", name: "contact-us" },
 ];
 const open = ref(false);
 // watch(useRoute(), () => (open.value = false));
