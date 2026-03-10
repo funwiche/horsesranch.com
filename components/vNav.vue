@@ -1,19 +1,22 @@
 <template>
   <div class="relative group">
     <nuxt-link
-      :to="to"
+      :to="item"
       class="center flex whitespace-nowrap px-3 py-1 uppercase text-xs font-bold relative"
     >
-      {{ content }}
+      {{ item.title }}
       <span
+        v-if="$route.name?.toString().startsWith(item.name)"
+        class="absolute -bottom-2 h-2 rounded-full bg-tint w-6"
+      />
+      <span
+        v-else
         class="absolute -bottom-2 size-2 rounded-full group-hover:bg-tint transition-colors"
       />
-      <slot />
     </nuxt-link>
   </div>
 </template>
 
 <script setup lang="ts">
-const model = defineModel();
-defineProps<{ to: string; content: string }>();
+defineProps<{ item: any }>();
 </script>
