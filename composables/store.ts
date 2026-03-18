@@ -15,7 +15,9 @@ export const useSeo = ({
   imageAlt,
   gallery,
   price,
+  category,
   breadcrumbs = [],
+  properties = [],
 }: any) => {
   const route = useRoute();
   const url = $app.url + route.fullPath;
@@ -90,14 +92,18 @@ export const useSeo = ({
                   "@id": `${url}#product`,
                   name: title,
                   description,
+                  availability: "InStock",
                   image: gallery?.map((img: any) => `${$app.url}${img}`),
                   brand: { "@type": "Brand", name: $app.name },
+                  category,
+                  additionalProperty: properties,
                   offers: {
                     "@type": "Offer",
+                    url,
                     priceCurrency: "USD",
                     price,
                     availability: "https://schema.org/InStock",
-                    url,
+                    seller: { "@type": "Organization", name: $app.name },
                   },
                 }
               : null,

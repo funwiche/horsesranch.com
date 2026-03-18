@@ -2,8 +2,8 @@
   <v-breadcrums :title="title" />
   <section class="lg p-4 sm:p-8 gap-4 bg-black/50 grid sm:grid-cols-2 border">
     <div class="relative">
-      <div class="text-white mb-1 text-sm">Sex:</div>
-      <select v-model="sex" class="h-12 bg-white border">
+      <div class="text-white mb-1 text-sm">Gender:</div>
+      <select v-model="gender" class="h-12 bg-white border">
         <option value="">Please select</option>
         <option value="Gelding">Geldings</option>
         <option value="Mare">Mares</option>
@@ -49,12 +49,6 @@
 <script setup lang="ts">
 import horses from "@/resources/horses.json";
 import categories from "@/resources/categories.json";
-useSeo({
-  title: "Horses for sale",
-  desc: "",
-  image: "",
-  breadcrumbs: [{ name: "Horses for sale", path: "/horses" }],
-});
 const route = useRoute();
 const limit = 24;
 const breed = computed({
@@ -64,10 +58,10 @@ const breed = computed({
     window.scrollTo(0, 0);
   },
 });
-const sex = computed({
-  get: () => route.query.sex || "",
-  set: (sex) => {
-    navigateTo({ name: "horses", query: { ...route.query, page: 1, sex } });
+const gender = computed({
+  get: () => route.query.gender || "",
+  set: (gender) => {
+    navigateTo({ name: "horses", query: { ...route.query, page: 1, gender } });
     window.scrollTo(0, 0);
   },
 });
@@ -82,8 +76,9 @@ const results = computed(() =>
         : true,
     )
     .filter((el) =>
-      sex.value
-        ? el.sex.toLowerCase() == sex.value.toString().toLowerCase()
+      gender.value
+        ? el.properties.gender.toLowerCase() ==
+          gender.value.toString().toLowerCase()
         : true,
     ),
 );
@@ -101,11 +96,17 @@ function navigate(page: number) {
 const title = computed(() => {
   return breed.value
     ? categories.find((el) => el.slug == breed.value)?.title || "Our Horses"
-    : sex.value
-      ? `${sex.value} Horses`
+    : gender.value
+      ? `${$f.capz(gender.value)} Horses`
       : route.query.keyword
         ? `${route.query.keyword}`
-        : "Available Horses";
+        : "Horses for sale";
+});
+useSeo({
+  title: title.value,
+  desc: "",
+  image: "",
+  breadcrumbs: [{ name: title.value, path: "/horses" }],
 });
 </script>
 

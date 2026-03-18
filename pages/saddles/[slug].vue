@@ -10,7 +10,7 @@
             <img
               @click="contain = !contain"
               :src="item.images[image]"
-              :alt="item.imageAlt"
+              :alt="item.seoMeta.alt"
               class="h-full w-full object-center"
               :class="contain ? 'object-contain' : 'object-cover'"
             />
@@ -20,7 +20,7 @@
               v-for="(n, i) in item.images"
               @click="image = i"
               :src="n"
-              :alt="item.imageAlt"
+              :alt="item.seoMeta.alt"
               :class="{ 'opacity-50 cursor-pointer': image != i }"
               class="aspect-square w-20 object-center object-cover hover:opacity-100"
             />
@@ -29,15 +29,20 @@
         <div class="flex-1 text-white">
           <h1 class="font-black font-serif">{{ item.title }}</h1>
           <h2 class="text-tint font-black">${{ $f.num(item.price, 0) }}</h2>
-          <hr />
-          <div class="py-4">{{ item.seoDesc }}</div>
-          <div
-            v-for="n in item.specs.split('|')"
-            class="flex-start font-semibold px-3"
-          >
-            <i class="fa-solid fa-circle mr-2 text-[8px]" />
-
-            {{ n }}
+          <hr class="my-6" />
+          <div>{{ item.seoMeta.desc }}</div>
+          <hr class="my-6" />
+          <div class="text-sm">
+            <div
+              v-for="[key, val] in Object.entries(item.properties)"
+              class="mb-2 flex"
+            >
+              <div class="w-36 capitalize font-bold">{{ key }}</div>
+              :
+              <div class="flex-1 pl-2 opacity-75">
+                {{ val }}
+              </div>
+            </div>
           </div>
 
           <div class="py-6">
@@ -84,18 +89,20 @@ const route = useRoute();
 const item = computed(() =>
   [...saddles].find(({ slug }) => route.params.slug == slug),
 );
-useSeo({
-  title: item.value?.seoTitle,
-  desc: item.value?.seoDesc,
-  image: item.value?.images[0],
-  gallery: item.value?.images,
-  imageAlt: item.value?.imageAlt,
-  price: item.value?.price,
-  breadcrumbs: [
-    { name: "Saddles for sale", path: "/saddles" },
-    { name: item.value?.title, path: route.path },
-  ],
-});
+// useSeo({
+//   title: item.value?.seoTitle,
+//   category: "Saddle",
+//   desc: item.value?.seoDesc,
+//   image: item.value?.images[0],
+//   gallery: item.value?.images,
+//   imageAlt: item.value?.imageAlt,
+//   price: item.value?.price,
+//   properties: [],
+//   breadcrumbs: [
+//     { name: "Saddles for sale", path: "/saddles" },
+//     { name: item.value?.title, path: route.path },
+//   ],
+// });
 const image = ref(0);
 const contain = ref(false);
 const featured = [...saddles]

@@ -3,6 +3,7 @@
     <div class="lg min-h-96 md:flex md:gap-12">
       <div class="flex-1">
         <img
+          :alt="$app.name"
           :src="`/slides/0${(slide % 6) + 1}.jpg`"
           class="aspect-square rounded-xl object-cover object-center"
         />

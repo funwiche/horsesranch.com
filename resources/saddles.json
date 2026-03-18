@@ -1,7 +1,8 @@
 [
   {
-    "title": "Trail Saddle",
+    "sku": "SDDLx001",
     "slug": "trail-saddle",
+    "title": "Trail Saddle",
     "images": [
       "/images/saddles/trail-saddle-01.jpg",
       "/images/saddles/trail-saddle-02.jpg",
@@ -11,10 +12,6 @@
     "price": 895,
     "category": "Saddles",
     "description": "Experience the perfect blend of comfort and durability with our Trail Saddle, designed for riders who love long days on the trail. Featuring a Wooden Batie Tree and available with your choice of gaited or wide bars, this saddle provides a secure, stable fit for a variety of horse breeds. The not-suspended seat offers traditional feel and support, while the E-Z Ride style trail stirrups reduce fatigue during extended rides. Choose between English or Western fenders and customize with or without a horn to match your riding style. Available in multiple colors with standard border tooling, this saddle combines classic Western aesthetics with modern trail riding functionality.",
-    "specs": "Seat Size: 15\", 16\", 17\" | Cantle: 4\" and 5\" | Tree: Wooden Batie Tree | Seat: Not Suspended | Bars: Gaited or Wide | Gullet: 6 1/2\" W x 7 1/4\" H | Girth: Western | Hardware: Stainless | Colors: Black, Brown, Chestnut & Tan | Weight: Approx. 24 lbs. | Fenders: English or Western | Stirrups: E-Z Ride Style Trail Stirrups | Tooling: Standard Border Tooling | Horn: Available with or without Horn",
-    "seoTitle": "Trail Saddle | Wooden Batie Tree | E-Z Ride Stirrups | Gaited or Wide Bars",
-    "seoDesc": "Shop our Trail Saddle featuring a Wooden Batie Tree, E-Z Ride trail stirrups, and your choice of gaited or wide bars. Available in 15\", 16\", and 17\" seat sizes. Perfect for long trail rides with optional horn and multiple color choices.",
-    "imageAlt": "Brown trail saddle with standard border tooling and E-Z ride stirrups",
     "tags": [
       "Trail Saddle",
       "Western Saddle",
@@ -26,11 +23,34 @@
       "Comfort Saddle",
       "Pleasure Saddle",
       "Custom Saddle"
-    ]
+    ],
+    "properties": {
+      "price": "$895.00",
+      "Seat Size": "15\", 16\", 17\"",
+      "Cantle": "4\" and 5\"",
+      "Tree": "Wooden Batie Tree",
+      "Seat": "Not Suspended",
+      "Bars": "Gaited or Wide",
+      "Gullet": "6 1/2\" W x 7 1/4\" H",
+      "Girth": "Western",
+      "Hardware": "Stainless",
+      "Colors": "Black, Brown, Chestnut & Tan",
+      "Weight": "Approx. 24 lbs.",
+      "Fenders": "English or Western",
+      "Stirrups": "E-Z Ride Style Trail Stirrups",
+      "Tooling": "Standard Border Tooling",
+      "Horn": "Available with or without Horn"
+    },
+    "seoMeta": {
+      "title": "Trail Saddle",
+      "desc": "Shop our Trail Saddle featuring a Wooden Batie Tree, E-Z Ride trail stirrups, and your choice of gaited or wide bars. Available in 15\", 16\", and 17\" seat sizes. Perfect for long trail rides with optional horn and multiple color choices.",
+      "alt": "Brown trail saddle with standard border tooling and E-Z ride stirrups"
+    }
   },
   {
-    "title": "Buena Vista Saddle",
+    "sku": "SDDLx002",
     "slug": "buena-vista-saddle",
+    "title": "Buena Vista Saddle",
     "images": [
       "/images/saddles/buena-vista-saddle-01.jpg",
       "/images/saddles/buena-vista-saddle-02.jpg",
@@ -39,12 +59,7 @@
     ],
     "price": 1095,
     "category": "Saddles",
-
     "description": "The Buena Vista Saddle offers premium comfort and craftsmanship for riders seeking a suspended seat experience. Handcrafted on a Wooden Amish-made Tree, this saddle features a suspended seat that provides exceptional shock absorption and all-day comfort. Perfect for riders who spend long hours in the saddle, the Buena Vista accommodates both gaited and wide-barred horses with its versatile gullet options. Choose between English or Western fenders and customize with or without a horn. The E-Z Ride style trail stirrups ensure foot comfort on rough terrain, while the standard edge tooling adds classic Western elegance. Available in a range of attractive colors to complement any tack collection.",
-    "specs": "Seat Size: 19\", 21\" | Cantle: 3 1/2\" | Tree: Wooden Amish made Tree | Seat: Suspended | Bars: Gaited or Wide | Gullet: Gaited 6 1/2\" Full QH 7\" | Girth: Western | Hardware: Stainless | Colors: Black, Brown, Chestnut & Tan | Weight: Approx. 24lbs | Fenders: English or Western | Stirrups: E-Z Ride Style Trail Stirrups | Tooling: Standard Edge Tooling | Horn: Available with or without Horn",
-    "seoTitle": "Buena Vista Saddle | Suspended Seat | Amish-Made Tree | Gaited & Wide Bars",
-    "seoDesc": "Discover the Buena Vista Saddle with suspended seat and Amish-made Wooden Tree. Available in 19\" and 21\" seats with gaited or wide bars. Features E-Z Ride stirrups and your choice of English or Western fenders.",
-    "imageAlt": "Chestnut Buena Vista saddle with suspended seat and edge tooling",
     "tags": [
       "Buena Vista Saddle",
       "Western Saddle",
@@ -56,11 +71,34 @@
       "Trail Saddle",
       "Pleasure Saddle",
       "Custom Saddle"
-    ]
+    ],
+    "properties": {
+      "price": "$1,095.00",
+      "Seat Size": "19\", 21\"",
+      "Cantle": "3 1/2\"",
+      "Tree": "Wooden Amish made Tree",
+      "Seat": "Suspended",
+      "Bars": "Gaited or Wide",
+      "Gullet": "Gaited 6 1/2\" Full QH 7\"",
+      "Girth": "Western",
+      "Hardware": "Stainless",
+      "Colors": "Black, Brown, Chestnut & Tan",
+      "Weight": "Approx. 24lbs",
+      "Fenders": "English or Western",
+      "Stirrups": "E-Z Ride Style Trail Stirrups",
+      "Tooling": "Standard Edge Tooling",
+      "Horn": "Available with or without Horn"
+    },
+    "seoMeta": {
+      "title": "Buena Vista Saddle",
+      "desc": "Discover the Buena Vista Saddle with suspended seat and Amish-made Wooden Tree. Available in 19\" and 21\" seats with gaited or wide bars. Features E-Z Ride stirrups and your choice of English or Western fenders.",
+      "alt": "Chestnut Buena Vista saddle with suspended seat and edge tooling"
+    }
   },
   {
-    "title": "Endurance Saddle",
+    "sku": "SDDLx003",
     "slug": "endurance-saddle",
+    "title": "Endurance Saddle",
     "images": [
       "/images/saddles/endurance-saddle-01.jpg",
       "/images/saddles/endurance-saddle-02.jpg",
@@ -69,12 +107,7 @@
     ],
     "price": 995,
     "category": "Saddles",
-
     "description": "Built for the long-distance rider, our Endurance Saddle combines lightweight construction with rugged durability. Featuring a Wooden Batie Tree and suspended seat, this saddle reduces fatigue during extended rides while maintaining excellent saddle-to-horse contact. The 6\" gullet accommodates a wide range of horses, and your choice of gaited or wide bars ensures a custom fit. Leather-covered trail stirrups provide superior grip and comfort, while the standard edge tooling adds timeless Western style. Choose between English or Western fenders and select with or without a horn to match your specific riding discipline. Ideal for competitive endurance riding or serious trail enthusiasts.",
-    "specs": "Seat Size: 17\", 18\", 19\" | Cantle: 4\" H | Tree: Wooden Batie Tree | Seat: Suspended | Bars: Gaited or Wide | Gullet: 6\" | Girth: Western | Hardware: Stainless | Colors: Black, Brown, Chestnut & Tan | Weight: Approx. 24 lbs | Fenders: English or Western | Stirrups: Leather Covered Trail Stirrups | Tooling: Standard Edge Tooling | Horn: Available with or without Horn",
-    "seoTitle": "Endurance Saddle | Wooden Batie Tree | Leather Covered Stirrups | Lightweight",
-    "seoDesc": "Shop our Endurance Saddle featuring a Wooden Batie Tree, suspended seat, and leather-covered trail stirrups. Available in 17\", 18\", and 19\" seat sizes with gaited or wide bars for the perfect fit.",
-    "imageAlt": "Black endurance saddle with leather covered stirrups and edge tooling",
     "tags": [
       "Endurance Saddle",
       "Western Saddle",
@@ -86,11 +119,34 @@
       "Trail Saddle",
       "Lightweight Saddle",
       "Long Distance Riding"
-    ]
+    ],
+    "properties": {
+      "price": "$995.00",
+      "Seat Size": "17\", 18\", 19\"",
+      "Cantle": "4\" H",
+      "Tree": "Wooden Batie Tree",
+      "Seat": "Suspended",
+      "Bars": "Gaited or Wide",
+      "Gullet": "6\"",
+      "Girth": "Western",
+      "Hardware": "Stainless",
+      "Colors": "Black, Brown, Chestnut & Tan",
+      "Weight": "Approx. 24 lbs",
+      "Fenders": "English or Western",
+      "Stirrups": "Leather Covered Trail Stirrups",
+      "Tooling": "Standard Edge Tooling",
+      "Horn": "Available with or without Horn"
+    },
+    "seoMeta": {
+      "title": "Endurance Saddle",
+      "desc": "Shop our Endurance Saddle featuring a Wooden Batie Tree, suspended seat, and leather-covered trail stirrups. Available in 17\", 18\", and 19\" seat sizes with gaited or wide bars for the perfect fit.",
+      "alt": "Black endurance saddle with leather covered stirrups and edge tooling"
+    }
   },
   {
-    "title": "Old Timer Saddle",
+    "sku": "SDDLx004",
     "slug": "old-timer-saddle",
+    "title": "Old Timer Saddle",
     "images": [
       "/images/saddles/old-timer-saddle-01.jpg",
       "/images/saddles/old-timer-saddle-02.jpg",
@@ -99,12 +155,7 @@
     ],
     "price": 925,
     "category": "Saddles",
-
     "description": "The Old Timer Saddle captures the classic Western aesthetic with modern comfort features for today's rider. Built on a sturdy Wooden Batie Tree with a suspended seat, this saddle offers exceptional comfort for all-day riding sessions. The generous 5\" cantle provides security and support, while the 6 1/2\" gullet ensures proper clearance for your horse's withers. Choose from gaited or wide bars to achieve the perfect fit for your equine partner. E-Z Ride style trail stirrups reduce leg fatigue on rough terrain, and your choice of English or Western fenders allows complete customization. Available with or without a horn and in multiple attractive colors with standard edge tooling, the Old Timer combines vintage charm with contemporary performance.",
-    "specs": "Seat Size: 16\", 17\", 18\" | Cantle: 5\" H | Tree: Wooden Batie Tree | Seat: Suspended | Bars: Gaited or Wide | Gullet: 6 1/2\" | Girth: Western | Hardware: Stainless | Colors: Black, Brown, Chestnut & Tan | Weight: Approx. 26 lbs | Fenders: English or Western | Stirrups: E-Z Ride Style Trail Stirrups | Tooling: Standard Edge Tooling | Horn: Available with or without Horn",
-    "seoTitle": "Old Timer Saddle | Wooden Batie Tree | 5\" Cantle | E-Z Ride Stirrups",
-    "seoDesc": "Discover the Old Timer Saddle featuring a Wooden Batie Tree, suspended seat, and 5\" cantle. Available in 16\", 17\", and 18\" seat sizes with gaited or wide bars. Classic Western style with modern comfort.",
-    "imageAlt": "Tan Old Timer saddle with edge tooling and E-Z ride stirrups",
     "tags": [
       "Old Timer Saddle",
       "Western Saddle",
@@ -116,9 +167,32 @@
       "Trail Saddle",
       "Classic Western",
       "Comfort Saddle"
-    ]
+    ],
+    "properties": {
+      "price": "$925.00",
+      "Seat Size": "16\", 17\", 18\"",
+      "Cantle": "5\" H",
+      "Tree": "Wooden Batie Tree",
+      "Seat": "Suspended",
+      "Bars": "Gaited or Wide",
+      "Gullet": "6 1/2\"",
+      "Girth": "Western",
+      "Hardware": "Stainless",
+      "Colors": "Black, Brown, Chestnut & Tan",
+      "Weight": "Approx. 26 lbs",
+      "Fenders": "English or Western",
+      "Stirrups": "E-Z Ride Style Trail Stirrups",
+      "Tooling": "Standard Edge Tooling",
+      "Horn": "Available with or without Horn"
+    },
+    "seoMeta": {
+      "title": "Old Timer Saddle",
+      "desc": "Discover the Old Timer Saddle featuring a Wooden Batie Tree, suspended seat, and 5\" cantle. Available in 16\", 17\", and 18\" seat sizes with gaited or wide bars. Classic Western style with modern comfort.",
+      "alt": "Tan Old Timer saddle with edge tooling and E-Z ride stirrups"
+    }
   },
   {
+    "sku": "SDDLx005",
     "slug": "1-white-rock-ranch-cutter",
     "title": "1 White Rock Ranch Cutter",
     "price": 2100,
@@ -128,11 +202,7 @@
       "/images/saddles/1-white-rock-ranch-cutter-03.jpeg",
       "/images/saddles/1-white-rock-ranch-cutter-04.jpeg"
     ],
-
     "description": "The White Rock Ranch Cutter is a versatile cutting saddle built on a Hadlock Brand Buster Welch Tree with a 5-year warranty. Crafted from premium Herman Oak leather, this saddle features a Basketweave/Floral combo tooling with roughout jockey and fenders. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it offers a Full Quarter Horse bar width that fits a wide variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. Perfect for trails, ranch work, team sorting, cutting, and other disciplines. Available in 15.5\" and 16.5\" seat sizes and ready to ship.",
-    "seoTitle": "White Rock Ranch Cutter | Hadlock Buster Welch Tree | Herman Oak Leather | Versatile Cutting Saddle",
-    "seoDesc": "Shop the White Rock Ranch Cutter saddle featuring a Hadlock Buster Welch Tree with 5-year warranty, Herman Oak leather, and Basketweave/Floral tooling. Available in 15.5\" and 16.5\" seats. Perfect for cutting, ranch work, and trail riding.",
-    "imageAlt": "White Rock Ranch Cutter saddle with Basketweave/Floral tooling and roughout fenders",
     "tags": [
       "Cutting Saddle",
       "Ranch Cutter",
@@ -145,9 +215,28 @@
       "Trail Saddle",
       "Versatile Saddle"
     ],
-    "specs": "Seat Size: 15.5\", 16.5\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Basketweave/Floral Combo | Fenders: Roughout | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 30 lbs"
+    "properties": {
+      "price": "$2,100.00",
+      "Seat Size": "15.5\", 16.5\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Basketweave/Floral Combo",
+      "Fenders": "Roughout",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 30 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Ranch Cutter",
+      "desc": "Shop the White Rock Ranch Cutter saddle featuring a Hadlock Buster Welch Tree with 5-year warranty, Herman Oak leather, and Basketweave/Floral tooling. Available in 15.5\" and 16.5\" seats. Perfect for cutting, ranch work, and trail riding.",
+      "alt": "White Rock Ranch Cutter saddle with Basketweave/Floral tooling and roughout fenders"
+    }
   },
   {
+    "sku": "SDDLx006",
     "slug": "2-white-rock-cutting-saddle",
     "title": "2 White Rock Cutting Saddle",
     "price": 2000,
@@ -158,9 +247,6 @@
       "/images/saddles/2-white-rock-cutting-saddle-04.jpeg"
     ],
     "description": "This White Rock Cutting Saddle is built on a Hadlock Brand Buster Welch Tree with a 5-year warranty and premium Herman Oak leather. Featuring Floral tooling with a padded seat and roughout fenders, this saddle offers both style and comfort. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it has a Full Quarter Horse bar width that accommodates a wide range of horse breeds including Quarter Horses, Draftcrosses, and Gaited Horses. Ideal for trails, ranch work, team sorting, cutting, and more. Available in 15\" and 16\" seat sizes and ready to ship.",
-    "seoTitle": "White Rock Cutting Saddle | Hadlock Buster Welch Tree | Floral Tooling | Padded Seat",
-    "seoDesc": "Discover the White Rock Cutting Saddle with Hadlock Buster Welch Tree, Floral tooling, and padded seat. Available in 15\" and 16\" sizes. Herman Oak leather construction with 5-year tree warranty.",
-    "imageAlt": "White Rock Cutting Saddle with Floral tooling and padded seat",
     "tags": [
       "Cutting Saddle",
       "Hadlock Tree",
@@ -173,9 +259,29 @@
       "Trail Saddle",
       "Padded Seat"
     ],
-    "specs": "Seat Size: 15\", 16\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Floral | Seat: Padded | Fenders: Roughout | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 30 lbs"
+    "properties": {
+      "price": "$2,000.00",
+      "Seat Size": "15\", 16\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Floral",
+      "Seat": "Padded",
+      "Fenders": "Roughout",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 30 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Cutting Saddle",
+      "desc": "Discover the White Rock Cutting Saddle with Hadlock Buster Welch Tree, Floral tooling, and padded seat. Available in 15\" and 16\" sizes. Herman Oak leather construction with 5-year tree warranty.",
+      "alt": "White Rock Cutting Saddle with Floral tooling and padded seat"
+    }
   },
   {
+    "sku": "SDDLx007",
     "slug": "3-white-rock-cutting-saddle",
     "title": "3 White Rock Cutting Saddle",
     "price": 1900,
@@ -186,9 +292,6 @@
       "/images/saddles/3-white-rock-cutting-saddle-04.jpeg"
     ],
     "description": "This White Rock Cutting Saddle features a Hadlock Brand Buster Welch Tree with a 5-year warranty and is crafted from Herman Oak leather. The Diamond tooling pattern with roughout jockey and fenders gives this saddle a distinctive look. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it offers a Full Quarter Horse bar width that fits a variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. Perfect for trails, ranch work, team sorting, cutting, and other disciplines. Available in 16\" and 16.5\" seat sizes and ready to ship.",
-    "seoTitle": "White Rock Cutting Saddle | Hadlock Buster Welch Tree | Diamond Tooling | Roughout Fenders",
-    "seoDesc": "Shop the White Rock Cutting Saddle featuring Diamond tooling, Hadlock Buster Welch Tree, and Herman Oak leather. Available in 16\" and 16.5\" seats. Versatile for cutting, ranch work, and trail riding.",
-    "imageAlt": "White Rock Cutting Saddle with Diamond tooling and roughout fenders",
     "tags": [
       "Cutting Saddle",
       "Hadlock Tree",
@@ -201,9 +304,28 @@
       "Trail Saddle",
       "Versatile"
     ],
-    "specs": "Seat Size: 16\", 16.5\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Diamond | Fenders: Roughout | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 30 lbs"
+    "properties": {
+      "price": "$1,900.00",
+      "Seat Size": "16\", 16.5\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Diamond",
+      "Fenders": "Roughout",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 30 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Cutting Saddle",
+      "desc": "Shop the White Rock Cutting Saddle featuring Diamond tooling, Hadlock Buster Welch Tree, and Herman Oak leather. Available in 16\" and 16.5\" seats. Versatile for cutting, ranch work, and trail riding.",
+      "alt": "White Rock Cutting Saddle with Diamond tooling and roughout fenders"
+    }
   },
   {
+    "sku": "SDDLx008",
     "slug": "4-white-rock-cutting-saddle",
     "title": "4 White Rock Cutting Saddle",
     "price": 2100,
@@ -214,9 +336,6 @@
       "/images/saddles/4-white-rock-cutting-saddle-04.jpeg"
     ],
     "description": "This White Rock Cutting Saddle is built on a Hadlock Brand Buster Welch Tree with a 5-year warranty and premium Herman Oak leather. It features a unique Spide tooling pattern with a Braid Border on roughout jockey and fenders, creating a distinctive Western aesthetic. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it has a Full Quarter Horse bar width that accommodates a wide range of horses including Quarter Horses, Draftcrosses, and Gaited Horses. Ideal for trails, ranch work, team sorting, cutting, and more. Available in 16\" seat size and ready to ship.",
-    "seoTitle": "White Rock Cutting Saddle | Hadlock Buster Welch Tree | Spide Tooling | Braid Border",
-    "seoDesc": "Discover the White Rock Cutting Saddle with Spide tooling and Braid Border on roughout fenders. Hadlock Buster Welch Tree with 5-year warranty. Available in 16\" seat. Herman Oak leather construction.",
-    "imageAlt": "White Rock Cutting Saddle with Spide tooling and Braid Border",
     "tags": [
       "Cutting Saddle",
       "Hadlock Tree",
@@ -229,9 +348,28 @@
       "Team Sorting",
       "Unique Tooling"
     ],
-    "specs": "Seat Size: 16\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Spide with Braid Border | Fenders: Roughout | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 30 lbs"
+    "properties": {
+      "price": "$2,100.00",
+      "Seat Size": "16\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Spide with Braid Border",
+      "Fenders": "Roughout",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 30 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Cutting Saddle",
+      "desc": "Discover the White Rock Cutting Saddle with Spide tooling and Braid Border on roughout fenders. Hadlock Buster Welch Tree with 5-year warranty. Available in 16\" seat. Herman Oak leather construction.",
+      "alt": "White Rock Cutting Saddle with Spide tooling and Braid Border"
+    }
   },
   {
+    "sku": "SDDLx009",
     "slug": "5-white-rock-cutting-saddle",
     "title": "5 White Rock Cutting Saddle",
     "price": 2000,
@@ -242,9 +380,6 @@
       "/images/saddles/5-white-rock-cutting-saddle-04.jpeg"
     ],
     "description": "This White Rock Cutting Saddle features a Hadlock Brand Buster Welch Tree with a 5-year warranty and is crafted from Herman Oak leather. The Snake Border tooling on rich dark oiled leather with smooth jockey and fenders creates an elegant, classic look. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it offers a Full Quarter Horse bar width that fits a variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. Perfect for trails, ranch work, team sorting, cutting, and other disciplines. Available in 15\", 16\", and 17\" seat sizes and ready to ship.",
-    "seoTitle": "White Rock Cutting Saddle | Hadlock Buster Welch Tree | Snake Border | Dark Oiled Leather",
-    "seoDesc": "Shop the White Rock Cutting Saddle featuring Snake Border tooling on dark oiled leather. Hadlock Buster Welch Tree with 5-year warranty. Available in 15\", 16\", and 17\" seats. Herman Oak leather.",
-    "imageAlt": "White Rock Cutting Saddle with Snake Border tooling on dark oiled leather",
     "tags": [
       "Cutting Saddle",
       "Hadlock Tree",
@@ -257,9 +392,29 @@
       "Team Sorting",
       "Elegant"
     ],
-    "specs": "Seat Size: 15\", 16\", 17\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Snake Border | Color: Dark Oiled | Fenders: Smooth | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 30 lbs"
+    "properties": {
+      "price": "$2,000.00",
+      "Seat Size": "15\", 16\", 17\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Snake Border",
+      "Color": "Dark Oiled",
+      "Fenders": "Smooth",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 30 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Cutting Saddle",
+      "desc": "Shop the White Rock Cutting Saddle featuring Snake Border tooling on dark oiled leather. Hadlock Buster Welch Tree with 5-year warranty. Available in 15\", 16\", and 17\" seats. Herman Oak leather.",
+      "alt": "White Rock Cutting Saddle with Snake Border tooling on dark oiled leather"
+    }
   },
   {
+    "sku": "SDDLx010",
     "slug": "6-white-rock-ranch-cutter",
     "title": "6 White Rock Ranch Cutter",
     "price": 1900,
@@ -270,9 +425,6 @@
       "/images/saddles/6-white-rock-cutting-saddle-04.jpeg"
     ],
     "description": "This White Rock Ranch Cutter is built on a Hadlock Brand Buster Welch Tree with a 5-year warranty and premium Herman Oak leather. It features Snake Border tooling on Light Oiled Leather with roughout jockey and fenders, combining style with functionality. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it has a Full Quarter Horse bar width that accommodates a wide range of horses including Quarter Horses, Draftcrosses, and Gaited Horses. Perfect for trails, ranch work, team sorting, cutting, and other disciplines. Available in 15.5\", 16.5\", and 17\" seat sizes and ready to ship.",
-    "seoTitle": "White Rock Ranch Cutter | Hadlock Buster Welch Tree | Snake Border | Light Oiled Leather",
-    "seoDesc": "Discover the White Rock Ranch Cutter with Snake Border tooling on Light Oiled Leather. Hadlock Buster Welch Tree with 5-year warranty. Available in 15.5\", 16.5\", and 17\" seats. Herman Oak leather.",
-    "imageAlt": "White Rock Ranch Cutter with Snake Border tooling on light oiled leather",
     "tags": [
       "Cutting Saddle",
       "Ranch Cutter",
@@ -285,9 +437,29 @@
       "Ranch Work",
       "Versatile"
     ],
-    "specs": "Seat Size: 15.5\", 16.5\", 17\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Snake Border | Color: Light Oiled | Fenders: Roughout | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 30 lbs"
+    "properties": {
+      "price": "$1,900.00",
+      "Seat Size": "15.5\", 16.5\", 17\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Snake Border",
+      "Color": "Light Oiled",
+      "Fenders": "Roughout",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 30 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Ranch Cutter",
+      "desc": "Discover the White Rock Ranch Cutter with Snake Border tooling on Light Oiled Leather. Hadlock Buster Welch Tree with 5-year warranty. Available in 15.5\", 16.5\", and 17\" seats. Herman Oak leather.",
+      "alt": "White Rock Ranch Cutter with Snake Border tooling on light oiled leather"
+    }
   },
   {
+    "sku": "SDDLx011",
     "slug": "7-white-rock-cutting-saddle",
     "title": "7 White Rock Cutting Saddle",
     "price": 2500,
@@ -298,9 +470,6 @@
       "/images/saddles/7-white-rock-cutting-saddle-04.jpeg"
     ],
     "description": "This White Rock Cutting Saddle features a Hadlock Brand Buster Welch Tree with a 5-year warranty and is crafted from Herman Oak leather. The Basketweave tooling on Rich Chocolate Brown Leather combined with White Buckstitch on roughout jockey and fenders creates a striking, custom look. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it offers a Full Quarter Horse bar width that fits a variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. Ideal for trails, ranch work, team sorting, cutting, and more. Available in 16\" seat size and ready to ship.",
-    "seoTitle": "White Rock Cutting Saddle | Hadlock Buster Welch Tree | Basketweave | White Buckstitch",
-    "seoDesc": "Shop the White Rock Cutting Saddle featuring Basketweave tooling and White Buckstitch on chocolate brown leather. Hadlock Buster Welch Tree with 5-year warranty. Available in 16\" seat.",
-    "imageAlt": "White Rock Cutting Saddle with Basketweave tooling and White Buckstitch",
     "tags": [
       "Cutting Saddle",
       "Hadlock Tree",
@@ -313,9 +482,30 @@
       "Custom",
       "Premium"
     ],
-    "specs": "Seat Size: 16\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Basketweave | Color: Rich Chocolate Brown | Accents: White Buckstitch | Fenders: Roughout | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 30 lbs"
+    "properties": {
+      "price": "$2,500.00",
+      "Seat Size": "16\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Basketweave",
+      "Color": "Rich Chocolate Brown",
+      "Accents": "White Buckstitch",
+      "Fenders": "Roughout",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 30 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Cutting Saddle",
+      "desc": "Shop the White Rock Cutting Saddle featuring Basketweave tooling and White Buckstitch on chocolate brown leather. Hadlock Buster Welch Tree with 5-year warranty. Available in 16\" seat.",
+      "alt": "White Rock Cutting Saddle with Basketweave tooling and White Buckstitch"
+    }
   },
   {
+    "sku": "SDDLx012",
     "slug": "8-white-rock-cutting-saddle",
     "title": "8 White Rock Cutting Saddle",
     "price": 2500,
@@ -326,9 +516,6 @@
       "/images/saddles/8-white-rock-cutting-saddle-04.jpeg"
     ],
     "description": "This White Rock Cutting Saddle is built on a Hadlock Brand Buster Welch Tree with a 5-year warranty and premium Herman Oak leather. It features Snowflake tooling and bordering on Deep Chestnut Leather with White Buckstitch on roughout jockey and fenders, creating an eye-catching design. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it has a Full Quarter Horse bar width that accommodates a wide range of horses including Quarter Horses, Draftcrosses, and Gaited Horses. Perfect for trails, ranch work, team sorting, cutting, and other disciplines. Available in 16\" seat size and ready to ship.",
-    "seoTitle": "White Rock Cutting Saddle | Hadlock Buster Welch Tree | Snowflake Tooling | White Buckstitch",
-    "seoDesc": "Discover the White Rock Cutting Saddle with Snowflake tooling and White Buckstitch on deep chestnut leather. Hadlock Buster Welch Tree with 5-year warranty. Available in 16\" seat.",
-    "imageAlt": "White Rock Cutting Saddle with Snowflake tooling and White Buckstitch",
     "tags": [
       "Cutting Saddle",
       "Hadlock Tree",
@@ -341,9 +528,30 @@
       "Custom",
       "Premium"
     ],
-    "specs": "Seat Size: 16\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Snowflake with Border | Color: Deep Chestnut | Accents: White Buckstitch | Fenders: Roughout | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 30 lbs"
+    "properties": {
+      "price": "$2,500.00",
+      "Seat Size": "16\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Snowflake with Border",
+      "Color": "Deep Chestnut",
+      "Accents": "White Buckstitch",
+      "Fenders": "Roughout",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 30 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Cutting Saddle",
+      "desc": "Discover the White Rock Cutting Saddle with Snowflake tooling and White Buckstitch on deep chestnut leather. Hadlock Buster Welch Tree with 5-year warranty. Available in 16\" seat.",
+      "alt": "White Rock Cutting Saddle with Snowflake tooling and White Buckstitch"
+    }
   },
   {
+    "sku": "SDDLx013",
     "slug": "9-white-rock-cutting-saddle",
     "title": "9 White Rock Cutting Saddle",
     "price": 1900,
@@ -354,9 +562,6 @@
       "/images/saddles/9-white-rock-cutting-saddle-04.jpeg"
     ],
     "description": "This White Rock Cutting Saddle features a Hadlock Brand Buster Welch Tree with a 5-year warranty and is crafted from Herman Oak leather. The Shell tooling on Rich Chocolate Leather with roughout jockey and fenders offers classic styling. This saddle is built with a single rear skirt, making it approximately 5 lbs lighter than other models. With a 9-inch front swell height, 13-inch width, and 3-inch cantle, it offers a Full Quarter Horse bar width that fits a variety of horses from Quarter Horses to Draftcrosses to Gaited Horses. Ideal for trails, ranch work, team sorting, cutting, and more. Available in 16\" seat size and ready to ship.",
-    "seoTitle": "White Rock Cutting Saddle | Hadlock Buster Welch Tree | Shell Tooling | Lightweight Design",
-    "seoDesc": "Shop the White Rock Cutting Saddle featuring Shell tooling and lightweight single rear skirt design. Hadlock Buster Welch Tree with 5-year warranty. Available in 16\" seat. Herman Oak leather.",
-    "imageAlt": "White Rock Cutting Saddle with Shell tooling and lightweight single skirt",
     "tags": [
       "Cutting Saddle",
       "Hadlock Tree",
@@ -369,6 +574,26 @@
       "Ranch Work",
       "Trail Saddle"
     ],
-    "specs": "Seat Size: 16\" | Tree: Hadlock Brand Buster Welch Tree with 5-Year Warranty | Front Swell Height: 9\" | Swell Width: 13\" | Cantle: 3\" | Bars: Full Quarter Horse | Leather: Herman Oak | Tooling: Shell | Color: Rich Chocolate | Fenders: Roughout | Skirt: Single Rear (5 lbs lighter) | Stirrups: Rawhide Wrapped (Nettles stirrups available for $125 up-charge) | Weight: Approx. 25 lbs"
+    "properties": {
+      "price": "$1,900.00",
+      "Seat Size": "16\"",
+      "Tree": "Hadlock Brand Buster Welch Tree with 5-Year Warranty",
+      "Front Swell Height": "9\"",
+      "Swell Width": "13\"",
+      "Cantle": "3\"",
+      "Bars": "Full Quarter Horse",
+      "Leather": "Herman Oak",
+      "Tooling": "Shell",
+      "Color": "Rich Chocolate",
+      "Fenders": "Roughout",
+      "Skirt": "Single Rear (5 lbs lighter)",
+      "Stirrups": "Rawhide Wrapped (Nettles stirrups available for $125 up-charge)",
+      "Weight": "Approx. 25 lbs"
+    },
+    "seoMeta": {
+      "title": "White Rock Cutting Saddle",
+      "desc": "Shop the White Rock Cutting Saddle featuring Shell tooling and lightweight single rear skirt design. Hadlock Buster Welch Tree with 5-year warranty. Available in 16\" seat. Herman Oak leather.",
+      "alt": "White Rock Cutting Saddle with Shell tooling and lightweight single skirt"
+    }
   }
 ]

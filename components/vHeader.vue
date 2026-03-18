@@ -60,7 +60,7 @@ import categories from "@/resources/categories.json";
 const links: any = [
   { title: "Home", name: "index" },
   { title: "About", name: "about" },
-  { title: "Our Horses", name: "horses" },
+  { title: "Available Horses", name: "horses" },
   { title: "Saddles", name: "saddles" },
   { title: "Hauling", name: "hauling" },
   { title: "Riding Levels", name: "riding-levels" },

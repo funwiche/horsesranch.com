@@ -8,5 +8,5 @@
   </div>
 </template>
 <script setup lang="ts">
-const meta = useSeo({});
+useSeo({});
 </script>

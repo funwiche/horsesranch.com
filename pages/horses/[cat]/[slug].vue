@@ -7,7 +7,7 @@
             <img
               @click="contain = !contain"
               :src="item.images[image]"
-              :alt="item.imageAlt"
+              :alt="item.seoMeta.alt"
               class="h-full w-full object-center"
               :class="contain ? 'object-contain' : 'object-cover'"
             />
@@ -17,7 +17,7 @@
               v-for="(n, i) in item.images"
               @click="image = i"
               :src="n"
-              :alt="item.imageAlt"
+              :alt="item.seoMeta.alt"
               :class="{ 'opacity-50 cursor-pointer': image != i }"
               class="aspect-square w-20 object-center object-cover hover:opacity-100"
             />
@@ -28,46 +28,35 @@
           <h2 class="text-tint font-black">${{ $f.num(item.price, 0) }}</h2>
           <hr class="my-6" />
           <div class="italic font-serif">
-            {{ item.seoDesc }}
+            {{ item.seoMeta.desc }}
           </div>
           <hr class="my-6" />
           <div class="text-sm">
-            <div class="flex">
-              <div class="w-36">Category</div>
+            <div
+              v-for="[key, val] in Object.entries(item.properties)"
+              class="mb-2 flex"
+            >
+              <div class="w-20 capitalize font-bold">{{ key }}</div>
               :
               <div class="flex-1 pl-2">
-                <nuxt-link
-                  :to="`/horses?breed=${item.category}`"
-                  class="text-tint hover:underline"
-                >
-                  {{ category?.title }}
-                </nuxt-link>
-              </div>
-            </div>
-            <div class="flex pt-1">
-              <div class="w-36">Sex</div>
-              :
-              <div class="flex-1 pl-2">
-                <nuxt-link
-                  :to="`/horses?sex=${encodeURIComponent(item.sex)}`"
-                  class="text-tint hover:underline"
-                >
-                  {{ item.sex }}
-                </nuxt-link>
-              </div>
-            </div>
-            <div class="flex pt-1">
-              <div class="w-36">Keywords</div>
-              :
-              <div class="flex-1 pl-2">
-                <span v-for="n in item.tags">
-                  <nuxt-link
-                    :to="`/horses?keyword=${encodeURIComponent(n)}`"
-                    class="text-tint hover:underline"
-                  >
-                    {{ n }} </nuxt-link
-                  >,
+                <span v-if="key == 'discipline'">
+                  <span v-for="(n, i) in val.split(',').map((el) => el.trim())">
+                    {{ i > 0 ? "," : "" }}
+                    <nuxt-link
+                      :to="`/horses?keyword=${encodeURIComponent(n)}`"
+                      class="text-tint hover:underline"
+                    >
+                      {{ n }}
+                    </nuxt-link>
+                  </span>
                 </span>
+                <nuxt-link
+                  v-else
+                  :to="`/horses?${key}=${encodeURIComponent(val)}`"
+                  class="text-tint hover:underline"
+                >
+                  {{ val }}
+                </nuxt-link>
               </div>
             </div>
           </div>
@@ -107,19 +96,48 @@ const item = computed(() =>
 const category = computed(() =>
   categories.find((el) => el.slug == route.params.cat),
 );
-useSeo({
-  title: item.value?.seoTitle,
-  desc: item.value?.seoDesc,
-  image: item.value?.images[0],
-  gallery: item.value?.images,
-  imageAlt: item.value?.imageAlt,
-  price: item.value?.price,
-  breadcrumbs: [
-    { name: "Horses for sale", path: "/horses" },
-    { name: category.value?.title, path: `/horses/${route.params.cat}` },
-    { name: item.value?.title, path: route.path },
-  ],
-});
+const properties = [];
+// useSeo({
+//   title: item.value?.seoTitle,
+//   category: "Horse", //category.value?.title.slice(0, -1),
+//   desc: item.value?.seoDesc,
+//   image: item.value?.images[0],
+//   gallery: item.value?.images,
+//   imageAlt: item.value?.imageAlt,
+//   price: item.value?.price,
+//   properties: [
+//     {
+//       "@type": "PropertyValue",
+//       name: "Breed",
+//       value: item.value?.breed,
+//     },
+//     {
+//       "@type": "PropertyValue",
+//       name: "Gender",
+//       value: item.value?.gender,
+//     },
+//     {
+//       "@type": "PropertyValue",
+//       name: "Color",
+//       value: "Grey",
+//     },
+//     {
+//       "@type": "PropertyValue",
+//       name: "Height",
+//       value: "14.2 hands",
+//     },
+//     {
+//       "@type": "PropertyValue",
+//       name: "Discipline",
+//       value: "Trail Riding",
+//     },
+//   ],
+//   breadcrumbs: [
+//     { name: "Horses for sale", path: "/horses" },
+//     { name: category.value?.title, path: `/horses/${route.params.cat}` },
+//     { name: item.value?.title, path: route.path },
+//   ],
+// });
 const image = ref(0);
 const contain = ref(false);
 const featured = [

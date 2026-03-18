@@ -100,10 +100,16 @@
       </div>
     </div>
   </section>
-  <iframe
+  <!-- <iframe
     class="h-96 w-full bg-base mb-12"
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228870.897764868!2d-98.39857384944725!3d26.323009338237313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8665a41d2289547f%3A0x1cef0cac7314d858!2sMcAllen%2C%20TX%2078504%2C%20USA!5e0!3m2!1sen!2suk!4v1760049210237!5m2!1sen!2suk"
     style="border: 0"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+  /> -->
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3579.99336916333!2d-98.21712192458502!3d26.19689397708109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjbCsDExJzQ4LjgiTiA5OMKwMTInNTIuNCJX!5e0!3m2!1sen!2suk!4v1773689570777!5m2!1sen!2suk"
+    class="h-96 w-full bg-base mb-12 border-0"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
   />

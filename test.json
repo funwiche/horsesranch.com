@@ -1,0 +1,1810 @@
+[
+  {
+    "slug": "aiysha-quarter-horse-dappled-buckskin-mare",
+    "sku": "AIYSHA-001",
+    "breed": "Quarter Horse",
+    "color": "Dappled Buckskin",
+    "height": "15 hands",
+    "discipline": "Ranch Riding, Reining, Trail Riding"
+  },
+  {
+    "slug": "ajax-quarter-horse-buckskin-gelding",
+    "sku": "AJAX-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Ranch Work, Roping, Reining"
+  },
+  {
+    "slug": "akira-tennessee-walking-horse-chocolate-overo-gelding",
+    "sku": "AKIRA-001",
+    "breed": "Tennessee Walking Horse",
+    "color": "Chocolate Overo",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "alex-gypsy-vanner-tobiano-gelding",
+    "sku": "ALEX-001",
+    "breed": "Gypsy Vanner",
+    "color": "Tobiano",
+    "height": "15.2 hands",
+    "discipline": "Driving, English, Western, Trail Riding"
+  },
+  {
+    "slug": "ali-spotted-saddle-horse-black-tobiano-gelding",
+    "sku": "ALI-001",
+    "breed": "Spotted Saddle Horse",
+    "color": "Black Tobiano",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Pleasure, Trick Riding"
+  },
+  {
+    "slug": "alibaba-quarter-horse-red-roan-gelding",
+    "sku": "ALIBABA-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15.1 hands",
+    "discipline": "Cutting, Ranch Work, Roping"
+  },
+  {
+    "slug": "amber-quarter-horse-buckskin-mare",
+    "sku": "AMBER-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.1 hands",
+    "discipline": "Reining, Ranch Riding, Trail Riding, Show"
+  },
+  {
+    "slug": "amigo-welsh-pony-horse-blue-roan-mare",
+    "sku": "AMIGO-001",
+    "breed": "Welsh Pony",
+    "color": "Blue Roan",
+    "height": "12 hands",
+    "discipline": "Lead Line, Pony Riding, Trail Riding, Trick Riding"
+  },
+  {
+    "slug": "andy-quarter-horse-red-roan-gelding",
+    "sku": "ANDY-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "14.3 hands",
+    "discipline": "Ranch Work, Sorting, Roping, Trail Riding"
+  },
+  {
+    "slug": "anita-draft-cross-horse-dapple-grey-mare",
+    "sku": "ANITA-001",
+    "breed": "Draft Cross",
+    "color": "Dapple Grey",
+    "height": "16.1 hands",
+    "discipline": "Driving, Jumping, Trail Riding"
+  },
+  {
+    "slug": "apollo-quarter-horse-dun-gelding",
+    "sku": "APOLLO-001",
+    "breed": "Quarter Horse",
+    "color": "Dun",
+    "height": "14.3 hands",
+    "discipline": "Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "april-gypsy-vanner-buckskin-gelding",
+    "sku": "APRIL-001",
+    "breed": "Gypsy Vanner",
+    "color": "Buckskin",
+    "height": "14.3 hands",
+    "discipline": "Driving, English, Western, Trail Riding"
+  },
+  {
+    "slug": "arnold-quarter-horse-blue-roan-gelding",
+    "sku": "ARNOLD-001",
+    "breed": "Quarter Horse",
+    "color": "Blue Roan",
+    "height": "15.1 hands",
+    "discipline": "Ranch Versatility, Reining, Sorting"
+  },
+  {
+    "slug": "arrow-quarter-horse-sorrel-rabicano-gelding",
+    "sku": "ARROW-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel Rabicano",
+    "height": "15 hands",
+    "discipline": "Team Roping (Heading), Cutting, Trail Riding"
+  },
+  {
+    "slug": "ashanti-pony-horse-grulla-mare",
+    "sku": "ASHANTI-001",
+    "breed": "Pony",
+    "color": "Grulla",
+    "height": "9 hands",
+    "discipline": "Driving, Pony Riding, Trail Riding"
+  },
+  {
+    "slug": "austin-quarter-horse-palomino-gelding",
+    "sku": "AUSTIN-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.3 hands",
+    "discipline": "Ranch Riding, Reining, Versatility"
+  },
+  {
+    "slug": "avenger-quarter-horse-red-roan-gelding",
+    "sku": "AVENGER-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15 hands",
+    "discipline": "Cutting, Roping, Reining, Ranch Work"
+  },
+  {
+    "slug": "bailey-quarter-horse-red-roan-gelding",
+    "sku": "BAILEY-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15 hands",
+    "discipline": "Ranch Versatility, Cutting, Roping, Trail Riding"
+  },
+  {
+    "slug": "bandera-spotted-saddle-horse-black-tobiano-gelding",
+    "sku": "BANDERA-001",
+    "breed": "Spotted Saddle Horse",
+    "color": "Black Tobiano",
+    "height": "15.2 hands",
+    "discipline": "Trail Riding, Camping, Pleasure"
+  },
+  {
+    "slug": "bandit-quarter-horse-red-roan-gelding",
+    "sku": "BANDIT-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "14.3 hands",
+    "discipline": "Ranch Roping, Trail Riding"
+  },
+  {
+    "slug": "banjo-rocky-mountain-horse-chocolate-gelding",
+    "sku": "BANJO-001",
+    "breed": "Rocky Mountain Horse",
+    "color": "Chocolate",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Pleasure, Trick Riding"
+  },
+  {
+    "slug": "barbaro-thoroughbred-bay-gelding",
+    "sku": "BARBARO-001",
+    "breed": "Thoroughbred",
+    "color": "Bay",
+    "height": "17 hands",
+    "discipline": "Jumping, Eventing, Dressage"
+  },
+  {
+    "slug": "bashiru-quarter-horse-palomino-gelding",
+    "sku": "BASHIRU-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.2 hands",
+    "discipline": "Ranch Work, Cattle Work, Trail Riding"
+  },
+  {
+    "slug": "baylee-quarter-horse-bay-roan-gelding",
+    "sku": "BAYLEE-001",
+    "breed": "Quarter Horse",
+    "color": "Bay Roan",
+    "height": "15 hands",
+    "discipline": "Cutting, Roping, Trail Riding"
+  },
+  {
+    "slug": "beamer-quarter-horse-buckskin-gelding",
+    "sku": "BEAMER-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Riding, Cutting, Versatility"
+  },
+  {
+    "slug": "bear-quarter-horse-buckskin-gelding",
+    "sku": "BEAR-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.1 hands",
+    "discipline": "Team Roping (Heading), Reining, Ranch Work"
+  },
+  {
+    "slug": "beauregard-spotted-saddle-horse-chocolate-tobiano-gelding",
+    "sku": "BEAUREGARD-001",
+    "breed": "Spotted Saddle Horse",
+    "color": "Chocolate Tobiano",
+    "height": "15.2 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "beauty-quarter-horse-palomino-mare",
+    "sku": "BEAUTY-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Riding, Western Dressage"
+  },
+  {
+    "slug": "bello-quarter-horse-chestnut-gelding",
+    "sku": "BELLO-001",
+    "breed": "Quarter Horse",
+    "color": "Chestnut",
+    "height": "14.2 hands",
+    "discipline": "Ranch Versatility, Roping, Reining"
+  },
+  {
+    "slug": "benny-dutch-warmblood-gelding-chestnut-gelding",
+    "sku": "BENNY-001",
+    "breed": "Dutch Warmblood",
+    "color": "Chestnut",
+    "height": "16.1 hands",
+    "discipline": "Jumping, Dressage"
+  },
+  {
+    "slug": "biggy-(bugsy)-quarter-horse-buckskin-gelding",
+    "sku": "BIGGY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "14.2 hands",
+    "discipline": "Roping (Heading/Heeling), Cutting, Reining, Ranch Work"
+  },
+  {
+    "slug": "billy-quarter-horse-palomino-gelding",
+    "sku": "BILLY-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.2 hands",
+    "discipline": "Cutting, Reining, Trail, Versatility"
+  },
+  {
+    "slug": "biscuit-quarter-horse-palomino-gelding",
+    "sku": "BISCUIT-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.2 hands",
+    "discipline": "Ranch Versatility, Roping, Reining, Trail Riding"
+  },
+  {
+    "slug": "bishop-quarter-horse-palomino-gelding",
+    "sku": "BISHOP-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.3 hands",
+    "discipline": "Ranch Work, Trail Riding, Reining"
+  },
+  {
+    "slug": "blaze-spotted-saddle-horse-black-tobiano-gelding",
+    "sku": "BLAZE-001",
+    "breed": "Spotted Saddle Horse",
+    "color": "Black Tobiano",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Trick Riding, Roping"
+  },
+  {
+    "slug": "blue-tennessee-walking-horse-true-blue-roan-gelding",
+    "sku": "BLUE-001",
+    "breed": "Tennessee Walking Horse",
+    "color": "True Blue Roan",
+    "height": "16 hands",
+    "discipline": "Trail Riding, Pleasure, Trick Riding"
+  },
+  {
+    "slug": "bolt-quarter-horse-blue-roan-gelding",
+    "sku": "BOLT-001",
+    "breed": "Quarter Horse",
+    "color": "Blue Roan",
+    "height": "15.2 hands",
+    "discipline": "Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "bonito-tennessee-walking-horse-black-tobiano-gelding",
+    "sku": "BONITO-001",
+    "breed": "Tennessee Walking Horse",
+    "color": "Black Tobiano",
+    "height": "16 hands",
+    "discipline": "Trail Riding, Camping, Pleasure"
+  },
+  {
+    "slug": "boomer-quarter-horse-red-roan-gelding",
+    "sku": "BOOMER-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15 hands",
+    "discipline": "Cutting, Sorting"
+  },
+  {
+    "slug": "boris-gypsy-vanner-black-tobiano-gelding",
+    "sku": "BORIS-001",
+    "breed": "Gypsy Vanner",
+    "color": "Black Tobiano",
+    "height": "14.3 hands",
+    "discipline": "Driving, Trail Riding, English, Western"
+  },
+  {
+    "slug": "boss-dutch-warmblood-bay-gelding",
+    "sku": "BOSS-001",
+    "breed": "Dutch Warmblood",
+    "color": "Bay",
+    "height": "17 hands",
+    "discipline": "Hunter Paces, Dressage, Jumping"
+  },
+  {
+    "slug": "bourbon-quarter-horse-palomino-gelding",
+    "sku": "BOURBON-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Ranch Work, Trail Riding, Reining"
+  },
+  {
+    "slug": "breeze-quarter-horse-black-gelding",
+    "sku": "BREEZE-001",
+    "breed": "Quarter Horse",
+    "color": "Black",
+    "height": "15 hands",
+    "discipline": "Team Roping (Heading), Reining, Trail Riding"
+  },
+  {
+    "slug": "broli-quarter-horse-buckskin-gelding",
+    "sku": "BROLI-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Ranch Riding, Reining, Team Roping"
+  },
+  {
+    "slug": "bruce-lee-paint-horse-sorrel-overo-gelding",
+    "sku": "BRUCE-LEE-001",
+    "breed": "Paint Horse",
+    "color": "Sorrel Overo",
+    "height": "15 hands",
+    "discipline": "Ranch Work, Parade, Trail Riding"
+  },
+  {
+    "slug": "bubblegum-quarter-horse-buckskin-gelding",
+    "sku": "BUBBLEGUM-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "14.2 hands",
+    "discipline": "Reining, Roping, Trail Riding"
+  },
+  {
+    "slug": "bucky-quarter-horse-grulla-gelding",
+    "sku": "BUCKY-001",
+    "breed": "Quarter Horse",
+    "color": "Grulla",
+    "height": "15.1 hands",
+    "discipline": "Ranch Riding, Reining, Trail Riding"
+  },
+  {
+    "slug": "buzz-quarter-horse-buckskin-gelding",
+    "sku": "BUZZ-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.3 hands",
+    "discipline": "Team Roping (Heading), Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "calypso-gypsy-vanner-black-gelding",
+    "sku": "CALYPSO-001",
+    "breed": "Gypsy Vanner",
+    "color": "Black",
+    "height": "14.2 hands",
+    "discipline": "Reining, Trick Riding, Trail Riding, Roping"
+  },
+  {
+    "slug": "captain-friesian-x-morgan-bay-gelding",
+    "sku": "CAPTAIN-001",
+    "breed": "Friesian x Morgan",
+    "color": "Bay",
+    "height": "16 hands",
+    "discipline": "Driving, Trail Riding, Roping, Parade"
+  },
+  {
+    "slug": "carson-gypsy-vanner-buckskin-gelding",
+    "sku": "CARSON-001",
+    "breed": "Gypsy Vanner",
+    "color": "Buckskin",
+    "height": "14.3 hands",
+    "discipline": "Driving, Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "casanova-paint-horse-buckskin-tobiano-gelding",
+    "sku": "CASANOVA-001",
+    "breed": "Paint Horse",
+    "color": "Buckskin Tobiano",
+    "height": "14.3 hands",
+    "discipline": "Reining, Trail Riding, Flag Carrying"
+  },
+  {
+    "slug": "cash-quarter-horse-buckskin-gelding",
+    "sku": "CASH-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Versatility, Trail Riding"
+  },
+  {
+    "slug": "champion-quarter-horse-chestnut-gelding",
+    "sku": "CHAMPION-001",
+    "breed": "Quarter Horse",
+    "color": "Chestnut",
+    "height": "15 hands",
+    "discipline": "Cutting, Reining, Roping, Ranch Work"
+  },
+  {
+    "slug": "cherokee-quarter-horse-blue-roan-gelding",
+    "sku": "CHEROKEE-001",
+    "breed": "Quarter Horse",
+    "color": "Blue Roan",
+    "height": "15.2 hands",
+    "discipline": "Driving, Trick Riding, Trail Riding, Roping"
+  },
+  {
+    "slug": "chewy-quarter-horse-red-roan-gelding",
+    "sku": "CHEWY-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15 hands",
+    "discipline": "Cutting, Roping, Ranch Work"
+  },
+  {
+    "slug": "cheyenne-percheron-cross-horse-black-gelding",
+    "sku": "CHEYENNE-001",
+    "breed": "Percheron Cross",
+    "color": "Black",
+    "height": "16.2 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "chlautile-paint-horse-palomino-tobiano-mare",
+    "sku": "CHLAUTILE-001",
+    "breed": "Paint Horse",
+    "color": "Palomino Tobiano",
+    "height": "15.1 hands",
+    "discipline": "English, Western, Trail Riding, Obstacle, Jumping"
+  },
+  {
+    "slug": "colabo-gypsy-vanner-horse-black-overo-gelding",
+    "sku": "COLABO-001",
+    "breed": "Gypsy Vanner",
+    "color": "Black Overo",
+    "height": "15 hands",
+    "discipline": "Driving, English, Western, Trail Riding"
+  },
+  {
+    "slug": "copper-quarter-horse-black-gelding",
+    "sku": "COPPER-001",
+    "breed": "Quarter Horse",
+    "color": "Black",
+    "height": "15.1 hands",
+    "discipline": "Cutting, Roping, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "cougar-tennessee-walking-horse-chocolate-tobiano-gelding",
+    "sku": "COUGAR-001",
+    "breed": "Tennessee Walking Horse",
+    "color": "Chocolate Tobiano",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "cruiser-quarter-horse-gray-gelding",
+    "sku": "CRUISER-001",
+    "breed": "Quarter Horse",
+    "color": "Gray",
+    "height": "15.1 hands",
+    "discipline": "Reining, Ranch Riding, Trail Riding"
+  },
+  {
+    "slug": "cruz-warmblood-horse-bay-gelding",
+    "sku": "CRUZ-001",
+    "breed": "Warmblood",
+    "color": "Bay",
+    "height": "16.2 hands",
+    "discipline": "Show Hunter, Dressage, Jumping, Eventing"
+  },
+  {
+    "slug": "cupid-quarter-horse-sorrel-gelding",
+    "sku": "CUPID-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel",
+    "height": "15 hands",
+    "discipline": "Cutting, Sorting, Ranch Versatility"
+  },
+  {
+    "slug": "cynthia-paint-horse-chestnut-tobiano-mare",
+    "sku": "CYNTHIA-001",
+    "breed": "Paint Horse",
+    "color": "Chestnut Tobiano",
+    "height": "14.1 hands",
+    "discipline": "Breakaway Roping, Barrel Racing, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "cyrus-mule-horse-bay-gelding",
+    "sku": "CYRUS-001",
+    "breed": "Mule",
+    "color": "Bay",
+    "height": "14 hands",
+    "discipline": "Trail Riding, Roping"
+  },
+  {
+    "slug": "daisy-spotted-saddle-champaign-mare",
+    "sku": "DAISY-001",
+    "breed": "Spotted Saddle Horse",
+    "color": "Champaign",
+    "height": "14.2 hands",
+    "discipline": "Trail Riding, Camping"
+  },
+  {
+    "slug": "dallas-quarter-horse-palomino-gelding-gelding",
+    "sku": "DALLAS-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "16 hands",
+    "discipline": "Ranch Work, Trail Riding, Bridleless Riding"
+  },
+  {
+    "slug": "dandy-quarter-horse-chestnut-gelding",
+    "sku": "DANDY-001",
+    "breed": "Quarter Horse",
+    "color": "Chestnut",
+    "height": "15 hands",
+    "discipline": "Cowhorse, Roping, Ranch Work"
+  },
+  {
+    "slug": "danny-quarter-horse-buckskin-gelding",
+    "sku": "DANNY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Cutting, Roping, Reining, Ranch Work"
+  },
+  {
+    "slug": "dante-quarter-horse-sorrel-gelding",
+    "sku": "DANTE-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel",
+    "height": "15.2 hands",
+    "discipline": "Reining, Ranch Riding, Ranch Versatility"
+  },
+  {
+    "slug": "darrion-mustang-horse-grulla-with-stripes-gelding",
+    "sku": "DARRION-001",
+    "breed": "Mustang",
+    "color": "Grulla with Stripes",
+    "height": "15 hands",
+    "discipline": "Trick Riding, Bridleless, Trail Riding"
+  },
+  {
+    "slug": "dash-quarter-horse-palomino-gelding",
+    "sku": "DASH-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15.2 hands",
+    "discipline": "Team Roping (Heading), Cutting, Ranch Work"
+  },
+  {
+    "slug": "david-pony-horse-palomino-paint-gelding",
+    "sku": "DAVID-001",
+    "breed": "Pony",
+    "color": "Palomino Paint",
+    "height": "13.3 hands",
+    "discipline": "Driving, English, Western, Trick Riding"
+  },
+  {
+    "slug": "davis-azteca-horse-blue-roan-gelding",
+    "sku": "DAVIS-001",
+    "breed": "Azteca",
+    "color": "Blue Roan",
+    "height": "14.3 hands",
+    "discipline": "Dressage, Ranch Work, English, Jumping"
+  },
+  {
+    "slug": "deputy-quarter-horse-buckskin-gelding",
+    "sku": "DEPUTY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Work, Team Roping (Heading)"
+  },
+  {
+    "slug": "diamond-gypsy-vanner-horse-black-and-white-mare",
+    "sku": "DIAMOND-001",
+    "breed": "Gypsy Vanner",
+    "color": "Black and White",
+    "height": "14 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "diego-draft-cross-horse-grey-gelding",
+    "sku": "DIEGO-001",
+    "breed": "Draft Cross",
+    "color": "Grey",
+    "height": "16.1 hands",
+    "discipline": "Driving, English, Jumping, Ranch Work, Trick Riding"
+  },
+  {
+    "slug": "disco-quarter-horse-sorrel-gelding",
+    "sku": "DISCO-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel",
+    "height": "15 hands",
+    "discipline": "Cowhorse, Roping, Cutting, Versatility"
+  },
+  {
+    "slug": "diva-mule-horse-bay-mare",
+    "sku": "DIVA-001",
+    "breed": "Mule",
+    "color": "Bay",
+    "height": "15 hands",
+    "discipline": "Trail Riding, Ranch Work, Roping"
+  },
+  {
+    "slug": "dorian-dutch-warmblood-horse-black-mare",
+    "sku": "DORIAN-001",
+    "breed": "Dutch Warmblood",
+    "color": "Black",
+    "height": "16 hands",
+    "discipline": "Hunter Paces, Showing, Trail Riding, Dressage, Eventing"
+  },
+  {
+    "slug": "dots-and-dashes-appaloosa-horse-red-roan-gelding",
+    "sku": "DOTS-AND-DASHES-001",
+    "breed": "Appaloosa",
+    "color": "Red Roan",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "dream-paint-horse-palomino-gelding",
+    "sku": "DREAM-001",
+    "breed": "Paint Horse",
+    "color": "Palomino",
+    "height": "15.2 hands",
+    "discipline": "Reining, Team Roping (Heading), Trail Riding"
+  },
+  {
+    "slug": "dusty-quarter-horse-sorrel-gelding",
+    "sku": "DUSTY-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel",
+    "height": "14.2 hands",
+    "discipline": "Roping, Sorting, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "eclipse-gypsy-vanner-black-gelding",
+    "sku": "ECLIPSE-001",
+    "breed": "Gypsy Vanner",
+    "color": "Black",
+    "height": "14.1 hands",
+    "discipline": "Roping, Ranch Work, Show, Versatility"
+  },
+  {
+    "slug": "elsie-gypsy-vanner-horse-cremello-mare",
+    "sku": "ELSIE-001",
+    "breed": "Gypsy Vanner",
+    "color": "Cremello",
+    "height": "15 hands",
+    "discipline": "Dressage, Trail Riding, Jumping"
+  },
+  {
+    "slug": "eresen-missouri-fox-trotter-horse-blue-roan-gelding",
+    "sku": "ERESEN-001",
+    "breed": "Missouri Fox Trotter",
+    "color": "Blue Roan",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "excellence-quarter-horse-dapple-grey-gelding",
+    "sku": "EXCELLENCE-001",
+    "breed": "Quarter Horse",
+    "color": "Dapple Grey",
+    "height": "15.1 hands",
+    "discipline": "Reining, Trail Riding, Camping"
+  },
+  {
+    "slug": "fiona-draft-cross-horse-bay-tobiano-mare",
+    "sku": "FIONA-001",
+    "breed": "Draft Cross",
+    "color": "Bay Tobiano",
+    "height": "16 hands",
+    "discipline": "Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "florence-paint-horse-palomino-overo-mare",
+    "sku": "FLORENCE-001",
+    "breed": "Paint Horse",
+    "color": "Palomino Overo",
+    "height": "15 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "fluffy-gypsy-vanner-tobiano-gelding",
+    "sku": "FLUFFY-001",
+    "breed": "Gypsy Vanner",
+    "color": "Tobiano",
+    "height": "14 hands",
+    "discipline": "Driving, Trail Riding"
+  },
+  {
+    "slug": "genie-tennessee-walking-horse-bay-mare",
+    "sku": "GENIE-001",
+    "breed": "Tennessee Walking Horse",
+    "color": "Bay",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Show"
+  },
+  {
+    "slug": "genius-quarter-horse-red-roan-gelding",
+    "sku": "GENIUS-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15.1 hands",
+    "discipline": "Cutting, Cowhorse, Roping, Versatility"
+  },
+  {
+    "slug": "george-quarter-horse-red-roan-gelding",
+    "sku": "GEORGE-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "14.3 hands",
+    "discipline": "Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "ghost-quarter-horse-red-roan-gelding",
+    "sku": "GHOST-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "14.3 hands",
+    "discipline": "Cutting, Roping, Reining, Ranch Work"
+  },
+  {
+    "slug": "ginger-paint-horse-tobiano-gelding",
+    "sku": "GINGER-001",
+    "breed": "Paint Horse",
+    "color": "Tobiano",
+    "height": "15 hands",
+    "discipline": "Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "gizmo-quarter-horse-palomino-gelding",
+    "sku": "GIZMO-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.2 hands",
+    "discipline": "Cowhorse, Reining, Trail Riding"
+  },
+  {
+    "slug": "gold-gypsy-vanner-horse-champagne-tobiano-gelding",
+    "sku": "GOLD-001",
+    "breed": "Gypsy Vanner",
+    "color": "Champagne Tobiano",
+    "height": "15 hands",
+    "discipline": "English, Western, Trail Riding, Roping"
+  },
+  {
+    "slug": "goldie-paint-horse-tobiano-gelding",
+    "sku": "GOLDIE-001",
+    "breed": "Paint Horse",
+    "color": "Tobiano",
+    "height": "15 hands",
+    "discipline": "Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "goliath-quarter-horse-palomino-gelding",
+    "sku": "GOLIATH-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15.1 hands",
+    "discipline": "Reining"
+  },
+  {
+    "slug": "gucci-quarter-horse-red-roan-gelding",
+    "sku": "GUCCI-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15.1 hands",
+    "discipline": "Cowhorse, Breakaway, Ranch Work"
+  },
+  {
+    "slug": "gunner-paint-horse-sorrel-overo-gelding",
+    "sku": "GUNNER-001",
+    "breed": "Paint Horse",
+    "color": "Sorrel Overo",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Riding, Team Roping"
+  },
+  {
+    "slug": "hanna-tennessee-walking-horse-grey-mare",
+    "sku": "HANNA-001",
+    "breed": "Tennessee Walking Horse",
+    "color": "Grey",
+    "height": "14.2 hands",
+    "discipline": "Trail Riding, Show"
+  },
+  {
+    "slug": "harvey-quarter-horse-black-gelding",
+    "sku": "HARVEY-001",
+    "breed": "Quarter Horse",
+    "color": "Black",
+    "height": "15.1 hands",
+    "discipline": "Cutting, Roping, Reining, Ranch Work"
+  },
+  {
+    "slug": "henry-gypsy-vanner-piebald-gelding",
+    "sku": "HENRY-001",
+    "breed": "Gypsy Vanner",
+    "color": "Piebald",
+    "height": "14.1 hands",
+    "discipline": "Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "hercules-quarter-horse-bay-gelding",
+    "sku": "HERCULES-001",
+    "breed": "Quarter Horse",
+    "color": "Bay",
+    "height": "15 hands",
+    "discipline": "Reining, Team Roping, Trail Riding"
+  },
+  {
+    "slug": "hero-quarter-horse-sorrel-gelding",
+    "sku": "HERO-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel",
+    "height": "16.2 hands",
+    "discipline": "Ranch Work, Team Roping (Heading)"
+  },
+  {
+    "slug": "amarillo-quarter-horse-palomino-gelding",
+    "sku": "AMARILLO-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Work, Team Roping"
+  },
+  {
+    "slug": "hershey-draft-cross-horse-grulla-with-stripes-gelding",
+    "sku": "HERSHEY-001",
+    "breed": "Draft Cross",
+    "color": "Grulla with Stripes",
+    "height": "16.3 hands",
+    "discipline": "English, Western, Trail Riding, Bridleless"
+  },
+  {
+    "slug": "hidalgo-dutch-warmblood-grey-gelding",
+    "sku": "HIDALGO-001",
+    "breed": "Dutch Warmblood",
+    "color": "Grey",
+    "height": "16.1 hands",
+    "discipline": "Eventing, Jumping"
+  },
+  {
+    "slug": "hildi-warmblood-horse-bay-gelding",
+    "sku": "HILDI-001",
+    "breed": "Warmblood",
+    "color": "Bay",
+    "height": "16.3 hands",
+    "discipline": "Dressage, Jumping, Fox Hunting"
+  },
+  {
+    "slug": "holiday-paint-horse-gray-gelding",
+    "sku": "HOLIDAY-001",
+    "breed": "Paint Horse",
+    "color": "Gray",
+    "height": "14.1 hands",
+    "discipline": "Reining"
+  },
+  {
+    "slug": "hunter-quarter-horse-palomino-gelding",
+    "sku": "HUNTER-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Riding, Ranch Work"
+  },
+  {
+    "slug": "ivar-belgian-warmblood-horse-bay-gelding",
+    "sku": "IVAR-001",
+    "breed": "Belgian Warmblood",
+    "color": "Bay",
+    "height": "16 hands",
+    "discipline": "Sport Horse"
+  },
+  {
+    "slug": "jackpots-friesian-horse-black-gelding",
+    "sku": "JACKPOTS-001",
+    "breed": "Friesian",
+    "color": "Black",
+    "height": "16.1 hands",
+    "discipline": "Dressage, Trail Riding"
+  },
+  {
+    "slug": "jimmy-quarter-horse-palomino-gelding",
+    "sku": "JIMMY-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Ranch Versatility, Reining, Ranch Work"
+  },
+  {
+    "slug": "jockey-pony-horse-bay-gelding",
+    "sku": "JOCKEY-001",
+    "breed": "Pony",
+    "color": "Bay",
+    "height": "14.1 hands",
+    "discipline": "Hunter, Jumper, Eventing"
+  },
+  {
+    "slug": "jubline-gypsy-vanner-horse-black-tobiano-mare",
+    "sku": "JUBLINE-001",
+    "breed": "Gypsy Vanner",
+    "color": "Black Tobiano",
+    "height": "14.1 hands",
+    "discipline": "Trail Riding, Jumping, Trick Riding"
+  },
+  {
+    "slug": "justice-friesian-horse-black-gelding",
+    "sku": "JUSTICE-001",
+    "breed": "Friesian",
+    "color": "Black",
+    "height": "17.2 hands",
+    "discipline": "Dressage, Fox Hunting, Eventing"
+  },
+  {
+    "slug": "justin-quarter-horse-buckskin-gelding",
+    "sku": "JUSTIN-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Riding, Trail Riding"
+  },
+  {
+    "slug": "kingsley-quarter-horse-roan-gelding",
+    "sku": "KINGSLEY-001",
+    "breed": "Quarter Horse",
+    "color": "Roan",
+    "height": "15 hands",
+    "discipline": "Cowhorse, Roping, Trail Riding"
+  },
+  {
+    "slug": "kipper-quarter-horse-bay-roan-gelding",
+    "sku": "KIPPER-001",
+    "breed": "Quarter Horse",
+    "color": "Bay Roan",
+    "height": "15 hands",
+    "discipline": "Cutting, Cowhorse, Roping, Ranch Work"
+  },
+  {
+    "slug": "kobby-paint-horse-palomino-overo-mare",
+    "sku": "KOBBY-001",
+    "breed": "Paint Horse",
+    "color": "Palomino Overo",
+    "height": "15.3 hands",
+    "discipline": "Team Sorting, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "legacy-quarter-horse-blue-roan-gelding",
+    "sku": "LEGACY-001",
+    "breed": "Quarter Horse",
+    "color": "Blue Roan",
+    "height": "14.3 hands",
+    "discipline": "Ranch Work, Roping, Trail Riding"
+  },
+  {
+    "slug": "legend-quarter-horse-palomino-gelding",
+    "sku": "LEGEND-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15.1 hands",
+    "discipline": "Reining, Ranch Riding, Roping, Trail Riding"
+  },
+  {
+    "slug": "leo-quarter-horse-chestnut-gelding",
+    "sku": "LEO-001",
+    "breed": "Quarter Horse",
+    "color": "Chestnut",
+    "height": "15 hands",
+    "discipline": "Roping, Ranch Work"
+  },
+  {
+    "slug": "lilly-draft-percheron-qh-bay-mare",
+    "sku": "LILLY-001",
+    "breed": "Draft Percheron Quarter Horse",
+    "color": "Bay",
+    "height": "15.2 hands",
+    "discipline": "Family Riding"
+  },
+  {
+    "slug": "lollipop-quarter-horse-red-roan-mare",
+    "sku": "LOLLIPOP-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15.1 hands",
+    "discipline": "Cutting, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "lucky-quarter-horse-buckskin-gelding",
+    "sku": "LUCKY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.1 hands",
+    "discipline": "Team Roping (Heading), Reining, Ranch Work"
+  },
+  {
+    "slug": "lucy-quarter-horse-buckskin-mare",
+    "sku": "LUCY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Reining, Team Roping, Ranch Versatility"
+  },
+  {
+    "slug": "luna-warmblood-horse-bay-white-gelding",
+    "sku": "LUNA-001",
+    "breed": "Warmblood",
+    "color": "Bay & White",
+    "height": "16.2 hands",
+    "discipline": "Field Hunting, Jumping"
+  },
+  {
+    "slug": "lyrical-appaloosa-chestnut-gelding",
+    "sku": "LYRICAL-001",
+    "breed": "Appaloosa",
+    "color": "Chestnut",
+    "height": "16 hands",
+    "discipline": "Reining, Ranch Riding, Trail Riding"
+  },
+  {
+    "slug": "magic-quarter-horse-black-gelding",
+    "sku": "MAGIC-001",
+    "breed": "Quarter Horse",
+    "color": "Black",
+    "height": "15 hands",
+    "discipline": "Team Roping (Heading), Reining, Ranch Work"
+  },
+  {
+    "slug": "mariah-quarter-horse-buckskin-mare",
+    "sku": "MARIAH-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.1 hands",
+    "discipline": "Ranch Versatility, Reining, Trail Riding"
+  },
+  {
+    "slug": "mario-gypsy-vanner-black-gelding",
+    "sku": "MARIO-001",
+    "breed": "Gypsy Vanner",
+    "color": "Black",
+    "height": "14.3 hands",
+    "discipline": "Trail Riding, English, Ranch Work"
+  },
+  {
+    "slug": "master-quarter-horse-blue-roan-gelding",
+    "sku": "MASTER-001",
+    "breed": "Quarter Horse",
+    "color": "Blue Roan",
+    "height": "15.2 hands",
+    "discipline": "Team Roping (Heading), Cutting, Ranch Work"
+  },
+  {
+    "slug": "maxine-friesian-horse-black-mare",
+    "sku": "MAXINE-001",
+    "breed": "Friesian",
+    "color": "Black",
+    "height": "16 hands",
+    "discipline": "Driving, Dressage, English, Western"
+  },
+  {
+    "slug": "mercedes-quarter-horse-sorrel-gelding",
+    "sku": "MERCEDES-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel",
+    "height": "14.2 hands",
+    "discipline": "Reining, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "mick-quarter-horse-buckskin-gelding",
+    "sku": "MICK-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Roping, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "mickey-paint-horse-bay-overo-gelding",
+    "sku": "MICKEY-001",
+    "breed": "Paint Horse",
+    "color": "Bay Overo",
+    "height": "15.3 hands",
+    "discipline": "Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "midnight-quarter-horse-bay-gelding",
+    "sku": "MIDNIGHT-001",
+    "breed": "Quarter Horse",
+    "color": "Bay",
+    "height": "15 hands",
+    "discipline": "Trail Riding, Ranch Work, Roping"
+  },
+  {
+    "slug": "missy-quarter-horse-black-mare",
+    "sku": "MISSY-001",
+    "breed": "Quarter Horse",
+    "color": "Black",
+    "height": "15.1 hands",
+    "discipline": "Roping, Ranch Work, Reining"
+  },
+  {
+    "slug": "moana-andalusian-bay-mare",
+    "sku": "MOANA-001",
+    "breed": "Andalusian",
+    "color": "Bay",
+    "height": "15.2 hands",
+    "discipline": "Hunter/Jumper, Dressage, Western"
+  },
+  {
+    "slug": "mocha-quarter-horse-gray-gelding",
+    "sku": "MOCHA-001",
+    "breed": "Quarter Horse",
+    "color": "Gray",
+    "height": "15 hands",
+    "discipline": "Ranch Work, Trail Riding, Cutting"
+  },
+  {
+    "slug": "montana-quarter-horse-palomino-gelding",
+    "sku": "MONTANA-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15.1 hands",
+    "discipline": "Reining, Team Roping"
+  },
+  {
+    "slug": "moonshine-quarter-horse-palomino-gelding",
+    "sku": "MOONSHINE-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15.1 hands",
+    "discipline": "Roping, Ranch Work"
+  },
+  {
+    "slug": "mylene-quarter-horse-palomino-mare",
+    "sku": "MYLENE-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Riding, Trail Riding"
+  },
+  {
+    "slug": "nacho-quarter-horse-chestnut-gelding",
+    "sku": "NACHO-001",
+    "breed": "Quarter Horse",
+    "color": "Chestnut",
+    "height": "15.1 hands",
+    "discipline": "Team Roping (Heading), Reining, Trail Riding"
+  },
+  {
+    "slug": "olaf-quarter-horse-gray-gelding",
+    "sku": "OLAF-001",
+    "breed": "Quarter Horse",
+    "color": "Gray",
+    "height": "15 hands",
+    "discipline": "Roping, Ranch Work"
+  },
+  {
+    "slug": "paco-paint-horse-bay-gelding",
+    "sku": "PACO-001",
+    "breed": "Paint Horse",
+    "color": "Bay",
+    "height": "14.3 hands",
+    "discipline": "Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "parfect-quarter-horse-red-dun-gelding",
+    "sku": "PARFECT-001",
+    "breed": "Quarter Horse",
+    "color": "Red Dun",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Riding, Driving, Trick Riding"
+  },
+  {
+    "slug": "patrick-quarter-horse-sorrel-gelding",
+    "sku": "PATRICK-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel",
+    "height": "15 hands",
+    "discipline": "Team Roping (Heading), Cowhorse, Ranch Work"
+  },
+  {
+    "slug": "patriot-quarter-horse-bay-roan-gelding",
+    "sku": "PATRIOT-001",
+    "breed": "Quarter Horse",
+    "color": "Bay Roan",
+    "height": "15 hands",
+    "discipline": "Cutting, Roping, Trail Riding"
+  },
+  {
+    "slug": "peach-quarter-horse-red-dun-gelding",
+    "sku": "PEACH-001",
+    "breed": "Quarter Horse",
+    "color": "Red Dun",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Versatility, Trail Riding"
+  },
+  {
+    "slug": "pepper-quarter-horse-bay-gelding",
+    "sku": "PEPPER-001",
+    "breed": "Quarter Horse",
+    "color": "Bay",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Riding, Ranch Work"
+  },
+  {
+    "slug": "phantom-quarter-horse-buckskin-dun-gelding",
+    "sku": "PHANTOM-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin Dun",
+    "height": "15.1 hands",
+    "discipline": "Ranch Versatility, Reining, Trail Riding"
+  },
+  {
+    "slug": "phyno-paint-horse-tobiano-gelding",
+    "sku": "PHYNO-001",
+    "breed": "Paint Horse",
+    "color": "Tobiano",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Riding, Trick Riding"
+  },
+  {
+    "slug": "picasso-missouri-fox-trotter-pinto-mare",
+    "sku": "PICASSO-001",
+    "breed": "Missouri Fox Trotter",
+    "color": "Pinto",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "picolo-paint-horse-bay-tobiano-gelding",
+    "sku": "PICOLO-001",
+    "breed": "Paint Horse",
+    "color": "Bay Tobiano",
+    "height": "14.2 hands",
+    "discipline": "Team Roping (Heeling), Parade, Trail Riding"
+  },
+  {
+    "slug": "pirate-quarter-horse-gray-gelding",
+    "sku": "PIRATE-001",
+    "breed": "Quarter Horse",
+    "color": "Gray",
+    "height": "15.1 hands",
+    "discipline": "Cowhorse, Ranch Versatility"
+  },
+  {
+    "slug": "prince-pony-horse-bay-gelding",
+    "sku": "PRINCE-001",
+    "breed": "Pony",
+    "color": "Bay",
+    "height": "7.2 hands",
+    "discipline": "Driving, Pony Riding, Trick Riding"
+  },
+  {
+    "slug": "queen-quarter-horse-buckskin-mare",
+    "sku": "QUEEN-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "queency-paint-horse-red-roan-and-white-mare",
+    "sku": "QUEENCY-001",
+    "breed": "Paint Horse",
+    "color": "Red Roan and White",
+    "height": "15 hands",
+    "discipline": "Show"
+  },
+  {
+    "slug": "rambo-draft-cross-black-gelding",
+    "sku": "RAMBO-001",
+    "breed": "Draft Cross",
+    "color": "Black",
+    "height": "16 hands",
+    "discipline": "Trail Riding, Trick Riding"
+  },
+  {
+    "slug": "ramos-quarter-horse-gray-gelding",
+    "sku": "RAMOS-001",
+    "breed": "Quarter Horse",
+    "color": "Gray",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Riding, Ranch Work"
+  },
+  {
+    "slug": "randy-quarter-horse-buckskin-gelding",
+    "sku": "RANDY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.2 hands",
+    "discipline": "Reining, English, Western Dressage, Ranch Work"
+  },
+  {
+    "slug": "rascal-quarter-horse-buckskin-gelding",
+    "sku": "RASCAL-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "14.3 hands",
+    "discipline": "Ranch Riding, Reining, Trail Riding"
+  },
+  {
+    "slug": "rebel-quarter-horse-palomino-gelding",
+    "sku": "REBEL-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Reining, Roping, Trail Riding"
+  },
+  {
+    "slug": "red-bloom-quarter-horse-dun-mare",
+    "sku": "RED-BLOOM-001",
+    "breed": "Quarter Horse",
+    "color": "Red Dun",
+    "height": "14.3 hands",
+    "discipline": "Reining, Roping, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "rex-quarter-horse-palomino-gelding",
+    "sku": "REX-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.3 hands",
+    "discipline": "Reining, English, Western, Trail Riding"
+  },
+  {
+    "slug": "ringo-thoroughbred-horse-bay-gelding",
+    "sku": "RINGO-001",
+    "breed": "Thoroughbred",
+    "color": "Bay",
+    "height": "16 hands",
+    "discipline": "Ranch Work, Roping"
+  },
+  {
+    "slug": "rita-paint-horse-black-tobiano-mare",
+    "sku": "RITA-001",
+    "breed": "Paint Horse",
+    "color": "Black Tobiano",
+    "height": "13.2 hands",
+    "discipline": "Team Roping (Heading/Heeling), Reining, Cutting, Jumping, Ranch Work"
+  },
+  {
+    "slug": "robinhood-quarter-horse-palomino-gelding",
+    "sku": "ROBINHOOD-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Riding, Roping, Trail Riding"
+  },
+  {
+    "slug": "dillion-quarter-horse-buckskin-gelding",
+    "sku": "DILLION-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.1 hands",
+    "discipline": "Reining, Roping, Ranch Work"
+  },
+  {
+    "slug": "rocky-rocky-mountain-horse-black-gelding",
+    "sku": "ROCKY-001",
+    "breed": "Rocky Mountain Horse",
+    "color": "Black",
+    "height": "15 hands",
+    "discipline": "Trail Riding"
+  },
+  {
+    "slug": "rose-swedish-warmblood-horse-bay-mare",
+    "sku": "ROSE-001",
+    "breed": "Swedish Warmblood",
+    "color": "Bay",
+    "height": "16 hands",
+    "discipline": "Dressage, Jumping, Eventing, Fox Hunting"
+  },
+  {
+    "slug": "rosine-paint-horse-black-tobiano-mare",
+    "sku": "ROSINE-001",
+    "breed": "Paint Horse",
+    "color": "Black Tobiano",
+    "height": "14.3 hands",
+    "discipline": "Trick Riding, Bridleless, Trail Riding"
+  },
+  {
+    "slug": "roswell-pony-horse-red-roan-gelding",
+    "sku": "ROSWELL-001",
+    "breed": "Pony",
+    "color": "Red Roan",
+    "height": "11.3 hands",
+    "discipline": "Pony Riding, Trick Riding"
+  },
+  {
+    "slug": "ruby-warmblood-horse-grey-gelding",
+    "sku": "RUBY-001",
+    "breed": "Warmblood",
+    "color": "Grey",
+    "height": "16 hands",
+    "discipline": "Hunter Paces, Trail Riding, Dressage"
+  },
+  {
+    "slug": "ruz-quarter-horse-black-gelding",
+    "sku": "RUZ-001",
+    "breed": "Quarter Horse",
+    "color": "Black",
+    "height": "15 hands",
+    "discipline": "Cutting, Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "sahara-quarter-horse-red-roan-gelding",
+    "sku": "SAHARA-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "14.3 hands",
+    "discipline": "Reining, Cutting, Roping, Ranch Versatility"
+  },
+  {
+    "slug": "samba-king-paint-horse-tobiano-gelding",
+    "sku": "SAMBA-KING-001",
+    "breed": "Paint Horse",
+    "color": "Tobiano",
+    "height": "16 hands",
+    "discipline": "Ranch Riding, Hunter Under Saddle, English, Western, Trail Riding"
+  },
+  {
+    "slug": "sandy-quarter-horse-buckskin-mare",
+    "sku": "SANDY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Reining, Team Roping, Ranch Versatility"
+  },
+  {
+    "slug": "schatzi-icelandic-horse-sorrel-tobiano-gelding",
+    "sku": "SCHATZI-001",
+    "breed": "Icelandic Horse",
+    "color": "Sorrel Tobiano",
+    "height": "14.1 hands",
+    "discipline": "Gaited Trail Riding, Driving"
+  },
+  {
+    "slug": "scooby-quarter-horse-buckskin-gelding",
+    "sku": "SCOOBY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "14.1 hands",
+    "discipline": "Reining, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "shadow-quarter-horse-sorrel-gelding",
+    "sku": "SHADOW-001",
+    "breed": "Quarter Horse",
+    "color": "Sorrel",
+    "height": "14.3 hands",
+    "discipline": "Cutting, Roping, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "shatta-andalusian-palomino-gelding",
+    "sku": "SHATTA-001",
+    "breed": "Andalusian",
+    "color": "Palomino",
+    "height": "15.2 hands",
+    "discipline": "Dressage, Trail Riding"
+  },
+  {
+    "slug": "sheriff-quarter-horse-gray-gelding",
+    "sku": "SHERIFF-001",
+    "breed": "Quarter Horse",
+    "color": "Gray",
+    "height": "14.3 hands",
+    "discipline": "Cowhorse, Ranch Versatility, Trail Riding"
+  },
+  {
+    "slug": "silver-quarter-horse-buckskin-mare",
+    "sku": "SILVER-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Riding, Ranch Work"
+  },
+  {
+    "slug": "sir-luiz-warmblood-horse-bay-gelding",
+    "sku": "SIR-LUIZ-001",
+    "breed": "Warmblood",
+    "color": "Bay",
+    "height": "16.3 hands",
+    "discipline": "Jumping, Dressage, Fox Hunting"
+  },
+  {
+    "slug": "skepta-quarter-horse-buckskin-roan",
+    "sku": "SKEPTA-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin Roan",
+    "height": "14 hands",
+    "discipline": "Driving, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "snickers-quarter-horse-palomino-gelding",
+    "sku": "SNICKERS-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "snoopy-quarter-horse-palomino-gelding",
+    "sku": "SNOOPY-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.2 hands",
+    "discipline": "Cowhorse, Reining"
+  },
+  {
+    "slug": "soldier-haflinger-horse-chestnut-gelding",
+    "sku": "SOLDIER-001",
+    "breed": "Haflinger",
+    "color": "Chestnut",
+    "height": "13.2 hands",
+    "discipline": "English, Western, Jumping, Trail Riding"
+  },
+  {
+    "slug": "spooncat-paint-horse-grulla-tobiano-gelding",
+    "sku": "SPOONCAT-001",
+    "breed": "Paint Horse",
+    "color": "Grulla Tobiano",
+    "height": "15.1 hands",
+    "discipline": "Ranch Work, Dressage, Obstacle, Trail Riding"
+  },
+  {
+    "slug": "spot-fjord-horse-dun-gelding",
+    "sku": "SPOT-001",
+    "breed": "Fjord Horse",
+    "color": "Dun",
+    "height": "14 hands",
+    "discipline": "Driving, Trail Riding"
+  },
+  {
+    "slug": "star-quarter-horse-bay-roan-gelding",
+    "sku": "STAR-001",
+    "breed": "Quarter Horse",
+    "color": "Bay Roan",
+    "height": "15 hands",
+    "discipline": "Reining, Roping, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "starlette-missouri-fox-trotter-bay-tobiano-mare",
+    "sku": "STARLETTE-001",
+    "breed": "Missouri Fox Trotter",
+    "color": "Bay Tobiano",
+    "height": "14.2 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "stars-quarter-horse-red-dun-gelding",
+    "sku": "STARS-001",
+    "breed": "Quarter Horse",
+    "color": "Red Dun",
+    "height": "15.2 hands",
+    "discipline": "Ranch Riding, Reining, Trail Riding"
+  },
+  {
+    "slug": "stones-quarter-horse-gray-gelding",
+    "sku": "STONES-001",
+    "breed": "Quarter Horse",
+    "color": "Gray",
+    "height": "14.1 hands",
+    "discipline": "Driving, Reining, Ranch Riding, Trail Riding"
+  },
+  {
+    "slug": "storm-quarter-horse-bay-gelding",
+    "sku": "STORM-001",
+    "breed": "Quarter Horse",
+    "color": "Bay",
+    "height": "14.3 hands",
+    "discipline": "Ranch Riding, Reining, Trail Riding"
+  },
+  {
+    "slug": "stormzy-paint-horse-black-tobiano-gelding",
+    "sku": "STORMZY-001",
+    "breed": "Paint Horse",
+    "color": "Black Tobiano",
+    "height": "15 hands",
+    "discipline": "Hunter, Equitation, Jumping, Trail Riding"
+  },
+  {
+    "slug": "sugar-quarter-horse-buckskin-mare",
+    "sku": "SUGAR-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.1 hands",
+    "discipline": "Ranch Versatility, Reining, Trail Riding"
+  },
+  {
+    "slug": "sun-quarter-horse-palomino-gelding",
+    "sku": "SUN-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Riding, English, Western, Trail Riding"
+  },
+  {
+    "slug": "sunny-quarter-horse-palomino-gelding",
+    "sku": "SUNNY-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Versatility, Trail Riding"
+  },
+  {
+    "slug": "tacha-gypsy-vanner-horse-black-mare",
+    "sku": "TACHA-001",
+    "breed": "Gypsy Vanner",
+    "color": "Black",
+    "height": "14.1 hands",
+    "discipline": "Trail Riding, Pleasure"
+  },
+  {
+    "slug": "teddy-quarter-horse-buckskin-gelding",
+    "sku": "TEDDY-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "14.2 hands",
+    "discipline": "Ranch Versatility, Reining, Ranch Work"
+  },
+  {
+    "slug": "tequila-quarter-horse-red-dun-gelding",
+    "sku": "TEQUILA-001",
+    "breed": "Quarter Horse",
+    "color": "Red Dun",
+    "height": "15 hands",
+    "discipline": "Reining, Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "tessy-quarter-horse-tobiano-mare",
+    "sku": "TESSY-001",
+    "breed": "Quarter Horse",
+    "color": "Tobiano",
+    "height": "16 hands",
+    "discipline": "Driving, Trail Riding, Trick Riding"
+  },
+  {
+    "slug": "tex-quarter-horse-buckskin-gelding",
+    "sku": "TEX-001",
+    "breed": "Quarter Horse",
+    "color": "Buckskin",
+    "height": "15.2 hands",
+    "discipline": "Ranch Riding, Reining, Western Dressage, Trail Riding"
+  },
+  {
+    "slug": "thunder-quarter-horse-palomino-gelding",
+    "sku": "THUNDER-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Ranch Riding, Reining, Trail Riding"
+  },
+  {
+    "slug": "torch-quarter-horse-palomino-gelding",
+    "sku": "TORCH-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Reining, Team Roping, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "trooper-quarter-horse-palomino-gelding",
+    "sku": "TROOPER-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "14.3 hands",
+    "discipline": "Reining, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "tucker-tennessee-walker-blue-roan-gelding",
+    "sku": "TUCKER-001",
+    "breed": "Tennessee Walking Horse",
+    "color": "Blue Roan",
+    "height": "16 hands",
+    "discipline": "Trail Riding"
+  },
+  {
+    "slug": "turner-quarter-horse-gray-gelding",
+    "sku": "TURNER-001",
+    "breed": "Quarter Horse",
+    "color": "Gray",
+    "height": "14.3 hands",
+    "discipline": "Ranch Versatility, Reining, Ranch Work"
+  },
+  {
+    "slug": "vandam-paint-horse-black-tobiano-gelding",
+    "sku": "VANDAM-001",
+    "breed": "Paint Horse",
+    "color": "Black Tobiano",
+    "height": "14.2 hands",
+    "discipline": "Team Sorting, Roping, Trail Riding"
+  },
+  {
+    "slug": "victoria-paint-horse-palomino-tobiano-gelding",
+    "sku": "VICTORIA-001",
+    "breed": "Paint Horse",
+    "color": "Palomino Tobiano",
+    "height": "15 hands",
+    "discipline": "Trail Riding, Ranch Work"
+  },
+  {
+    "slug": "victory-gypsy-vanner-horse-dapple-grey-gelding",
+    "sku": "VICTORY-001",
+    "breed": "Gypsy Vanner",
+    "color": "Dapple Grey",
+    "height": "14.1 hands",
+    "discipline": "Driving, English, Western, Trail Riding"
+  },
+  {
+    "slug": "whiskey-quarter-horse-blue-roan-gelding",
+    "sku": "WHISKEY-001",
+    "breed": "Quarter Horse",
+    "color": "Blue Roan",
+    "height": "16.2 hands",
+    "discipline": "Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "whisper-quarter-horse-palomino-gelding",
+    "sku": "WHISPER-001",
+    "breed": "Quarter Horse",
+    "color": "Palomino",
+    "height": "15 hands",
+    "discipline": "Reining, Ranch Riding, Trail Riding"
+  },
+  {
+    "slug": "willy-pony-horse-sorrel-gelding-height",
+    "sku": "WILLY-001",
+    "breed": "Pony",
+    "color": "Sorrel",
+    "height": "12.1 hands",
+    "discipline": "English, Western, Trail Riding"
+  },
+  {
+    "slug": "winnie-rocky-mountain-horse-chocolate-mare",
+    "sku": "WINNIE-001",
+    "breed": "Rocky Mountain Horse",
+    "color": "Chocolate",
+    "height": "15.1 hands",
+    "discipline": "Trail Riding, Camping"
+  },
+  {
+    "slug": "wrangler-quarter-horse-red-roan-gelding",
+    "sku": "WRANGLER-001",
+    "breed": "Quarter Horse",
+    "color": "Red Roan",
+    "height": "15.1 hands",
+    "discipline": "Roping, Cutting, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "xavier-warmblood-horse-bay-gelding",
+    "sku": "XAVIER-001",
+    "breed": "Warmblood",
+    "color": "Bay",
+    "height": "17.1 hands",
+    "discipline": "Hunter, Jumper, Equitation"
+  },
+  {
+    "slug": "yankee-quarter-horse-bay-gelding",
+    "sku": "YANKEE-001",
+    "breed": "Quarter Horse",
+    "color": "Blood Bay",
+    "height": "15.3 hands",
+    "discipline": "Western Dressage, English, Ranch Work, Trail Riding"
+  },
+  {
+    "slug": "zidane-quarter-horse-dunalino-gelding",
+    "sku": "ZIDANE-001",
+    "breed": "Quarter Horse",
+    "color": "Dunalino",
+    "height": "14.2 hands",
+    "discipline": "Ranch Riding, Reining, Trail Riding"
+  }
+]

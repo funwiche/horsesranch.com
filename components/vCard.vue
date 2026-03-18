@@ -6,7 +6,7 @@
     <div class="aspect-square overflow-hidden">
       <img
         :src="item.images[0]"
-        :alt="item.imageAlt"
+        :alt="item.seoMeta.alt"
         class="h-full w-full object-cover object-center"
       />
     </div>

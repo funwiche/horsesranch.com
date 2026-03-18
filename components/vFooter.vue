@@ -17,10 +17,12 @@
             <div class="w-16 border-2 rounded-lg border-tint -mt-2" />
           </div>
           <address v-if="link.title == 'Contact Info'" class="not-italic block">
-            <div v-for="n in link.paths" class="flex gap-1 py-1.5 mb-2">
+            <div v-for="n in link.paths" class="flex gap-1 py-1.5 mb-1">
               <i :class="`fa-solid fa-${n.icon} w-6 mt-1`" />
               <div class="flex-1">
-                <div class="text-xs opacity-50 uppercase tracking-wider">
+                <div
+                  class="text-[11px] opacity-50 uppercase tracking-wider font-bold"
+                >
                   {{ n.name }}
                 </div>
                 <div>{{ n.path }}</div>
@@ -54,7 +56,7 @@ const links: any = [
       { name: "Home", path: "/" },
       { name: "About Us", path: "/about" },
       { name: "Contact Us", path: "/contact" },
-      { name: "Our Horses", path: "/horses" },
+      { name: "Available Horses", path: "/horses" },
       { name: "Saddles", path: "/saddles" },
       { name: "Hauling", path: "/hauling" },
     ],
