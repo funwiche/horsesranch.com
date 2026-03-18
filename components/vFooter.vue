@@ -20,9 +20,7 @@
             <div v-for="n in link.paths" class="flex gap-1 py-1.5 mb-1">
               <i :class="`fa-solid fa-${n.icon} w-6 mt-1`" />
               <div class="flex-1">
-                <div
-                  class="text-[11px] opacity-50 uppercase tracking-wider font-bold"
-                >
+                <div class="text-xs opacity-65 uppercase tracking-wider">
                   {{ n.name }}
                 </div>
                 <div>{{ n.path }}</div>
