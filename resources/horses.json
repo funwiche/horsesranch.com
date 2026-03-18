@@ -4206,32 +4206,20 @@
       "Dressage",
       "Jumper",
       "Prospect"
-    ],
-    "properties": {
-      "price": "$14,000.00",
-      "breed": "Belgian Warmblood",
-      "gender": "Gelding",
-      "color": "Bay",
-      "height": "16 hands",
-      "age": "4 years old",
-      "discipline": "Sport Horse"
-    },
-    "seoMeta": {
-      "title": "Ivar - Bay Belgian Warmblood Gelding for Sale",
-      "desc": "Ivar is a 2022 bay Belgian Warmblood gelding. 16 hands, athletic, and ready for competition. Contact for more details.",
-      "alt": "Ivar bay Belgian Warmblood gelding"
-    },
-    "year": 2022
+    ]
   },
   {
-    "sku": "HRSEx115",
-    "slug": "jackpot-friesian-horse-black-gelding",
-    "title": "Jackpot",
+    "slug": "jackpots-friesian-horse-black-gelding",
+    "title": "Jackpots",
     "price": 10500,
     "images": ["/images/jackpot-01.jpg", "/images/jackpot-02.jpg"],
     "category": "friesian-horses",
-    "excerpt": "2017 Friesian Horse Black Gelding 16.1 Hands",
-    "description": "Jackpot is a 2017 black Friesian gelding standing at 16.1 hands—this fairytale Friesian looks like he just walked out of a DREAM. He has been extensively shown in dressage competitions in Holland, working up through the levels in B and M level with a young female rider, and has competed extensively in 3rd level. But mostly, he LOVES being adored, groomed, and going on trails and hacks. He is a true schoolmaster. With more than 30 winning points in Z level (3rd level), Jackpot doesn't have anything else to prove in the dressage arena. We promised his owner we would handpick his new owner to provide a LOVING home offering more than just more dressage competitions. If you just want to compete, Jackpot doesn't want you. If you want to take him out of the stall, undo his double French braid, and go for a long gallop, riding bareback into the sunset, telling him how wonderful he is—Jackpot wants YOU. 166 cm tall (16.1 1/4 hands). This is a really good horse, and it's hard to find Friesians like Jackpot. He is so friendly and easy to ride, even in noisy traffic—no problem. He has accumulated a tremendous list of accomplishments, competing against primarily warmbloods. His gaits are superb and VERY smooth and easy to sit. This is a son of the famous approved stallion, Uldrik—also an upper-level dressage horse. Here is a truly schoolmaster that you can learn from, but don't forget, Jackpot also likes to be ridden bareback, side saddle, and with his slow jog and lope—will be a phenomenal western horse. He is so well behaved and easy to ride, whether perfecting your skills or out on the trails—EASY and truly appropriate for any level rider. And it doesn't stop there. He is truly an exquisite mover for any discipline, moving very freely out of his shoulder. He travels very well and behaves WHEREVER he goes, loads of fun, everyone's favorite horse to ride in his barn. Great not only for trail rides, parades, or exhibitions, but also highly educated. As SAFE as they come, very easy to ride. His ability in dressage is indisputable—over 30 winning points in Z Dressage (3rd level), scoring above 60%, and he acquired the highly coveted SPORT predicate, proof of his upper-level dressage capability.",
+    "excerpt": "2016 Friesian Horse Black Gelding 16.1 Hands",
+    "description": "Jackpots is a 2016 black Friesian gelding standing at 16.1 hands—this fairytale Friesian looks like he just walked out of a DREAM. He has been extensively shown in dressage competitions in Holland, working up through the levels in B and M level with a young female rider, and has competed extensively in 3rd level. But mostly, he LOVES being adored, groomed, and going on trails and hacks. He is a true schoolmaster. With more than 30 winning points in Z level (3rd level), Jackpots doesn't have anything else to prove in the dressage arena. We promised his owner we would handpick his new owner to provide a LOVING home offering more than just more dressage competitions. If you just want to compete, Jackpots doesn't want you. If you want to take him out of the stall, undo his double French braid, and go for a long gallop, riding bareback into the sunset, telling him how wonderful he is—Jackpots wants YOU. 166 cm tall (16.1 1/4 hands). This is a really good horse, and it's hard to find Friesians like Jackpots. He is so friendly and easy to ride, even in noisy traffic—no problem. He has accumulated a tremendous list of accomplishments, competing against primarily warmbloods. His gaits are superb and VERY smooth and easy to sit. This is a son of the famous approved stallion, Uldrik—also an upper-level dressage horse. Here is a truly schoolmaster that you can learn from, but don't forget, Jackpots also likes to be ridden bareback, side saddle, and with his slow jog and lope—will be a phenomenal western horse. He is so well behaved and easy to ride, whether perfecting your skills or out on the trails—EASY and truly appropriate for any level rider. And it doesn't stop there. He is truly an exquisite mover for any discipline, moving very freely out of his shoulder. He travels very well and behaves WHEREVER he goes, loads of fun, everyone's favorite horse to ride in his barn. Great not only for trail rides, parades, or exhibitions, but also highly educated. As SAFE as they come, very easy to ride. His ability in dressage is indisputable—over 30 winning points in Z Dressage (3rd level), scoring above 60%, and he acquired the highly coveted SPORT predicate, proof of his upper-level dressage capability.",
+    "seoTitle": "Jackpots - Black Friesian Gelding for Sale | Dressage Schoolmaster",
+    "seoDesc": "Jackpots is a 2016 black Friesian gelding. 16.1 hands, imported from Holland, 30+ winning points in 3rd level dressage. Trail loves, gentle, and safe.",
+    "imageAlt": "Jackpots black Friesian gelding",
+    "sex": "Gelding",
     "tags": [
       "Friesian",
       "Black",
