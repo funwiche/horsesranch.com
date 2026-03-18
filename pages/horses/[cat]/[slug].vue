@@ -96,48 +96,27 @@ const item = computed(() =>
 const category = computed(() =>
   categories.find((el) => el.slug == route.params.cat),
 );
-const properties = [];
-// useSeo({
-//   title: item.value?.seoTitle,
-//   category: "Horse", //category.value?.title.slice(0, -1),
-//   desc: item.value?.seoDesc,
-//   image: item.value?.images[0],
-//   gallery: item.value?.images,
-//   imageAlt: item.value?.imageAlt,
-//   price: item.value?.price,
-//   properties: [
-//     {
-//       "@type": "PropertyValue",
-//       name: "Breed",
-//       value: item.value?.breed,
-//     },
-//     {
-//       "@type": "PropertyValue",
-//       name: "Gender",
-//       value: item.value?.gender,
-//     },
-//     {
-//       "@type": "PropertyValue",
-//       name: "Color",
-//       value: "Grey",
-//     },
-//     {
-//       "@type": "PropertyValue",
-//       name: "Height",
-//       value: "14.2 hands",
-//     },
-//     {
-//       "@type": "PropertyValue",
-//       name: "Discipline",
-//       value: "Trail Riding",
-//     },
-//   ],
-//   breadcrumbs: [
-//     { name: "Horses for sale", path: "/horses" },
-//     { name: category.value?.title, path: `/horses/${route.params.cat}` },
-//     { name: item.value?.title, path: route.path },
-//   ],
-// });
+useSeo({
+  title: item.value?.seoMeta.title,
+  category: "Horse",
+  desc: item.value?.seoMeta.desc,
+  image: item.value?.images[0],
+  gallery: item.value?.images,
+  imageAlt: item.value?.seoMeta.alt,
+  price: item.value?.price,
+  properties: Object.entries(item.value?.properties as any)
+    .filter(([key]) => key != "price")
+    .map(([key, value]) => ({
+      "@type": "PropertyValue",
+      name: $f.capz(key),
+      value,
+    })),
+  breadcrumbs: [
+    { name: "Horses for sale", path: "/horses" },
+    { name: category.value?.title, path: `/horses/${route.params.cat}` },
+    { name: item.value?.title, path: route.path },
+  ],
+});
 const image = ref(0);
 const contain = ref(false);
 const featured = [
