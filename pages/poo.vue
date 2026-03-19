@@ -1,4 +1,13 @@
 <template>
+  {{
+    [...new Set(horses.map((el) => el.excerpt.slice(0, 4)))]
+      .sort()
+      .map(
+        (el) =>
+          `${el}: ${horses.filter((hse) => hse.excerpt.startsWith(el)).length}`,
+      )
+      .join()
+  }}
   <pre>{{
     horses.map((el) => {
       let year =
