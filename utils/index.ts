@@ -10,7 +10,7 @@ export const $app = {
   domain: "www.horsesranch.com",
   email: "info@horsesranch.com",
   phone: "+1 (956) 215 0140",
-  address: "600 E Dallas Ave, McAllen, Texas 78501, United States",
+  address: "600 E Dallas Ave, McAllen, TX 78501",
   hours: "Mon-Sat: 9:00 AM - 18:00 PM",
   image: "/logo.png",
   api: "https://xtremailer.vercel.app/sendmail",
