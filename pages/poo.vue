@@ -1,17 +1,18 @@
 <template>
-  {{
-    [...new Set(horses.map((el) => el.excerpt.slice(0, 4)))]
-      .sort()
-      .map(
-        (el) =>
-          `${el}: ${horses.filter((hse) => hse.excerpt.startsWith(el)).length}`,
-      )
-      .join()
-  }}
   <pre>{{
+    products
+      .filter(({ category }) => category == "Horses")
+      .map(({ slug, excerpt, description }) => ({
+        slug,
+        excerpt,
+        description,
+      }))
+  }}</pre>
+  <!-- <pre>{{
     horses.map((el) => {
       let year =
-        poo.find((data) => data.slug === el.slug)?.excerpt.slice(0, 4) || "";
+        products.find((data) => data.slug === el.slug)?.excerpt.slice(0, 4) ||
+        "";
       let newYear = year;
       return {
         ...el,
@@ -29,14 +30,14 @@
         },
       };
     })
-  }}</pre>
+  }}</pre> -->
 </template>
 
 <script setup lang="ts">
 definePageMeta({ layout: "blank" });
 import saddles from "@/resources/saddles.json";
 import horses from "@/resources/horses.json";
-import poo from "@/resources/poo.json";
+import products from "@/resources/products.json";
 </script>
 
 <style scoped></style>
