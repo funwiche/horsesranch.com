@@ -1,13 +1,5 @@
 <template>
-  <pre>{{
-    products
-      .filter(({ category }) => category == "Horses")
-      .map(({ slug, excerpt, description }) => ({
-        slug,
-        excerpt,
-        description,
-      }))
-  }}</pre>
+  <pre>{{ horses }}</pre>
   <!-- <pre>{{
     horses.map((el) => {
       let year =
