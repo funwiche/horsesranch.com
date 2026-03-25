@@ -1,10 +1,8 @@
 <template>
-  <pre>{{ horses }}</pre>
-  <!-- <pre>{{
+  <!-- <pre>{{ horses }}</pre> -->
+  <pre>{{
     horses.map((el) => {
-      let year =
-        products.find((data) => data.slug === el.slug)?.excerpt.slice(0, 4) ||
-        "";
+      let year = el.excerpt.slice(0, 4) || "";
       let newYear = year;
       return {
         ...el,
@@ -13,7 +11,7 @@
         description: el.description.replaceAll(year, newYear),
         properties: {
           ...el.properties,
-          age: `${new Date().getFullYear() - parseInt(newYear)} years old`,
+          age: `${new Date().getFullYear() - parseInt(newYear) - 1} years old`,
         },
         seoMeta: {
           title: el.seoMeta.title.replaceAll(year, newYear),
@@ -22,7 +20,7 @@
         },
       };
     })
-  }}</pre> -->
+  }}</pre>
 </template>
 
 <script setup lang="ts">
