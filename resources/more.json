@@ -1,0 +1,38 @@
+[
+  {
+    "sku": "HRSEx011",
+    "slug": "apollo-quarter-horse-dun-gelding",
+    "title": "Apollo",
+    "price": 8000,
+    "images": ["/images/apollo-01.jpg", "/images/apollo-02.jpg"],
+    "category": "quarter-horses",
+    "excerpt": "2016 Quarter Horse Dun Gelding 14.3 Hands",
+    "description": "Apollo is a well-built 2016 dun Quarter Horse gelding standing at 14.3 hands, featuring a dunskin color with a dorsal stripe and leg stripes. Primarily used as a trail horse, he has been camping in several states and is also handy for herding and catching cows. He has been used to rope and pull calves and is a reliable cow horse. On the ranch or trails, Apollo crosses creeks, ditches, and logs, and navigates rough, rocky areas with confidence. He is traffic safe around trucks and cars. Apollo has a very good handle—he neck reins, one-step lopes, slide stops, and backs. His jog has a nice Western pleasure feel, smooth to ride, and his lope is slow and easy. Suitable for advanced beginners and up, Apollo has been exposed to all kinds of wildlife and will go anywhere he is asked. With many miles in the mountains of Eastern Kentucky, he has encountered every possible trail obstacle and remains sure-footed on steep slopes, through deep creeks, and over downed trees.",
+    "tags": [
+      "Quarter Horse",
+      "Dun",
+      "Gelding",
+      "Trail Horse",
+      "Ranch Horse",
+      "Camping",
+      "Mountain Trail",
+      "Traffic Safe",
+      "Beginner Friendly",
+      "Sure-footed"
+    ],
+    "properties": {
+      "price": "$8,000.00",
+      "breed": "Quarter Horse",
+      "gender": "Gelding",
+      "color": "Dun",
+      "height": "14.3 hands",
+      "age": "10 years old",
+      "discipline": "Trail Riding, Ranch Work"
+    },
+    "seoMeta": {
+      "title": "Apollo - Dun Quarter Horse Gelding for Sale",
+      "desc": "Apollo is a 2016 dun Quarter Horse gelding. 14.3 hands, trail seasoned in multiple states, and handy with cattle. Smooth gaits, traffic safe, and sure-footed on all terrain.",
+      "alt": "Apollo dun Quarter Horse gelding on trail"
+    }
+  }
+]
