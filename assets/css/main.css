@@ -7,6 +7,18 @@
   ::after {
     @apply border-separator;
   }
+  /* Prevent selection & inspection highlighting */
+  body {
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  /* But allow text selection on specific elements */
+  input,
+  textarea,
+  [contenteditable="true"] {
+    user-select: text;
+  }
   html {
     @apply scroll-smooth bg-secondary text-default;
     background-attachment: fixed;

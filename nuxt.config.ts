@@ -6,10 +6,6 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-11-01",
   css: ["~/assets/css/main.css"],
   components: [{ path: "~/components", pathPrefix: false, global: true }],
-  routeRules: {
-    // '/sitemap_index.xml': { isr: 3600 },
-    // '/sitemap-products/*.xml': { isr: 86400 }
-  },
   app: {
     head: {
       htmlAttrs: { lang: "en", dir: "ltr" },
