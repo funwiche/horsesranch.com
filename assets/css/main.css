@@ -8,10 +8,10 @@
     @apply border-separator;
   }
   /* Prevent selection & inspection highlighting */
-  body {
+  /* body {
     user-select: none;
     -webkit-user-select: none;
-  }
+  } */
 
   /* But allow text selection on specific elements */
   input,

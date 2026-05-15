@@ -34,5 +34,82 @@
       "desc": "Apollo is a 2016 dun Quarter Horse gelding. 14.3 hands, trail seasoned in multiple states, and handy with cattle. Smooth gaits, traffic safe, and sure-footed on all terrain.",
       "alt": "Apollo dun Quarter Horse gelding on trail"
     }
+  },
+  {
+    "sku": "HRSEx150",
+    "slug": "paco-paint-horse-bay-gelding",
+    "title": "Paco",
+    "price": 7500,
+    "images": ["/images/paco-01.jpeg", "/images/paco-02.jpeg"],
+    "category": "paint-horses",
+    "excerpt": "2016 Paint Horse Bay Gelding 14.3 Hands",
+    "description": "Paco is a 2016 bay Paint Horse gelding standing at 14.3 hands—check out this young great trail companion that's sweeter than pie. He's nice to look at and a pleasure to ride. Quiet on trails and extremely gentle, Paco loves to gather cattle and isn't afraid of water, tarps, trucks, or wildlife. Despite his size, he is soft and easy to ride with 3 lovely gaits and exceptional ground manners. He rides in the arena or down the trail and is simple and very uncomplicated for anyone who puts a leg over him. A trail boss—he will go over, through, and wherever you point him. Paco will go out alone or in a group and isn't afraid of taking on new obstacles. He has a very willing disposition and is extremely easy to please. Great for the farrier, loads, ties, clips, and will literally beat you to the gate when trying to catch him. He stands at the mounting block and is quiet when you saddle him. Paco is extremely sweet and in your pocket. If you're looking for a phenomenal trail gelding with a hard-to-find mind, look no further.",
+    "tags": [
+      "Paint Horse",
+      "Bay",
+      "Gelding",
+      "Trail Horse",
+      "Gentle",
+      "Easy Rider",
+      "Cattle Work",
+      "Beginner Friendly",
+      "Ground Manners",
+      "Willing"
+    ],
+    "properties": {
+      "price": "$7,500.00",
+      "breed": "Paint Horse",
+      "gender": "Gelding",
+      "color": "Bay",
+      "height": "14.3 hands",
+      "age": "9 years old",
+      "discipline": "Trail Riding, Ranch Work"
+    },
+    "seoMeta": {
+      "title": "Paco - Bay Paint Horse Gelding for Sale",
+      "desc": "Paco is a 2016 bay Paint Horse gelding. 14.3 hands, trail seasoned, gentle, and easy to ride. Great for cattle and all riders.",
+      "alt": "Paco bay Paint Horse gelding"
+    }
+  },
+
+  {
+    "sku": "HRSEx107",
+    "slug": "hero-quarter-horse-sorrel-gelding",
+    "title": "Hero",
+    "price": 8000,
+    "images": [
+      "/images/hero-01.webp",
+      "/images/hero-02.webp",
+      "/images/hero-03.webp"
+    ],
+    "category": "quarter-horses",
+    "excerpt": "2016 Quarter Horse Sorrel Gelding 16.2 Hands",
+    "description": "Hero is a 2016 sorrel Quarter Horse gelding standing at 16.2 hands—a 7-year-old HANDY broke and SAFE gelding for the whole family. He has a phenomenal handle thanks to working a ranch in all aspects including doctoring and loading cattle trucks. Hero can get around and cut one off like a 14-hand cow pony and isn't afraid to reach down and bite a momma cow that gets too rowdy. Hero has started on the head side as well. He has been ridden by all ages and hauled on barrels by a youth.",
+    "tags": [
+      "Quarter Horse",
+      "Sorrel",
+      "Gelding",
+      "Ranch Horse",
+      "Handy Broke",
+      "Cattle Work",
+      "Head Horse Started",
+      "Family Safe",
+      "Versatile",
+      "Experienced"
+    ],
+    "properties": {
+      "price": "$8,000.00",
+      "breed": "Quarter Horse",
+      "gender": "Gelding",
+      "color": "Sorrel",
+      "height": "16.2 hands",
+      "age": "9 years old",
+      "discipline": "Ranch Work, Team Roping (Heading)"
+    },
+    "seoMeta": {
+      "title": "Hero - Sorrel Quarter Horse Gelding for Sale",
+      "desc": "Hero is a 2016 sorrel Quarter Horse gelding. 16.2 hands, handy broke, ranch seasoned, and started on head side. Safe for all ages.",
+      "alt": "Hero sorrel Quarter Horse gelding"
+    }
   }
 ]

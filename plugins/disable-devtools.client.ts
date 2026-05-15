@@ -5,13 +5,13 @@ export default defineNuxtPlugin(() => {
     import.meta.env?.PROD === true;
 
   // Check if we're in client-side and production
-  if (!(isProduction && import.meta.client)) return;
+  // if (!(isProduction && import.meta.client)) return;
 
-  // Block right-click
-  window.addEventListener("contextmenu", (e) => {
-    e.preventDefault();
-    return false;
-  });
+  // // Block right-click
+  // window.addEventListener("contextmenu", (e) => {
+  //   e.preventDefault();
+  //   return false;
+  // });
 
   // Block keyboard shortcuts
   window.addEventListener("keydown", (e) => {
