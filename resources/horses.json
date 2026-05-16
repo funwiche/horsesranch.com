@@ -3,7 +3,8 @@
     "sku": "HRSEx001",
     "slug": "aiysha-quarter-horse-dappled-buckskin-mare",
     "title": "Aiysha",
-    "price": 7800,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/aiysha-01.jpeg", "/images/aiysha-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Dappled Buckskin Mare 15 Hands",
@@ -21,7 +22,7 @@
       "Bombproof"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Mare",
       "color": "Dappled Buckskin",
@@ -40,6 +41,7 @@
     "slug": "ajax-quarter-horse-buckskin-gelding",
     "title": "Ajax",
     "price": 8000,
+    "year": 2017,
     "images": ["/images/ajax-01.jpg", "/images/ajax-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Gelding 15 Hands",
@@ -56,7 +58,7 @@
       "Trail Riding"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -74,7 +76,8 @@
     "sku": "HRSEx003",
     "slug": "akira-tennessee-walking-horse-chocolate-overo-gelding",
     "title": "Akira",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/akira-01.jpg", "/images/akira-02.jpg"],
     "category": "tennessee-walking-horses",
     "excerpt": "2016 Tennessee Walking Horse Chocolate Overo Gelding 15.1 Hands",
@@ -92,7 +95,7 @@
       "Camping"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Tennessee Walking Horse",
       "gender": "Gelding",
       "color": "Chocolate Overo",
@@ -110,7 +113,8 @@
     "sku": "HRSEx004",
     "slug": "alex-gypsy-vanner-tobiano-gelding",
     "title": "Alex",
-    "price": 9900,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/alex-01.jpg", "/images/alex-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2017 Gypsy Vanner Tobiano Gelding 15.2 Hands",
@@ -128,7 +132,7 @@
       "Western"
     ],
     "properties": {
-      "price": "$9,900.00",
+      "price": "$9000.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Tobiano",
@@ -147,10 +151,11 @@
     "slug": "ali-spotted-saddle-horse-black-tobiano-gelding",
     "title": "Ali",
     "price": 7900,
+    "year": 2019,
     "images": ["/images/ali-01.jpg", "/images/ali-02.jpg"],
     "category": "spotted-saddle-horses",
-    "excerpt": "2015 Spotted Saddle Horse Black Tobiano Gelding 15.1 Hands",
-    "description": "Ali is a remarkable 2015 black tobiano Spotted Saddle Horse gelding standing at 15.1 hands—a true unicorn in the horse world. He has been trail ridden all over America with kids and is one of the best go-anywhere trail horses you'll ever sit on. He fearlessly goes through or over any obstacle and is a guaranteed first-place winner in model classes, parking out on command with pride. Ali is incredibly personable and has been taught numerous tricks, including bowing, laying down for mounting, and side-passing. He is extremely easy to catch, follows his person like a puppy, and listens attentively. His manners are perfect—he stands for everything, loves to be groomed, and is easy to saddle and bridle. Ali rides off slow and gentle, whether with company or alone, and is great in traffic and around ATVs. He has a comfortable, consistent gait that can go all day, with the stamina for 20-30 mile rides, yet is content to walk when desired. He excels at overnight camping, stands tied on a picket line, and loves water—crossing and even swimming in it. Ali handles steep hills, wildlife, bicycles, and backpackers with ease. If you're seeking the prettiest, coolest trail horse with all the bells and whistles, Ali is your man.",
+    "excerpt": "2019 Spotted Saddle Horse Black Tobiano Gelding 15.1 Hands",
+    "description": "Ali is a remarkable 2019 black tobiano Spotted Saddle Horse gelding standing at 15.1 hands—a true unicorn in the horse world. He has been trail ridden all over America with kids and is one of the best go-anywhere trail horses you'll ever sit on. He fearlessly goes through or over any obstacle and is a guaranteed first-place winner in model classes, parking out on command with pride. Ali is incredibly personable and has been taught numerous tricks, including bowing, laying down for mounting, and side-passing. He is extremely easy to catch, follows his person like a puppy, and listens attentively. His manners are perfect—he stands for everything, loves to be groomed, and is easy to saddle and bridle. Ali rides off slow and gentle, whether with company or alone, and is great in traffic and around ATVs. He has a comfortable, consistent gait that can go all day, with the stamina for 20-30 mile rides, yet is content to walk when desired. He excels at overnight camping, stands tied on a picket line, and loves water—crossing and even swimming in it. Ali handles steep hills, wildlife, bicycles, and backpackers with ease. If you're seeking the prettiest, coolest trail horse with all the bells and whistles, Ali is your man.",
     "tags": [
       "Spotted Saddle Horse",
       "Black Tobiano",
@@ -164,17 +169,17 @@
       "Family Horse"
     ],
     "properties": {
-      "price": "$7,900.00",
+      "price": "$7900.00",
       "breed": "Spotted Saddle Horse",
       "gender": "Gelding",
       "color": "Black Tobiano",
       "height": "15.1 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Trail Riding, Pleasure, Trick Riding"
     },
     "seoMeta": {
       "title": "Ali - Black Tobiano Spotted Saddle Horse Gelding for Sale",
-      "desc": "Ali is a 2015 black tobiano Spotted Saddle Horse gelding. 15.1 hands, trail blazer, and trick trained including bow and lay down. Smooth gaits, perfect for camping, parades, and all-day rides.",
+      "desc": "Ali is a 2019 black tobiano Spotted Saddle Horse gelding. 15.1 hands, trail blazer, and trick trained including bow and lay down. Smooth gaits, perfect for camping, parades, and all-day rides.",
       "alt": "Ali black tobiano Spotted Saddle Horse gelding outdoors"
     }
   },
@@ -183,6 +188,7 @@
     "slug": "alibaba-quarter-horse-red-roan-gelding",
     "title": "Alibaba",
     "price": 8700,
+    "year": 2016,
     "images": ["/images/alibaba-01.jpg", "/images/alibaba-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Roan Gelding 15.1 Hands",
@@ -200,7 +206,7 @@
       "Affectionate"
     ],
     "properties": {
-      "price": "$8,700.00",
+      "price": "$8700.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -219,6 +225,7 @@
     "slug": "amber-quarter-horse-buckskin-mare",
     "title": "Amber",
     "price": 8700,
+    "year": 2017,
     "images": ["/images/amber-01.jpg", "/images/amber-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Mare 15.1 Hands",
@@ -236,7 +243,7 @@
       "Family Friendly"
     ],
     "properties": {
-      "price": "$8,700.00",
+      "price": "$8700.00",
       "breed": "Quarter Horse",
       "gender": "Mare",
       "color": "Buckskin",
@@ -254,7 +261,8 @@
     "sku": "HRSEx008",
     "slug": "amigo-welsh-pony-horse-blue-roan-mare",
     "title": "Amigo",
-    "price": 5900,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/amigo-01.jpg", "/images/amigo-02.jpg"],
     "category": "welsh-pony-horses",
     "excerpt": "2016 Welsh Pony Horse Blue Roan Mare 12 Hands",
@@ -272,7 +280,7 @@
       "Beginner Friendly"
     ],
     "properties": {
-      "price": "$5,900.00",
+      "price": "$8000.00",
       "breed": "Welsh Pony",
       "gender": "Gelding",
       "color": "Blue Roan",
@@ -291,6 +299,7 @@
     "slug": "andy-quarter-horse-red-roan-gelding",
     "title": "Andy",
     "price": 8600,
+    "year": 2016,
     "images": ["/images/andy-01.jpg", "/images/andy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -308,7 +317,7 @@
       "Loves Attention"
     ],
     "properties": {
-      "price": "$8,600.00",
+      "price": "$8600.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -327,6 +336,7 @@
     "slug": "anita-draft-cross-horse-dapple-grey-mare",
     "title": "Anita",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/anita-01.jpg", "/images/anita-02.jpg"],
     "category": "draft-cross-horses",
     "excerpt": "2016 Draft Cross Horse Dapple Grey Mare 16.1 Hands",
@@ -344,7 +354,7 @@
       "Family Safe"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Draft Cross",
       "gender": "Mare",
       "color": "Dapple Grey",
@@ -363,6 +373,7 @@
     "slug": "april-gypsy-vanner-buckskin-gelding",
     "title": "April",
     "price": 9850,
+    "year": 2016,
     "images": ["/images/april-01.jpg", "/images/april-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2016 Gypsy Vanner Buckskin Gelding 14.3 Hands",
@@ -380,7 +391,7 @@
       "Loves Attention"
     ],
     "properties": {
-      "price": "$9,850.00",
+      "price": "$9850.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -399,6 +410,7 @@
     "slug": "arnold-quarter-horse-blue-roan-gelding",
     "title": "Arnold",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/arnold-01.jpg", "/images/arnold-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Blue Roan Gelding 15.1 Hands",
@@ -416,7 +428,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Blue Roan",
@@ -434,7 +446,8 @@
     "sku": "HRSEx014",
     "slug": "arrow-quarter-horse-sorrel-rabicano-gelding",
     "title": "Arrow",
-    "price": 7800,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/arrow-01.jpg", "/images/arrow-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Sorrel Rabicano Gelding 15 Hands",
@@ -452,7 +465,7 @@
       "Honest"
     ],
     "properties": {
-      "price": "$7800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Sorrel Rabicano",
@@ -470,7 +483,8 @@
     "sku": "HRSEx015",
     "slug": "ashanti-pony-horse-grulla-mare",
     "title": "Ashanti",
-    "price": 4800,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/ashanti-01.jpeg", "/images/ashanti-02.jpeg"],
     "category": "pony-horses",
     "excerpt": "2017 Pony Horse Grulla Mare 9 Hands",
@@ -488,7 +502,7 @@
       "Trail Safe"
     ],
     "properties": {
-      "price": "$4,800.00",
+      "price": "$8000.00",
       "breed": "Pony",
       "gender": "Mare",
       "color": "Grulla",
@@ -507,6 +521,7 @@
     "slug": "austin-quarter-horse-palomino-gelding",
     "title": "Austin",
     "price": 8000,
+    "year": 2017,
     "images": ["/images/austin-01.jpg", "/images/austin-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -543,6 +558,7 @@
     "slug": "avenger-quarter-horse-red-roan-gelding",
     "title": "Avenger",
     "price": 8000,
+    "year": 2017,
     "images": ["/images/avenger-01.jpg", "/images/avenger-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Red Roan Gelding 15 Hands",
@@ -579,6 +595,7 @@
     "slug": "bailey-quarter-horse-red-roan-gelding",
     "title": "Bailey",
     "price": 8600,
+    "year": 2016,
     "images": ["/images/bailey-01.jpg", "/images/bailey-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Roan Gelding 15 Hands",
@@ -596,7 +613,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,600.00",
+      "price": "$8600.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -614,7 +631,8 @@
     "sku": "HRSEx019",
     "slug": "bandera-spotted-saddle-horse-black-tobiano-gelding",
     "title": "Bandera",
-    "price": 7500,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/bandera-01.jpg", "/images/bandera-02.jpg"],
     "category": "spotted-saddle-horses",
     "excerpt": "2016 Spotted Saddle Horse Black Tobiano Gelding 15.2 Hands",
@@ -632,7 +650,7 @@
       "Traffic Safe"
     ],
     "properties": {
-      "price": "$7,500.00",
+      "price": "$8000.00",
       "breed": "Spotted Saddle Horse",
       "gender": "Gelding",
       "color": "Black Tobiano",
@@ -651,6 +669,7 @@
     "slug": "bandit-quarter-horse-red-roan-gelding",
     "title": "Bandit",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/bandit-01.jpg", "/images/bandit-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -668,7 +687,7 @@
       "Highway Safe"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -686,7 +705,8 @@
     "sku": "HRSEx021",
     "slug": "banjo-rocky-mountain-horse-chocolate-gelding",
     "title": "Banjo",
-    "price": 7900,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/banjo-01.jpeg", "/images/banjo-02.jpeg"],
     "category": "rocky-mountain-horses",
     "excerpt": "2016 Rocky Mountain Horse Chocolate Gelding 15.1 Hands",
@@ -704,7 +724,7 @@
       "Camping"
     ],
     "properties": {
-      "price": "$7,900.00",
+      "price": "$8000.00",
       "breed": "Rocky Mountain Horse",
       "gender": "Gelding",
       "color": "Chocolate",
@@ -722,7 +742,8 @@
     "sku": "HRSEx022",
     "slug": "barbaro-thoroughbred-bay-gelding",
     "title": "Barbaro",
-    "price": 13500,
+    "price": 10000,
+    "year": 2016,
     "images": ["/images/barbaro-01.jpg", "/images/barbaro-02.jpg"],
     "category": "thoroughbred-bay-horses",
     "excerpt": "2016 Thoroughbred Bay Gelding 17 Hands",
@@ -740,7 +761,7 @@
       "Competition"
     ],
     "properties": {
-      "price": "$13,500.00",
+      "price": "$10000.00",
       "breed": "Thoroughbred",
       "gender": "Gelding",
       "color": "Bay",
@@ -758,7 +779,8 @@
     "sku": "HRSEx023",
     "slug": "bashiru-quarter-horse-palomino-gelding",
     "title": "Bashiru",
-    "price": 7500,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/bashiru-01.jpg", "/images/bashiru-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -776,7 +798,7 @@
       "Trustworthy"
     ],
     "properties": {
-      "price": "$7500.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -794,7 +816,8 @@
     "sku": "HRSEx024",
     "slug": "baylee-quarter-horse-bay-roan-gelding",
     "title": "Baylee",
-    "price": 7500,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/baylee-01.jpg", "/images/baylee-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Bay Roan Gelding 15 Hands",
@@ -812,7 +835,7 @@
       "Confidence Builder"
     ],
     "properties": {
-      "price": "$7500.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Bay Roan",
@@ -831,6 +854,7 @@
     "slug": "beamer-quarter-horse-buckskin-gelding",
     "title": "Beamer",
     "price": 8700,
+    "year": 2016,
     "images": ["/images/beamer-01.jpg", "/images/beamer-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 14.3 Hands",
@@ -848,7 +872,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,700.00",
+      "price": "$8700.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -867,6 +891,7 @@
     "slug": "bear-quarter-horse-buckskin-gelding",
     "title": "Bear",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/bear-01.jpg", "/images/bear-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Buckskin Gelding 15.1 Hands",
@@ -902,11 +927,12 @@
     "sku": "HRSEx027",
     "slug": "beauregard-spotted-saddle-horse-chocolate-tobiano-gelding",
     "title": "Beauregard",
-    "price": 7500,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/beauregard-01.jpg", "/images/beauregard-02.jpg"],
     "category": "spotted-saddle-horses",
-    "excerpt": "2014 Spotted Saddle Horse Chocolate Tobiano Gelding 15.2 Hands",
-    "description": "Beauregard is a 2014 chocolate tobiano Spotted Saddle Horse gelding standing at 15.2 hands. He is a very in-your-pocket horse, following you around like a dog. Easy to catch, handles beautifully, and loves to be petted. Beauregard is great for the farrier, easy to clip and bathe, and stands still for saddling, bridling, and mounting. He is a great horse for any level rider. He'll dog-walk all day if you let him, but will move out and gait or lope when asked. He is very good gaited and natural, with a great canter. He can lope circles and pick up his leads, neck reins beautifully, rides off your legs, has a great whoa, and a good reverse. Beauregard is virtually spook-free—point him and he'll go. Ride him down the busiest street in town or drop off over a rock bluff, and know you're in safe hands. He crosses all types of water, slippery rocks, and fallen trees. He is traffic safe, great around farm equipment, and has spent many days checking cows and other livestock—he's definitely livestock and wildlife safe. If you're looking for a big, pretty gelding that is gentle enough for the whole family, Beauregard may be your man.",
+    "excerpt": "2017 Spotted Saddle Horse Chocolate Tobiano Gelding 15.2 Hands",
+    "description": "Beauregard is a 2017 chocolate tobiano Spotted Saddle Horse gelding standing at 15.2 hands. He is a very in-your-pocket horse, following you around like a dog. Easy to catch, handles beautifully, and loves to be petted. Beauregard is great for the farrier, easy to clip and bathe, and stands still for saddling, bridling, and mounting. He is a great horse for any level rider. He'll dog-walk all day if you let him, but will move out and gait or lope when asked. He is very good gaited and natural, with a great canter. He can lope circles and pick up his leads, neck reins beautifully, rides off your legs, has a great whoa, and a good reverse. Beauregard is virtually spook-free—point him and he'll go. Ride him down the busiest street in town or drop off over a rock bluff, and know you're in safe hands. He crosses all types of water, slippery rocks, and fallen trees. He is traffic safe, great around farm equipment, and has spent many days checking cows and other livestock—he's definitely livestock and wildlife safe. If you're looking for a big, pretty gelding that is gentle enough for the whole family, Beauregard may be your man.",
     "tags": [
       "Spotted Saddle Horse",
       "Chocolate Tobiano",
@@ -920,17 +946,17 @@
       "In-Your-Pocket"
     ],
     "properties": {
-      "price": "$7,500.00",
+      "price": "$8000.00",
       "breed": "Spotted Saddle Horse",
       "gender": "Gelding",
       "color": "Chocolate Tobiano",
       "height": "15.2 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Trail Riding, Pleasure"
     },
     "seoMeta": {
       "title": "Beauregard - Chocolate Tobiano Spotted Saddle Horse Gelding for Sale",
-      "desc": "Beauregard is a 2014 chocolate tobiano Spotted Saddle Horse gelding. 15.2 hands, gentle, gaited, and traffic safe. Great for trail riding and family use.",
+      "desc": "Beauregard is a 2017 chocolate tobiano Spotted Saddle Horse gelding. 15.2 hands, gentle, gaited, and traffic safe. Great for trail riding and family use.",
       "alt": "Beauregard chocolate tobiano Spotted Saddle Horse gelding"
     }
   },
@@ -939,6 +965,7 @@
     "slug": "beauty-quarter-horse-palomino-mare",
     "title": "Beauty",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/beauty-01.jpeg", "/images/beauty-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Palomino Mare 14.3 Hands",
@@ -975,6 +1002,7 @@
     "slug": "bello-quarter-horse-chestnut-gelding",
     "title": "Bello",
     "price": 8600,
+    "year": 2016,
     "images": ["/images/bello-01.jpg", "/images/bello-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Chestnut Gelding 14.2 Hands",
@@ -992,7 +1020,7 @@
       "Fun Sized"
     ],
     "properties": {
-      "price": "$8,600.00",
+      "price": "$8600.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Chestnut",
@@ -1010,7 +1038,8 @@
     "sku": "HRSEx030",
     "slug": "benny-dutch-warmblood-gelding-chestnut-gelding",
     "title": "Benny",
-    "price": 14400,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/benny-01.jpg", "/images/benny-02.jpg"],
     "category": "dutch-warmblood-horses",
     "excerpt": "2017 Dutch Warmblood Gelding Chestnut Gelding 16.1 Hands",
@@ -1028,7 +1057,7 @@
       "Competition"
     ],
     "properties": {
-      "price": "$14,400.00",
+      "price": "$9000.00",
       "breed": "Dutch Warmblood",
       "gender": "Gelding",
       "color": "Chestnut",
@@ -1047,6 +1076,7 @@
     "slug": "biggy-(bugsy)-quarter-horse-buckskin-gelding",
     "title": "Biggy (Bugsy)",
     "price": 7900,
+    "year": 2018,
     "images": ["/images/biggy-01.jpeg", "/images/biggy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Buckskin Gelding 14.2 Hands",
@@ -1082,7 +1112,8 @@
     "sku": "HRSEx032",
     "slug": "billy-quarter-horse-palomino-gelding",
     "title": "Billy",
-    "price": 7200,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/billy-01.jpg", "/images/billy-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -1100,7 +1131,7 @@
       "Confidence Builder"
     ],
     "properties": {
-      "price": "$7200.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -1119,6 +1150,7 @@
     "slug": "biscuit-quarter-horse-palomino-gelding",
     "title": "Biscuit",
     "price": 8000,
+    "year": 2017,
     "images": ["/images/biscuit-01.jpg", "/images/biscuit-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -1136,7 +1168,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -1155,6 +1187,7 @@
     "slug": "bishop-quarter-horse-palomino-gelding",
     "title": "Bishop",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/bishop-01.jpeg", "/images/bishop-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -1190,7 +1223,8 @@
     "sku": "HRSEx035",
     "slug": "blaze-spotted-saddle-horse-black-tobiano-gelding",
     "title": "Blaze",
-    "price": 7400,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/blaze-01.jpg", "/images/blaze-02.jpg"],
     "category": "spotted-saddle-horses",
     "excerpt": "2016 Spotted Saddle Horse Black Tobiano Gelding 15.1 Hands",
@@ -1208,7 +1242,7 @@
       "Bombproof"
     ],
     "properties": {
-      "price": "$7,400.00",
+      "price": "$8000.00",
       "breed": "Spotted Saddle Horse",
       "gender": "Gelding",
       "color": "Black Tobiano",
@@ -1226,7 +1260,8 @@
     "sku": "HRSEx036",
     "slug": "blue-tennessee-walking-horse-true-blue-roan-gelding",
     "title": "Blue",
-    "price": 7650,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/blue-01.jpg", "/images/blue-02.jpg"],
     "category": "tennessee-walking-horses",
     "excerpt": "2016 Tennessee Walking Horse True Blue Roan Gelding 16 Hands",
@@ -1244,7 +1279,7 @@
       "Mountain Trail"
     ],
     "properties": {
-      "price": "$7,650.00",
+      "price": "$8000.00",
       "breed": "Tennessee Walking Horse",
       "gender": "Gelding",
       "color": "True Blue Roan",
@@ -1263,6 +1298,7 @@
     "slug": "bolt-quarter-horse-blue-roan-gelding",
     "title": "Bolt",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/bolt-01.jpg", "/images/bolt-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Blue Roan Gelding 15.2 Hands",
@@ -1298,7 +1334,8 @@
     "sku": "HRSEx038",
     "slug": "bonito-tennessee-walking-horse-black-tobiano-gelding",
     "title": "Bonito",
-    "price": 7800,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/bonito-01.jpg", "/images/bonito-02.jpg"],
     "category": "tennessee-walking-horses",
     "excerpt": "2017 Tennessee Walking Horse Black Tobiano Gelding 16 Hands",
@@ -1316,7 +1353,7 @@
       "Mountain Trail"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Tennessee Walking Horse",
       "gender": "Gelding",
       "color": "Black Tobiano",
@@ -1335,6 +1372,7 @@
     "slug": "boomer-quarter-horse-red-roan-gelding",
     "title": "Boomer",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/boomer-01.jpeg", "/images/boomer-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Red Roan Gelding 15 Hands",
@@ -1370,11 +1408,12 @@
     "sku": "HRSEx040",
     "slug": "boris-gypsy-vanner-black-tobiano-gelding",
     "title": "Boris",
-    "price": 10300,
+    "price": 8000,
+    "year": 2019,
     "images": ["/images/boris-01.jpg", "/images/boris-02.jpg"],
     "category": "gypsy-vanner-horses",
-    "excerpt": "2015 Gypsy Vanner Black Tobiano Gelding 14.3 Hands",
-    "description": "Boris is a 2015 black tobiano Gypsy Vanner gelding standing at 14.3 hands—ride and drive in fashion with total WOW factor. This handsome gentleman has a long flowing mane past his knees and a gentle soul with the sweetest in-your-pocket personality. He has been ridden both English and Western and is amazing to ride bareback—very smooth and easygoing. Boris is a trail-riding machine, as comfortable as sitting on the couch cruising down the trails. Very sure-footed, he gets around like a mountain goat, going through running water, mountainous terrain, and navigating easily around prickly pear cactus. Confident alone, he can lead or follow in a group without minding his position. In the arena, Boris has a desirable jog, extended trot, and sweet, slow rocking-chair lope. He side passes, ground ties, and goes over all trail obstacles with ease, with a one-handed neck rein and easy guidance. Safe, safe, safe for any level rider, he is a great confidence builder for timid or new riders, always reassuring his rider. Boris drives good as well—standing quiet and patient while being harnessed, confident pulling a 10-foot wagon. He would look fabulous going down a hometown parade or at a wedding venue. Easy to mount and dismount, he stands still for a mounting block or will lie down with a touch of a finger so you can mount up and go. Boris loves attention—his tremendous mane will make the little girls go crazy. His ground manners are impeccable, and he is as honest as they come to ride and handle in every way. Good with other horses, he will follow you around in the pasture wanting attention and will drop his head to the ground for the littlest kiddos to halter him. We love this marvelous gelding and look forward to him getting his forever home.",
+    "excerpt": "2019 Gypsy Vanner Black Tobiano Gelding 14.3 Hands",
+    "description": "Boris is a 2019 black tobiano Gypsy Vanner gelding standing at 14.3 hands—ride and drive in fashion with total WOW factor. This handsome gentleman has a long flowing mane past his knees and a gentle soul with the sweetest in-your-pocket personality. He has been ridden both English and Western and is amazing to ride bareback—very smooth and easygoing. Boris is a trail-riding machine, as comfortable as sitting on the couch cruising down the trails. Very sure-footed, he gets around like a mountain goat, going through running water, mountainous terrain, and navigating easily around prickly pear cactus. Confident alone, he can lead or follow in a group without minding his position. In the arena, Boris has a desirable jog, extended trot, and sweet, slow rocking-chair lope. He side passes, ground ties, and goes over all trail obstacles with ease, with a one-handed neck rein and easy guidance. Safe, safe, safe for any level rider, he is a great confidence builder for timid or new riders, always reassuring his rider. Boris drives good as well—standing quiet and patient while being harnessed, confident pulling a 10-foot wagon. He would look fabulous going down a hometown parade or at a wedding venue. Easy to mount and dismount, he stands still for a mounting block or will lie down with a touch of a finger so you can mount up and go. Boris loves attention—his tremendous mane will make the little girls go crazy. His ground manners are impeccable, and he is as honest as they come to ride and handle in every way. Good with other horses, he will follow you around in the pasture wanting attention and will drop his head to the ground for the littlest kiddos to halter him. We love this marvelous gelding and look forward to him getting his forever home.",
     "tags": [
       "Gypsy Vanner",
       "Black Tobiano",
@@ -1388,17 +1427,17 @@
       "Confidence Builder"
     ],
     "properties": {
-      "price": "$10,300.00",
+      "price": "$8000.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Black Tobiano",
       "height": "14.3 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Driving, Trail Riding, English, Western"
     },
     "seoMeta": {
       "title": "Boris - Black Tobiano Gypsy Vanner Gelding for Sale",
-      "desc": "Boris is a 2015 black tobiano Gypsy Vanner gelding. 14.3 hands, gentle, trail seasoned, and trained to ride and drive. Long mane, sweet personality.",
+      "desc": "Boris is a 2019 black tobiano Gypsy Vanner gelding. 14.3 hands, gentle, trail seasoned, and trained to ride and drive. Long mane, sweet personality.",
       "alt": "Boris black tobiano Gypsy Vanner gelding"
     }
   },
@@ -1406,11 +1445,12 @@
     "sku": "HRSEx041",
     "slug": "boss-dutch-warmblood-bay-gelding",
     "title": "Boss",
-    "price": 12000,
+    "price": 8000,
+    "year": 2019,
     "images": ["/images/boss-01.jpg", "/images/boss-02.jpg"],
     "category": "dutch-warmblood-horses",
-    "excerpt": "2015 Dutch Warmblood Bay Gelding 17 Hands",
-    "description": "Boss is a 2015 bay Dutch Warmblood gelding standing at 17 hands. He is 3/4 Dutch Harness and 1/4 Percheron, with endless athleticism and willingness. This big guy is a ham—a people person. He has been lightly schooled over preliminary-sized fences and has potential for upper-level dressage as well. Boss also has many miles on hunter paces and paper chases. He is sporty and careful, yet quiet and sane in the excitement.",
+    "excerpt": "2019 Dutch Warmblood Bay Gelding 17 Hands",
+    "description": "Boss is a 2019 bay Dutch Warmblood gelding standing at 17 hands. He is 3/4 Dutch Harness and 1/4 Percheron, with endless athleticism and willingness. This big guy is a ham—a people person. He has been lightly schooled over preliminary-sized fences and has potential for upper-level dressage as well. Boss also has many miles on hunter paces and paper chases. He is sporty and careful, yet quiet and sane in the excitement.",
     "tags": [
       "Dutch Warmblood",
       "Bay",
@@ -1424,17 +1464,17 @@
       "Competition"
     ],
     "properties": {
-      "price": "$12,000.00",
+      "price": "$8000.00",
       "breed": "Dutch Warmblood",
       "gender": "Gelding",
       "color": "Bay",
       "height": "17 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Hunter Paces, Dressage, Jumping"
     },
     "seoMeta": {
       "title": "Boss - Bay Dutch Warmblood Gelding for Sale",
-      "desc": "Boss is a 2015 bay Dutch Warmblood gelding. 17 hands, athletic, people-oriented, and schooled over fences. Great for hunter paces and dressage.",
+      "desc": "Boss is a 2019 bay Dutch Warmblood gelding. 17 hands, athletic, people-oriented, and schooled over fences. Great for hunter paces and dressage.",
       "alt": "Boss bay Dutch Warmblood gelding"
     }
   },
@@ -1443,10 +1483,11 @@
     "slug": "bourbon-quarter-horse-palomino-gelding",
     "title": "Bourbon",
     "price": 8000,
+    "year": 2017,
     "images": ["/images/bourbon-01.jpg", "/images/bourbon-02.jpg"],
     "category": "quarter-horses",
-    "excerpt": "2014 Quarter Horse Palomino Gelding 15 Hands",
-    "description": "Bourbon is a 2014 palomino Quarter Horse gelding standing at 15 hands—a safe insurance policy that is gorgeous, very well trained, and will ensure your well-being and enjoyment on horseback. Worth his weight in gold, we love this calm, easy-going, kind-hearted gelding. His glamorous golden color, soft brown eyes, and balanced conformation will capture your attention, but his disposition will win your heart. He will pack any level of rider, giving the confidence and assurance of being on horseback. He performs all maneuvers with ease—effortless lead changes, pretty spins, and long stops. His transitions are flawless, with a smooth slow lope and a nice, comfortable pitter-patter jog. Bourbon willingly guides wherever you point him on the trails and has been ridden in many different types of terrain. Used all over the ranch, he side passes to open and shut gates, moves cattle quietly, is good to sort in pens, and easy to rope off of if needed. He walks quietly on a loose rein and is confident alone. He doesn't require steady riding—catch him once a month and go have fun; you'll have the same horse you rode the previous ride. He stays trained and gentle. Bourbon will make you look forward to going to the barn, and you'll appreciate this kind soul every time you saddle him up. He will truly be an asset for so many people—this kind of gelding just doesn't come around every day.",
+    "excerpt": "2017 Quarter Horse Palomino Gelding 15 Hands",
+    "description": "Bourbon is a 2017 palomino Quarter Horse gelding standing at 15 hands—a safe insurance policy that is gorgeous, very well trained, and will ensure your well-being and enjoyment on horseback. Worth his weight in gold, we love this calm, easy-going, kind-hearted gelding. His glamorous golden color, soft brown eyes, and balanced conformation will capture your attention, but his disposition will win your heart. He will pack any level of rider, giving the confidence and assurance of being on horseback. He performs all maneuvers with ease—effortless lead changes, pretty spins, and long stops. His transitions are flawless, with a smooth slow lope and a nice, comfortable pitter-patter jog. Bourbon willingly guides wherever you point him on the trails and has been ridden in many different types of terrain. Used all over the ranch, he side passes to open and shut gates, moves cattle quietly, is good to sort in pens, and easy to rope off of if needed. He walks quietly on a loose rein and is confident alone. He doesn't require steady riding—catch him once a month and go have fun; you'll have the same horse you rode the previous ride. He stays trained and gentle. Bourbon will make you look forward to going to the barn, and you'll appreciate this kind soul every time you saddle him up. He will truly be an asset for so many people—this kind of gelding just doesn't come around every day.",
     "tags": [
       "Quarter Horse",
       "Palomino",
@@ -1460,17 +1501,17 @@
       "Easy Keeper"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
       "height": "15 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Ranch Work, Trail Riding, Reining"
     },
     "seoMeta": {
       "title": "Bourbon - Palomino Quarter Horse Gelding for Sale",
-      "desc": "Bourbon is a 2014 palomino Quarter Horse gelding. 15 hands, calm, easy-going, and versatile for ranch work and trails. Safe for any level rider.",
+      "desc": "Bourbon is a 2017 palomino Quarter Horse gelding. 15 hands, calm, easy-going, and versatile for ranch work and trails. Safe for any level rider.",
       "alt": "Bourbon palomino Quarter Horse gelding"
     }
   },
@@ -1479,6 +1520,7 @@
     "slug": "breeze-quarter-horse-black-gelding",
     "title": "Breeze",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/breeze-01.jpg", "/images/breeze-01.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Black Gelding 15 Hands",
@@ -1496,7 +1538,7 @@
       "Automatic Lead Changes"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Black",
@@ -1515,6 +1557,7 @@
     "slug": "broli-quarter-horse-buckskin-gelding",
     "title": "Broli",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/broli-01.jpeg", "/images/broli-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 15 Hands",
@@ -1532,7 +1575,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -1551,6 +1594,7 @@
     "slug": "bruce-lee-paint-horse-sorrel-overo-gelding",
     "title": "Bruce Lee",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/bruce-lee-01.jpg", "/images/bruce-lee-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Sorrel Overo Gelding 15 Hands",
@@ -1568,7 +1612,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Sorrel Overo",
@@ -1587,6 +1631,7 @@
     "slug": "bubblegum-quarter-horse-buckskin-gelding",
     "title": "Bubblegum",
     "price": 9300,
+    "year": 2016,
     "images": ["/images/bubblegum-01.jpg", "/images/bubblegum-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 14.2 hands",
@@ -1604,7 +1649,7 @@
       "All-Around"
     ],
     "properties": {
-      "price": "$9,300.00",
+      "price": "$9300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -1623,6 +1668,7 @@
     "slug": "bucky-quarter-horse-grulla-gelding",
     "title": "Bucky",
     "price": 8600,
+    "year": 2017,
     "images": ["/images/bucky-01.jpg", "/images/bucky-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Grulla Gelding 15.1 Hands",
@@ -1640,7 +1686,7 @@
       "Trick Trained"
     ],
     "properties": {
-      "price": "$8,600.00",
+      "price": "$8600.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Grulla",
@@ -1659,6 +1705,7 @@
     "slug": "buzz-quarter-horse-buckskin-gelding",
     "title": "Buzz",
     "price": 8700,
+    "year": 2016,
     "images": ["/images/buzz-01.jpg", "/images/buzz-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 15.3 Hands",
@@ -1676,7 +1723,7 @@
       "Willing"
     ],
     "properties": {
-      "price": "$8,700.00",
+      "price": "$8700.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -1694,11 +1741,12 @@
     "sku": "HRSEx049",
     "slug": "calypso-gypsy-vanner-black-gelding",
     "title": "Calypso",
-    "price": 9500,
+    "price": 8000,
+    "year": 2019,
     "images": ["/images/calypso-01.jpg", "/images/calypso-02.jpg"],
     "category": "gypsy-vanner-horses",
-    "excerpt": "2015 Gypsy Vanner Black Gelding 14.2 Hands",
-    "description": "Calypso is a 2015 black Gypsy Vanner gelding standing at 14.2 hands—tricks, reining, trails, roping, gentle, and fancy. Want something different that will turn heads anywhere you go? Look at this handsome guy. Calypso is a Gypsy Vanner who will run a reining pattern, rope, trail ride, and do all kinds of fun tricks. Go show him or pleasure ride him—you will have one of a kind. Hair forever and as black as your hat. Calypso has been a blast to own and easy to train. Athletic with speed when asked, his willing attitude stays gentle, and he is just fun to have in the barn. Good with other horses, he will ride in a group or solo outside.",
+    "excerpt": "2019 Gypsy Vanner Black Gelding 14.2 Hands",
+    "description": "Calypso is a 2019 black Gypsy Vanner gelding standing at 14.2 hands—tricks, reining, trails, roping, gentle, and fancy. Want something different that will turn heads anywhere you go? Look at this handsome guy. Calypso is a Gypsy Vanner who will run a reining pattern, rope, trail ride, and do all kinds of fun tricks. Go show him or pleasure ride him—you will have one of a kind. Hair forever and as black as your hat. Calypso has been a blast to own and easy to train. Athletic with speed when asked, his willing attitude stays gentle, and he is just fun to have in the barn. Good with other horses, he will ride in a group or solo outside.",
     "tags": [
       "Gypsy Vanner",
       "Black",
@@ -1712,17 +1760,17 @@
       "Fun"
     ],
     "properties": {
-      "price": "$9,500.00",
+      "price": "$8000.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Black",
       "height": "14.2 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Reining, Trick Riding, Trail Riding, Roping"
     },
     "seoMeta": {
       "title": "Calypso - Black Gypsy Vanner Gelding for Sale",
-      "desc": "Calypso is a 2015 black Gypsy Vanner gelding. 14.2 hands, trick trained, reining maneuvers, and trail seasoned. Athletic, willing, and one-of-a-kind.",
+      "desc": "Calypso is a 2019 black Gypsy Vanner gelding. 14.2 hands, trick trained, reining maneuvers, and trail seasoned. Athletic, willing, and one-of-a-kind.",
       "alt": "Calypso black Gypsy Vanner gelding"
     }
   },
@@ -1731,6 +1779,7 @@
     "slug": "captain-friesian-x-morgan-bay-gelding",
     "title": "Captain",
     "price": 9500,
+    "year": 2016,
     "images": ["/images/captain-01.jpg", "/images/captain-02.jpg"],
     "category": "friesian-x-morgan-horses",
     "excerpt": "2016 Friesian x Morgan Bay Gelding 16 Hands",
@@ -1748,7 +1797,7 @@
       "Once-in-a-Lifetime"
     ],
     "properties": {
-      "price": "$9,500.00",
+      "price": "$9500.00",
       "breed": "Friesian x Morgan",
       "gender": "Gelding",
       "color": "Bay",
@@ -1767,6 +1816,7 @@
     "slug": "carson-gypsy-vanner-buckskin-gelding",
     "title": "Carson",
     "price": 9700,
+    "year": 2016,
     "images": ["/images/carson-01.jpg", "/images/carson-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2016 Gypsy Vanner Buckskin Gelding 14.3 Hands",
@@ -1784,7 +1834,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$9,700.00",
+      "price": "$9700.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -1803,6 +1853,7 @@
     "slug": "casanova-paint-horse-buckskin-tobiano-gelding",
     "title": "Casanova",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/casanova-01.jpg", "/images/casanova-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Buckskin Tobiano Gelding 14.3 Hands",
@@ -1820,7 +1871,7 @@
       "Beginner Friendly"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Buckskin Tobiano",
@@ -1838,7 +1889,8 @@
     "sku": "HRSEx053",
     "slug": "cash-quarter-horse-buckskin-gelding",
     "title": "Cash",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/cash-01.jpg", "/images/cash-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 15 Hands",
@@ -1856,7 +1908,7 @@
       "Easy Rider"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -1875,6 +1927,7 @@
     "slug": "champion-quarter-horse-chestnut-gelding",
     "title": "Champion",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/champion-01.jpg", "/images/champion-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Chestnut Gelding 15 Hands",
@@ -1910,7 +1963,8 @@
     "sku": "HRSEx055",
     "slug": "cherokee-quarter-horse-blue-roan-gelding",
     "title": "Cherokee",
-    "price": 9200,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/cherokee-01.jpg", "/images/cherokee-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Blue Roan Gelding 15.2 Hands",
@@ -1928,7 +1982,7 @@
       "Family Safe"
     ],
     "properties": {
-      "price": "$9,200.00",
+      "price": "$9000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Blue Roan",
@@ -1946,7 +2000,8 @@
     "sku": "HRSEx056",
     "slug": "chewy-quarter-horse-red-roan-gelding",
     "title": "Chewy",
-    "price": 7500,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/chewy-01.jpg", "/images/chewy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Roan Gelding 15 Hands",
@@ -1964,7 +2019,7 @@
       "Smooth"
     ],
     "properties": {
-      "price": "$7,500.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -1982,7 +2037,8 @@
     "sku": "HRSEx057",
     "slug": "cheyenne-percheron-cross-horse-black-gelding",
     "title": "Cheyenne",
-    "price": 7000,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/cheyenne-01.jpg", "/images/cheyenne-02.jpg"],
     "category": "percheron-cross-horses",
     "excerpt": "2016 Percheron Cross Horse Black Gelding 16.2 Hands",
@@ -2000,7 +2056,7 @@
       "Bombproof"
     ],
     "properties": {
-      "price": "$7,000.00",
+      "price": "$8000.00",
       "breed": "Percheron Cross",
       "gender": "Gelding",
       "color": "Black",
@@ -2018,11 +2074,12 @@
     "sku": "HRSEx058",
     "slug": "chlautile-paint-horse-palomino-tobiano-mare",
     "title": "Chlautile",
-    "price": 7800,
+    "price": 7900,
+    "year": 2019,
     "images": ["/images/chlautile-01.jpg", "/images/chlautile-02.jpg"],
     "category": "paint-horses",
-    "excerpt": "2015 Paint Horse Palomino Tobiano Mare 15.1 Hands",
-    "description": "Chlautile is a stunning 2015 palomino tobiano Paint Horse mare standing at 15.1 hands. With her golden palomino and white markings, she is not only pretty to look at but equally as pretty moving. She is versatile and handy, capable of English, Western, and trail riding. Chlautile stands tied, is easy to work on for the vet and farrier, sprays, bathes, clips, and is easy to groom and saddle up. She is great in turnout and comes running to the gate when she sees you. Under saddle, Chlautile is an uncomplicated and fun ride. Used extensively for lessons, she has navigated an equine obstacle park with ease, confidently handling tension bridges, moving platforms, teeter-totters, cowboy curtains, ponds, and more. She rides nicely one-handed in a finished bit, with lovely transitions: walk, jog, extended jog, lope, and extended lope. Downward transitions are effortless with just relaxing your seat. She has a nice back-up, takes both leads nicely, stays balanced, and has a nice simple lead change. She neck reins easily, and you can even ride her with just a string around her neck—she guides just as easy. Chlautile has a soft mouth, rides with beautiful collection in contact, stays soft over the back, and has natural impulsion from the hind. Under English tack, she has a lovely big step to her trot with nice flat knee and reach, and a naturally floaty canter with nice suspension. She trots ground poles and willingly jumps. Chlautile leg yields, softens her face, moves her hip and shoulders, and stays soft and relaxed through all maneuvers. A dream to load up and haul out, she requires no lunging or riding down in a new place and loves an adventure. This beautiful mare would make an awesome all-around horse for just about anyone—kid-approved for a lesson program or beginner adult. She is simple, fun, and ready to meet her new partner. Chlautile sells sound without vices or limitations, barefoot, and up to date on vaccines, coggins, de-worming, and hoof care.",
+    "excerpt": "2019 Paint Horse Palomino Tobiano Mare 15.1 Hands",
+    "description": "Chlautile is a stunning 2019 palomino tobiano Paint Horse mare standing at 15.1 hands. With her golden palomino and white markings, she is not only pretty to look at but equally as pretty moving. She is versatile and handy, capable of English, Western, and trail riding. Chlautile stands tied, is easy to work on for the vet and farrier, sprays, bathes, clips, and is easy to groom and saddle up. She is great in turnout and comes running to the gate when she sees you. Under saddle, Chlautile is an uncomplicated and fun ride. Used extensively for lessons, she has navigated an equine obstacle park with ease, confidently handling tension bridges, moving platforms, teeter-totters, cowboy curtains, ponds, and more. She rides nicely one-handed in a finished bit, with lovely transitions: walk, jog, extended jog, lope, and extended lope. Downward transitions are effortless with just relaxing your seat. She has a nice back-up, takes both leads nicely, stays balanced, and has a nice simple lead change. She neck reins easily, and you can even ride her with just a string around her neck—she guides just as easy. Chlautile has a soft mouth, rides with beautiful collection in contact, stays soft over the back, and has natural impulsion from the hind. Under English tack, she has a lovely big step to her trot with nice flat knee and reach, and a naturally floaty canter with nice suspension. She trots ground poles and willingly jumps. Chlautile leg yields, softens her face, moves her hip and shoulders, and stays soft and relaxed through all maneuvers. A dream to load up and haul out, she requires no lunging or riding down in a new place and loves an adventure. This beautiful mare would make an awesome all-around horse for just about anyone—kid-approved for a lesson program or beginner adult. She is simple, fun, and ready to meet her new partner. Chlautile sells sound without vices or limitations, barefoot, and up to date on vaccines, coggins, de-worming, and hoof care.",
     "tags": [
       "Paint Horse",
       "Palomino Tobiano",
@@ -2036,17 +2093,17 @@
       "Beginner Safe"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$7900.00",
       "breed": "Paint Horse",
       "gender": "Mare",
       "color": "Palomino Tobiano",
       "height": "15.1 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "English, Western, Trail Riding, Obstacle, Jumping"
     },
     "seoMeta": {
       "title": "Chlautile - Palomino Tobiano Paint Horse Mare for Sale",
-      "desc": "Chlautile is a 2015 palomino tobiano Paint Horse mare. 15.1 hands, versatile in English and Western, obstacle course pro, and lesson safe.",
+      "desc": "Chlautile is a 2019 palomino tobiano Paint Horse mare. 15.1 hands, versatile in English and Western, obstacle course pro, and lesson safe.",
       "alt": "Chlautile palomino tobiano Paint Horse mare"
     }
   },
@@ -2054,7 +2111,8 @@
     "sku": "HRSEx059",
     "slug": "colabo-gypsy-vanner-horse-black-overo-gelding",
     "title": "Colabo",
-    "price": 9800,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/colabo-01.jpg", "/images/colabo-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2017 Gypsy Vanner Horse Black Overo Gelding 15 Hands",
@@ -2072,7 +2130,7 @@
       "Western"
     ],
     "properties": {
-      "price": "$9,800.00",
+      "price": "$9000.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Black Overo",
@@ -2090,7 +2148,8 @@
     "sku": "HRSEx060",
     "slug": "copper-quarter-horse-black-gelding",
     "title": "Copper",
-    "price": 7700,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/copper-01.jpg", "/images/copper-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Black Gelding 15.1 Hands",
@@ -2108,7 +2167,7 @@
       "Show Horse"
     ],
     "properties": {
-      "price": "$7700.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Black",
@@ -2127,10 +2186,11 @@
     "slug": "cougar-tennessee-walking-horse-chocolate-tobiano-gelding",
     "title": "Cougar",
     "price": 7900,
+    "year": 2019,
     "images": ["/images/cougar-01.jpg", "/images/cougar-02.jpg"],
     "category": "tennessee-walking-horses",
-    "excerpt": "2015 Tennessee Walking Horse Chocolate Tobiano Gelding 15.1 Hands",
-    "description": "Cougar is a stocky-built 2015 chocolate tobiano Tennessee Walking Horse gelding standing at 15.1 hands. He was their go-to horse when a friend wanted to ride or a beginner wanted to give it a try—always a crowd favorite. Now looking for his second and final forever loving home, Cougar is easy to catch, clip, bathe, tack up, load, and handle. Gentle and safe to ride, he flatfoot walks and moves out easily, with a natural running walk gait and can rack on out when asked. Ridden around farm equipment, ATVs, over large noisy tarps, and with guns shot off his back, Cougar is not spooky acting. On the trails, he is always great—exposed to all kinds of wildlife, he goes anywhere asked. He has many miles in the mountains and has encountered every obstacle possible on the trail. He goes up or down steep slopes, across deep creeks, over downed trees, and all types of rough terrain while staying sure-footed. He has been ridden in traffic and is very traffic safe around cars, semis, log trucks, and dump trucks. With a great personality and attitude about whatever he is asked to do, if you need a trail horse, just go ahead and get the Cougar version.",
+    "excerpt": "2019 Tennessee Walking Horse Chocolate Tobiano Gelding 15.1 Hands",
+    "description": "Cougar is a stocky-built 2019 chocolate tobiano Tennessee Walking Horse gelding standing at 15.1 hands. He was their go-to horse when a friend wanted to ride or a beginner wanted to give it a try—always a crowd favorite. Now looking for his second and final forever loving home, Cougar is easy to catch, clip, bathe, tack up, load, and handle. Gentle and safe to ride, he flatfoot walks and moves out easily, with a natural running walk gait and can rack on out when asked. Ridden around farm equipment, ATVs, over large noisy tarps, and with guns shot off his back, Cougar is not spooky acting. On the trails, he is always great—exposed to all kinds of wildlife, he goes anywhere asked. He has many miles in the mountains and has encountered every obstacle possible on the trail. He goes up or down steep slopes, across deep creeks, over downed trees, and all types of rough terrain while staying sure-footed. He has been ridden in traffic and is very traffic safe around cars, semis, log trucks, and dump trucks. With a great personality and attitude about whatever he is asked to do, if you need a trail horse, just go ahead and get the Cougar version.",
     "tags": [
       "Tennessee Walking Horse",
       "Chocolate Tobiano",
@@ -2144,17 +2204,17 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$7,900.00",
+      "price": "$7900.00",
       "breed": "Tennessee Walking Horse",
       "gender": "Gelding",
       "color": "Chocolate Tobiano",
       "height": "15.1 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Trail Riding, Pleasure"
     },
     "seoMeta": {
       "title": "Cougar - Chocolate Tobiano Tennessee Walking Horse Gelding for Sale",
-      "desc": "Cougar is a 2015 chocolate tobiano Tennessee Walking Horse gelding. 15.1 hands, smooth gaited, traffic safe, and trail seasoned. Beginner friendly.",
+      "desc": "Cougar is a 2019 chocolate tobiano Tennessee Walking Horse gelding. 15.1 hands, smooth gaited, traffic safe, and trail seasoned. Beginner friendly.",
       "alt": "Cougar chocolate tobiano Tennessee Walking Horse gelding"
     }
   },
@@ -2162,7 +2222,8 @@
     "sku": "HRSEx062",
     "slug": "cruiser-quarter-horse-gray-gelding",
     "title": "Cruiser",
-    "price": 7700,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/cruiser-01.jpg", "/images/cruiser-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Gray Gelding 15.1 Hands",
@@ -2180,7 +2241,7 @@
       "Quiet"
     ],
     "properties": {
-      "price": "$7700.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Gray",
@@ -2198,11 +2259,12 @@
     "sku": "HRSEx063",
     "slug": "cruz-warmblood-horse-bay-gelding",
     "title": "Cruz",
-    "price": 10800,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/cruz-01.jpg", "/images/cruz-02.jpg"],
     "category": "warmblood-horses",
-    "excerpt": "2014 Warmblood Horse Bay Gelding 16.2 Hands",
-    "description": "Cruz is a 2014 bay Warmblood gelding standing at 16.2 hands—tall, dark, and handsome, an IMPORTED Warmblood gelding. With bloodlines including the famous Holsteiners Con Air by Contender and Henry Jotas lines, his impeccable conformation, perfect hunter canter, and flawless jumping form make him a 10+ mover destined to win big. Cruz has what it takes to be your next top SHOW HUNTER. He has had extensive flatwork training inside the arena and out, walking, trotting, and cantering on a loose rein for hunters or collecting into a frame for dressage. He rides nicely off the seat and leg, has a soft mouth, and is ready to show 2'3\"-2'6\", eligible for green hunter divisions. Cruz enjoys riding Western and going for trail rides, mastering all the Western basics—great stop, back up, lateral work, yielding forequarters/hindquarters. Good with traffic and riding out alone, he has been hauled all over for trail obstacle practice, riding lessons, and local horse shows. While Cruz has clear hunter potential, he could easily shine in dressage, equitation, jumping, or eventing. He is VERSATILE and could excel in any discipline. A barn favorite with excellent manners and a sweet, willing temperament, he could easily be brought along by an adult amateur or junior rider. Easy to load, haul, tack, bathe, braid, trim, Cruz is SOUND, up-to-date on everything, with no maintenance—a barefoot easy keeper.",
+    "excerpt": "2017 Warmblood Horse Bay Gelding 16.2 Hands",
+    "description": "Cruz is a 2017 bay Warmblood gelding standing at 16.2 hands—tall, dark, and handsome, an IMPORTED Warmblood gelding. With bloodlines including the famous Holsteiners Con Air by Contender and Henry Jotas lines, his impeccable conformation, perfect hunter canter, and flawless jumping form make him a 10+ mover destined to win big. Cruz has what it takes to be your next top SHOW HUNTER. He has had extensive flatwork training inside the arena and out, walking, trotting, and cantering on a loose rein for hunters or collecting into a frame for dressage. He rides nicely off the seat and leg, has a soft mouth, and is ready to show 2'3\"-2'6\", eligible for green hunter divisions. Cruz enjoys riding Western and going for trail rides, mastering all the Western basics—great stop, back up, lateral work, yielding forequarters/hindquarters. Good with traffic and riding out alone, he has been hauled all over for trail obstacle practice, riding lessons, and local horse shows. While Cruz has clear hunter potential, he could easily shine in dressage, equitation, jumping, or eventing. He is VERSATILE and could excel in any discipline. A barn favorite with excellent manners and a sweet, willing temperament, he could easily be brought along by an adult amateur or junior rider. Easy to load, haul, tack, bathe, braid, trim, Cruz is SOUND, up-to-date on everything, with no maintenance—a barefoot easy keeper.",
     "tags": [
       "Warmblood",
       "Bay",
@@ -2216,17 +2278,17 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$10,800.00",
+      "price": "$9000.00",
       "breed": "Warmblood",
       "gender": "Gelding",
       "color": "Bay",
       "height": "16.2 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Show Hunter, Dressage, Jumping, Eventing"
     },
     "seoMeta": {
       "title": "Cruz - Bay Warmblood Gelding for Sale",
-      "desc": "Cruz is a 2014 bay Warmblood gelding. 16.2 hands, imported Holsteiner lines, perfect hunter canter, and ready for 2'3\"-2'6\" shows. Versatile and sound.",
+      "desc": "Cruz is a 2017 bay Warmblood gelding. 16.2 hands, imported Holsteiner lines, perfect hunter canter, and ready for 2'3\"-2'6\" shows. Versatile and sound.",
       "alt": "Cruz bay Warmblood gelding"
     }
   },
@@ -2235,6 +2297,7 @@
     "slug": "cupid-quarter-horse-sorrel-gelding",
     "title": "Cupid",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/cupid-01.jpg", "/images/cupid-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Sorrel Gelding 15 Hands",
@@ -2252,7 +2315,7 @@
       "Affectionate"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Sorrel",
@@ -2270,7 +2333,8 @@
     "sku": "HRSEx065",
     "slug": "cynthia-paint-horse-chestnut-tobiano-mare",
     "title": "Cynthia",
-    "price": 7900,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/cynthia-01.jpeg", "/images/cynthia-02.jpeg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Chestnut Tobiano Mare 14.1 Hands",
@@ -2288,7 +2352,7 @@
       "Broodmare Prospect"
     ],
     "properties": {
-      "price": "$7,900.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Mare",
       "color": "Chestnut Tobiano",
@@ -2306,7 +2370,8 @@
     "sku": "HRSEx066",
     "slug": "cyrus-mule-horse-bay-gelding",
     "title": "Cyrus",
-    "price": 7400,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/cyrus-01.jpg", "/images/cyrus-02.jpg"],
     "category": "mule-horses",
     "excerpt": "2016 Mule Horse Bay Gelding 14 Hands",
@@ -2324,7 +2389,7 @@
       "Sure-footed"
     ],
     "properties": {
-      "price": "$7,400.00",
+      "price": "$8000.00",
       "breed": "Mule",
       "gender": "Gelding",
       "color": "Bay",
@@ -2342,11 +2407,12 @@
     "sku": "HRSEx067",
     "slug": "daisy-spotted-saddle-champaign-mare",
     "title": "Daisy",
-    "price": 7800,
+    "price": 7900,
+    "year": 2019,
     "images": ["/images/daisy-01.jpg", "/images/daisy-02.jpg"],
     "category": "spotted-saddle-horses",
-    "excerpt": "2015 Spotted Saddle Champaign Mare 14.2 Hands",
-    "description": "Daisy is a 2015 champaign Spotted Saddle Horse mare standing at a sturdy 14.2 hands. She is a well-trained spotted saddle horse mare. I could talk about this beautiful mare all day long. Daisy has been ridden all over Texas, Arizona, Oregon, Kentucky, Tennessee, Virginia, and many more. She has been on many day rides, overnight and weekend trips, handling every trip like a champ. She has been stalled while camping, as well as tied out on a hi-line—she does great with both.",
+    "excerpt": "2019 Spotted Saddle Champaign Mare 14.2 Hands",
+    "description": "Daisy is a 2019 champaign Spotted Saddle Horse mare standing at a sturdy 14.2 hands. She is a well-trained spotted saddle horse mare. I could talk about this beautiful mare all day long. Daisy has been ridden all over Texas, Arizona, Oregon, Kentucky, Tennessee, Virginia, and many more. She has been on many day rides, overnight and weekend trips, handling every trip like a champ. She has been stalled while camping, as well as tied out on a hi-line—she does great with both.",
     "tags": [
       "Spotted Saddle Horse",
       "Champaign",
@@ -2360,17 +2426,17 @@
       "Seasoned"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$7900.00",
       "breed": "Spotted Saddle Horse",
       "gender": "Mare",
       "color": "Champaign",
       "height": "14.2 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Trail Riding, Camping"
     },
     "seoMeta": {
       "title": "Daisy - Champaign Spotted Saddle Mare for Sale",
-      "desc": "Daisy is a 2015 champaign Spotted Saddle Horse mare. 14.2 hands, trail ridden in multiple states, camping experienced, and easy to handle.",
+      "desc": "Daisy is a 2019 champaign Spotted Saddle Horse mare. 14.2 hands, trail ridden in multiple states, camping experienced, and easy to handle.",
       "alt": "Daisy champaign Spotted Saddle Horse mare"
     }
   },
@@ -2379,6 +2445,7 @@
     "slug": "dallas-quarter-horse-palomino-gelding-gelding",
     "title": "Dallas",
     "price": 9200,
+    "year": 2016,
     "images": ["/images/dallas-01.jpg", "/images/dallas-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding Gelding 16 Hands",
@@ -2396,7 +2463,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$9,200.00",
+      "price": "$9200.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -2415,6 +2482,7 @@
     "slug": "dandy-quarter-horse-chestnut-gelding",
     "title": "Dandy",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/dandy-01.jpg", "/images/dandy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Chestnut Gelding 15 Hands",
@@ -2432,7 +2500,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Chestnut",
@@ -2451,6 +2519,7 @@
     "slug": "danny-quarter-horse-buckskin-gelding",
     "title": "Danny",
     "price": 8200,
+    "year": 2016,
     "images": ["/images/danny-01.jpg", "/images/danny-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 15 Hands",
@@ -2468,7 +2537,7 @@
       "Show Record"
     ],
     "properties": {
-      "price": "$8,200.00",
+      "price": "$8200.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -2487,6 +2556,7 @@
     "slug": "dante-quarter-horse-sorrel-gelding",
     "title": "Dante",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/dante-01.jpg", "/images/dante-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Sorrel Gelding 15.2 Hands",
@@ -2504,7 +2574,7 @@
       "Easy Rider"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Sorrel",
@@ -2523,6 +2593,7 @@
     "slug": "darrion-mustang-horse-grulla-with-stripes-gelding",
     "title": "Darrion",
     "price": 9800,
+    "year": 2016,
     "images": ["/images/darrion-01.jpg", "/images/darrion-02.jpg"],
     "category": "mustang-horses",
     "excerpt": "2016 Mustang Horse Grulla With Stripes Gelding 15 Hands",
@@ -2540,7 +2611,7 @@
       "Once-in-a-Lifetime"
     ],
     "properties": {
-      "price": "$9,800.00",
+      "price": "$9800.00",
       "breed": "Mustang",
       "gender": "Gelding",
       "color": "Grulla with Stripes",
@@ -2559,6 +2630,7 @@
     "slug": "dash-quarter-horse-palomino-gelding",
     "title": "Dash",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/dash-01.jpeg", "/images/dash-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding 15.2 Hands",
@@ -2576,7 +2648,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -2594,11 +2666,12 @@
     "sku": "HRSEx074",
     "slug": "david-pony-horse-palomino-paint-gelding",
     "title": "David",
-    "price": 7000,
+    "price": 7900,
+    "year": 2019,
     "images": ["/images/david-01.jpg", "/images/david-02.jpg"],
     "category": "pony-horses",
-    "excerpt": "2015 Pony Horse Palomino Paint Gelding 13.3 Hands",
-    "description": "David is a 2015 palomino paint pony gelding standing at 13.3 hands—a little something different, full of fun, and for everyone to enjoy. He's just the right size for everyone in the family and is trained to ride and drive, making him just right for everyone to enjoy. David is very easy to get along with and has been ridden by a 10-year-old for the past year. He has been on lots of outdoor adventures and recently was used on a trail ride with over 100 horses, ridden by a 10-year-old boy the entire ride. And just for fun, he swims in a lake and loves it—so if you need to cool off on a hot day, he will take you for a swim. David has been ridden and driven to town where he's been exposed to all sorts of commotion, traffic, and bicycles. He also knows some really fun tricks—like laying down, sitting on a bean bag, marker training, and saying yes or no. With all the outside adventures, we've also spent time in the arena teaching him to ride English and Western, working on speed transitions. He is a super cute mover with a great personality.",
+    "excerpt": "2019 Pony Horse Palomino Paint Gelding 13.3 Hands",
+    "description": "David is a 2019 palomino paint pony gelding standing at 13.3 hands—a little something different, full of fun, and for everyone to enjoy. He's just the right size for everyone in the family and is trained to ride and drive, making him just right for everyone to enjoy. David is very easy to get along with and has been ridden by a 10-year-old for the past year. He has been on lots of outdoor adventures and recently was used on a trail ride with over 100 horses, ridden by a 10-year-old boy the entire ride. And just for fun, he swims in a lake and loves it—so if you need to cool off on a hot day, he will take you for a swim. David has been ridden and driven to town where he's been exposed to all sorts of commotion, traffic, and bicycles. He also knows some really fun tricks—like laying down, sitting on a bean bag, marker training, and saying yes or no. With all the outside adventures, we've also spent time in the arena teaching him to ride English and Western, working on speed transitions. He is a super cute mover with a great personality.",
     "tags": [
       "Pony",
       "Palomino Paint",
@@ -2612,17 +2685,17 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,000.00",
+      "price": "$7900.00",
       "breed": "Pony",
       "gender": "Gelding",
       "color": "Palomino Paint",
       "height": "13.3 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Driving, English, Western, Trick Riding"
     },
     "seoMeta": {
       "title": "David - Palomino Paint Pony Gelding for Sale",
-      "desc": "David is a 2015 palomino paint pony gelding. 13.3 hands, ride and drive trained, trick trained including lay down and sit. Family fun and swims.",
+      "desc": "David is a 2019 palomino paint pony gelding. 13.3 hands, ride and drive trained, trick trained including lay down and sit. Family fun and swims.",
       "alt": "David palomino paint pony gelding"
     }
   },
@@ -2630,7 +2703,8 @@
     "sku": "HRSEx075",
     "slug": "davis-azteca-horse-blue-roan-gelding",
     "title": "Davis",
-    "price": 6500,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/davis-01.jpeg", "/images/davis-02.jpeg"],
     "category": "azteca-horses",
     "excerpt": "2016 Azteca Horse Blue Roan Gelding 14.3 Hands",
@@ -2648,7 +2722,7 @@
       "Western"
     ],
     "properties": {
-      "price": "$6,500.00",
+      "price": "$8000.00",
       "breed": "Azteca",
       "gender": "Gelding",
       "color": "Blue Roan",
@@ -2667,6 +2741,7 @@
     "slug": "deputy-quarter-horse-buckskin-gelding",
     "title": "Deputy",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/deputy-01.jpg", "/images/deputy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 15 Hands",
@@ -2684,7 +2759,7 @@
       "Confident"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -2702,7 +2777,8 @@
     "sku": "HRSEx077",
     "slug": "diamond-gypsy-vanner-horse-black-and-white-mare",
     "title": "Diamond",
-    "price": 9500,
+    "price": 8000,
+    "year": 2018,
     "images": ["/images/diamond-01.jpeg", "/images/diamond-02.jpeg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2018 Gypsy Vanner Horse Black and White Mare 14 Hands",
@@ -2720,7 +2796,7 @@
       "In-Your-Pocket"
     ],
     "properties": {
-      "price": "$9,500.00",
+      "price": "$8000.00",
       "breed": "Gypsy Vanner",
       "gender": "Mare",
       "color": "Black and White",
@@ -2739,6 +2815,7 @@
     "slug": "diego-draft-cross-horse-grey-gelding",
     "title": "Diego",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/diego-01.jpg", "/images/diego-02.jpg"],
     "category": "draft-cross-horses",
     "excerpt": "2016 Draft cross Horse Grey Gelding 16.1 Hands",
@@ -2756,7 +2833,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Draft Cross",
       "gender": "Gelding",
       "color": "Grey",
@@ -2775,6 +2852,7 @@
     "slug": "disco-quarter-horse-sorrel-gelding",
     "title": "Disco",
     "price": 8400,
+    "year": 2016,
     "images": ["/images/disco-01.jpeg", "/images/disco-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Sorrel Gelding 15 Hands",
@@ -2792,7 +2870,7 @@
       "Talented"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8400.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Sorrel",
@@ -2810,7 +2888,8 @@
     "sku": "HRSEx080",
     "slug": "diva-mule-horse-bay-mare",
     "title": "Diva",
-    "price": 6900,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/diva-01.jpg", "/images/diva-02.jpg"],
     "category": "mule-horses",
     "excerpt": "2016 Mule Horse Bay Mare 15 Hands",
@@ -2828,7 +2907,7 @@
       "Sure-footed"
     ],
     "properties": {
-      "price": "$6,900.00",
+      "price": "$8000.00",
       "breed": "Mule",
       "gender": "Mare",
       "color": "Bay",
@@ -2846,7 +2925,8 @@
     "sku": "HRSEx081",
     "slug": "dorian-dutch-warmblood-horse-black-mare",
     "title": "Dorian",
-    "price": 11300,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/dorian-01.jpg", "/images/dorian-02.jpg"],
     "category": "dutch-warmblood-horses",
     "excerpt": "2017 Dutch Warmblood Horse Black Mare 16 Hands",
@@ -2864,7 +2944,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$11,300.00",
+      "price": "$9000.00",
       "breed": "Dutch Warmblood",
       "gender": "Mare",
       "color": "Black",
@@ -2883,6 +2963,7 @@
     "slug": "dots-and-dashes-appaloosa-horse-red-roan-gelding",
     "title": "Dots and Dashes",
     "price": 8000,
+    "year": 2017,
     "images": [
       "/images/dots-and-dashes-01.jpg",
       "/images/dots-and-dashes-02.jpg"
@@ -2903,7 +2984,7 @@
       "Smart"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Appaloosa",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -2921,11 +3002,12 @@
     "sku": "HRSEx083",
     "slug": "dream-paint-horse-palomino-gelding",
     "title": "Dream",
-    "price": 8400,
+    "price": 8000,
+    "year": 2019,
     "images": ["/images/dream-01.jpg", "/images/dream-02.jpg"],
     "category": "paint-horses",
-    "excerpt": "2015 Paint Horse Palomino Gelding 15.2 Hands",
-    "description": "Dream is a gorgeous and golden 2015 palomino Paint Horse gelding standing at 15.2 hands—as quiet, gentle, and easy-going a gelding as you'll find. Originally trained in reining, Dream has a nice, smooth lope and pitter-patter jog on a draped rein, with nice spins and a good sliding stop. Dream is nearly bombproof—always safe to saddle up and go, even with long periods of time off. He has more whoa than go and will go as fast or slow as you want. Dream would be a great confidence builder for a timid rider or a beginner. He's confident out on the trails and in the pasture, fine alone or in groups, good with gunfire, loud traffic, dogs, pot-bellied pigs, and tarps. Dream is solid on the head side in team roping—perfect in the box, you can run as many steers as you want. He leaves flat, runs and rates great, and faces easily. He would work for any level of roper to go have fun on with absolutely no silly stuff. Dream is an all-around nice gelding to have around. He is one that you will enjoy every time you saddle him up—the same every trip with no surprises. Standing 15.2 hands, he is conformationally very balanced and correct.",
+    "excerpt": "2019 Paint Horse Palomino Gelding 15.2 Hands",
+    "description": "Dream is a gorgeous and golden 2019 palomino Paint Horse gelding standing at 15.2 hands—as quiet, gentle, and easy-going a gelding as you'll find. Originally trained in reining, Dream has a nice, smooth lope and pitter-patter jog on a draped rein, with nice spins and a good sliding stop. Dream is nearly bombproof—always safe to saddle up and go, even with long periods of time off. He has more whoa than go and will go as fast or slow as you want. Dream would be a great confidence builder for a timid rider or a beginner. He's confident out on the trails and in the pasture, fine alone or in groups, good with gunfire, loud traffic, dogs, pot-bellied pigs, and tarps. Dream is solid on the head side in team roping—perfect in the box, you can run as many steers as you want. He leaves flat, runs and rates great, and faces easily. He would work for any level of roper to go have fun on with absolutely no silly stuff. Dream is an all-around nice gelding to have around. He is one that you will enjoy every time you saddle him up—the same every trip with no surprises. Standing 15.2 hands, he is conformationally very balanced and correct.",
     "tags": [
       "Paint Horse",
       "Palomino",
@@ -2939,17 +3021,17 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Palomino",
       "height": "15.2 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Reining, Team Roping (Heading), Trail Riding"
     },
     "seoMeta": {
       "title": "Dream - Palomino Paint Horse Gelding for Sale",
-      "desc": "Dream is a 2015 palomino Paint Horse gelding. 15.2 hands, reining trained, solid head horse, and bombproof. Great confidence builder for any rider.",
+      "desc": "Dream is a 2019 palomino Paint Horse gelding. 15.2 hands, reining trained, solid head horse, and bombproof. Great confidence builder for any rider.",
       "alt": "Dream palomino Paint Horse gelding"
     }
   },
@@ -2958,6 +3040,7 @@
     "slug": "dusty-quarter-horse-sorrel-gelding",
     "title": "Dusty",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/dusty-01.jpg", "/images/dusty-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Sorrel Gelding 14.2 Hands",
@@ -2993,11 +3076,12 @@
     "sku": "HRSEx085",
     "slug": "eclipse-gypsy-vanner-black-gelding",
     "title": "Eclipse",
-    "price": 12000,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/eclipse-01.jpg", "/images/eclipse-02.jpg"],
     "category": "gypsy-vanner-horses",
-    "excerpt": "2014 Gypsy Vanner Black Gelding 14.1 Hands",
-    "description": "Eclipse is a 2014 black Gypsy Vanner gelding standing at 14.1 hands—an all-around guy: Athletic, Beginner, Finished, Heading, Heel, Horsemanship, Husband Safe, Lesson, Ranch, Ranch Versatility, Ranch Work, Show, Show Experience, Showmanship, Trail, Trail Riding, Working Cow, Working Cattle, Youth. Contact us for details, pictures, and videos about him.",
+    "excerpt": "2017 Gypsy Vanner Black Gelding 14.1 Hands",
+    "description": "Eclipse is a 2017 black Gypsy Vanner gelding standing at 14.1 hands—an all-around guy: Athletic, Beginner, Finished, Heading, Heel, Horsemanship, Husband Safe, Lesson, Ranch, Ranch Versatility, Ranch Work, Show, Show Experience, Showmanship, Trail, Trail Riding, Working Cow, Working Cattle, Youth. Contact us for details, pictures, and videos about him.",
     "tags": [
       "Gypsy Vanner",
       "Black",
@@ -3011,17 +3095,17 @@
       "Ranch Horse"
     ],
     "properties": {
-      "price": "$12,000.00",
+      "price": "$9000.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Black",
       "height": "14.1 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Roping, Ranch Work, Show, Versatility"
     },
     "seoMeta": {
       "title": "Eclipse - Black Gypsy Vanner Gelding for Sale",
-      "desc": "Eclipse is a 2014 black Gypsy Vanner gelding. 14.1 hands, finished in heading and heeling, show experience, and youth safe. Versatile and athletic.",
+      "desc": "Eclipse is a 2017 black Gypsy Vanner gelding. 14.1 hands, finished in heading and heeling, show experience, and youth safe. Versatile and athletic.",
       "alt": "Eclipse black Gypsy Vanner gelding"
     }
   },
@@ -3030,6 +3114,7 @@
     "slug": "elsie-gypsy-vanner-horse-cremello-mare",
     "title": "Elsie",
     "price": 9400,
+    "year": 2016,
     "images": ["/images/elsie-01.jpg", "/images/elsie-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2016 Gypsy Vanner Horse Cremello Mare 15 Hands",
@@ -3047,7 +3132,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$9,400.00",
+      "price": "$9400.00",
       "breed": "Gypsy Vanner",
       "gender": "Mare",
       "color": "Cremello",
@@ -3065,7 +3150,8 @@
     "sku": "HRSEx087",
     "slug": "eresen-missouri-fox-trotter-horse-blue-roan-gelding",
     "title": "Eresen",
-    "price": 7700,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/eresen-01.jpg", "/images/eresen-02.jpg"],
     "category": "missouri-fox-trotter-horses",
     "excerpt": "2016 Missouri Fox Trotter Horse Blue Roan Gelding 15.1 Hands",
@@ -3083,7 +3169,7 @@
       "Bombproof"
     ],
     "properties": {
-      "price": "$7,700.00",
+      "price": "$8000.00",
       "breed": "Missouri Fox Trotter",
       "gender": "Gelding",
       "color": "Blue Roan",
@@ -3102,6 +3188,7 @@
     "slug": "excellence-quarter-horse-dapple-grey-gelding",
     "title": "Excellence",
     "price": 8200,
+    "year": 2017,
     "images": ["/images/excellence-01.jpeg", "/images/excellence-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Dapple Grey Gelding 15.1 Hands",
@@ -3119,7 +3206,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,200.00",
+      "price": "$8200.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Dapple Grey",
@@ -3138,10 +3225,11 @@
     "slug": "fiona-draft-cross-horse-bay-tobiano-mare",
     "title": "Fiona",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/fiona-01.jpg", "/images/fiona-02.jpg"],
     "category": "draft-cross-horses",
-    "excerpt": "2015 Draft Cross Horse Bay Tobiano Mare 16 Hands",
-    "description": "Fiona is a 2015 bay tobiano draft cross mare standing at 16 hands—big, beautiful, and classy. She is stout built, big enough to carry any size rider, and has been involved in every aspect of ranch life from herding to sorting and doctoring on a daily basis. She has a great handle—slide stops, backs, opens/shuts gates, and tracks a cow. She is not afraid of a mad momma cow or an aggressive bull—she stands her ground. She rides anywhere in the group—front, back, middle, or heads off on her own without a fuss. Fiona is quiet to handle, does all the basics—washing, picking up feet, loading, and easy to groom. She has been ridden in rough country and climbs steep hills, goes patiently down rocky mountainsides, crosses water, bridges, logs, and anything else in your way. She is traffic safe as well. Fiona gets along with other horses when turned out and hasn't caused any fuss. She stands quiet in her stall. From ranch to trail, she is safe and broke—someone is going to get a great riding partner for years to come.",
+    "excerpt": "2019 Draft Cross Horse Bay Tobiano Mare 16 Hands",
+    "description": "Fiona is a 2019 bay tobiano draft cross mare standing at 16 hands—big, beautiful, and classy. She is stout built, big enough to carry any size rider, and has been involved in every aspect of ranch life from herding to sorting and doctoring on a daily basis. She has a great handle—slide stops, backs, opens/shuts gates, and tracks a cow. She is not afraid of a mad momma cow or an aggressive bull—she stands her ground. She rides anywhere in the group—front, back, middle, or heads off on her own without a fuss. Fiona is quiet to handle, does all the basics—washing, picking up feet, loading, and easy to groom. She has been ridden in rough country and climbs steep hills, goes patiently down rocky mountainsides, crosses water, bridges, logs, and anything else in your way. She is traffic safe as well. Fiona gets along with other horses when turned out and hasn't caused any fuss. She stands quiet in her stall. From ranch to trail, she is safe and broke—someone is going to get a great riding partner for years to come.",
     "tags": [
       "Draft Cross",
       "Bay Tobiano",
@@ -3155,17 +3243,17 @@
       "Experienced"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Draft Cross",
       "gender": "Mare",
       "color": "Bay Tobiano",
       "height": "16 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Ranch Work, Trail Riding"
     },
     "seoMeta": {
       "title": "Fiona - Bay Tobiano Draft Cross Mare for Sale",
-      "desc": "Fiona is a 2015 bay tobiano draft cross mare. 16 hands, stout, ranch seasoned, and great with cattle. Gentle, safe, and sure-footed on trails.",
+      "desc": "Fiona is a 2019 bay tobiano draft cross mare. 16 hands, stout, ranch seasoned, and great with cattle. Gentle, safe, and sure-footed on trails.",
       "alt": "Fiona bay tobiano draft cross mare"
     }
   },
@@ -3173,7 +3261,8 @@
     "sku": "HRSEx090",
     "slug": "florence-paint-horse-palomino-overo-mare",
     "title": "Florence",
-    "price": 7800,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/florence-01.jpeg", "/images/florence-02.jpeg"],
     "category": "paint-horses",
     "excerpt": "2017 Paint Horse Palomino Overo Mare 15 Hands",
@@ -3191,7 +3280,7 @@
       "Easy Rider"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Mare",
       "color": "Palomino Overo",
@@ -3209,7 +3298,8 @@
     "sku": "HRSEx091",
     "slug": "fluffy-gypsy-vanner-tobiano-gelding",
     "title": "Fluffy",
-    "price": 9700,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/fluffy-01.jpg", "/images/fluffy-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2017 Gypsy Vanner Tobiano Gelding 14 Hands",
@@ -3227,7 +3317,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$9,700.00",
+      "price": "$9000.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Tobiano",
@@ -3246,6 +3336,7 @@
     "slug": "genie-tennessee-walking-horse-bay-mare",
     "title": "Genie",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/genie-01.jpeg", "/images/genie-02.jpeg"],
     "category": "tennessee-walking-horses",
     "excerpt": "2016 Tennessee Walking Horse Bay Mare 15.1 Hands",
@@ -3263,7 +3354,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Tennessee Walking Horse",
       "gender": "Mare",
       "color": "Bay",
@@ -3282,6 +3373,7 @@
     "slug": "genius-quarter-horse-red-roan-gelding",
     "title": "Genius",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/genius-01.jpg", "/images/genius-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Red Roan Gelding 15.1 Hands",
@@ -3318,6 +3410,7 @@
     "slug": "george-quarter-horse-red-roan-gelding",
     "title": "George",
     "price": 8200,
+    "year": 2017,
     "images": ["/images/george-01.jpg", "/images/george-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -3335,7 +3428,7 @@
       "Stylish"
     ],
     "properties": {
-      "price": "$8,200.00",
+      "price": "$8200.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -3354,6 +3447,7 @@
     "slug": "ghost-quarter-horse-red-roan-gelding",
     "title": "Ghost",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/ghost-01.jpeg", "/images/ghost-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -3371,7 +3465,7 @@
       "Beginner Friendly"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -3390,6 +3484,7 @@
     "slug": "ginger-paint-horse-tobiano-gelding",
     "title": "Ginger",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/ginger-01.jpeg", "/images/ginger-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2017 Paint Horse Tobiano Gelding 15 Hands",
@@ -3407,7 +3502,7 @@
       "Unique"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Tobiano",
@@ -3426,6 +3521,7 @@
     "slug": "gizmo-quarter-horse-palomino-gelding",
     "title": "Gizmo",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/gizmo-01.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -3462,6 +3558,7 @@
     "slug": "gold-gypsy-vanner-horse-champagne-tobiano-gelding",
     "title": "Gold",
     "price": 9400,
+    "year": 2016,
     "images": ["/images/gold-01.jpg", "/images/gold-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2016 Gypsy Vanner Horse Champagne Tobiano Gelding 15 Hands",
@@ -3479,7 +3576,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$9,400.00",
+      "price": "$9400.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Champagne Tobiano",
@@ -3497,7 +3594,8 @@
     "sku": "HRSEx099",
     "slug": "goldie-paint-horse-tobiano-gelding",
     "title": "Goldie",
-    "price": 7000,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/goldie-01.jpg", "/images/goldie-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Tobiano Gelding 15 Hands",
@@ -3515,7 +3613,7 @@
       "Experienced"
     ],
     "properties": {
-      "price": "$7,000.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Tobiano",
@@ -3534,6 +3632,7 @@
     "slug": "goliath-quarter-horse-palomino-gelding",
     "title": "Goliath",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/goliath-01.jpg", "/images/goliath-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Palomino Gelding 15.1 Hands",
@@ -3570,6 +3669,7 @@
     "slug": "gucci-quarter-horse-red-roan-gelding",
     "title": "Gucci",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/gucci-01.jpg", "/images/gucci-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Roan Gelding 15.1 Hand",
@@ -3587,7 +3687,7 @@
       "Proven"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -3605,7 +3705,8 @@
     "sku": "HRSEx102",
     "slug": "gunner-paint-horse-sorrel-overo-gelding",
     "title": "Gunner",
-    "price": 7900,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/gunner-01.jpg", "/images/gunner-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Sorrel Overo Gelding 14.3 Hands",
@@ -3623,7 +3724,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,900.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Sorrel Overo",
@@ -3641,7 +3742,8 @@
     "sku": "HRSEx103",
     "slug": "hanna-tennessee-walking-horse-grey-mare",
     "title": "Hanna",
-    "price": 7600,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/hanna-01.jpg", "/images/hanna-02.jpg"],
     "category": "tennessee-walking-horses",
     "excerpt": "2016 Tennessee Walking Horse Grey Mare 14.2 Hands",
@@ -3659,7 +3761,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,600.00",
+      "price": "$8000.00",
       "breed": "Tennessee Walking Horse",
       "gender": "Mare",
       "color": "Grey",
@@ -3678,6 +3780,7 @@
     "slug": "harvey-quarter-horse-black-gelding",
     "title": "Harvey",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/harvey-01.jpg", "/images/harvey-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Black Gelding 15.1 Hands",
@@ -3714,6 +3817,7 @@
     "slug": "henry-gypsy-vanner-piebald-gelding",
     "title": "Henry",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/henry-01.jpg", "/images/henry-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2017 Gypsy Vanner Piebald Gelding 14.1 Hands",
@@ -3731,7 +3835,7 @@
       "Unique"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Piebald",
@@ -3749,7 +3853,8 @@
     "sku": "HRSEx106",
     "slug": "hercules-quarter-horse-bay-gelding",
     "title": "Hercules",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/hercules-01.jpg", "/images/hercules-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Bay Gelding 15 Hands",
@@ -3767,7 +3872,7 @@
       "Easy to Own"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Bay",
@@ -3786,6 +3891,7 @@
     "slug": "amarillo-quarter-horse-palomino-gelding",
     "title": "Amarillo",
     "price": 8900,
+    "year": 2016,
     "images": ["/images/amarillo-01.jpg", "/images/amarillo-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding 15 Hands",
@@ -3803,7 +3909,7 @@
       "Cattle Work"
     ],
     "properties": {
-      "price": "$8,900.00",
+      "price": "$8900.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -3821,11 +3927,12 @@
     "sku": "HRSEx109",
     "slug": "hershey-draft-cross-horse-grulla-with-stripes-gelding",
     "title": "Hershey",
-    "price": 7700,
+    "price": 7900,
+    "year": 2019,
     "images": ["/images/hershey-01.jpg", "/images/hershey-02.jpg"],
     "category": "draft-cross-horses",
-    "excerpt": "2015 Draft cross Horse Grulla With Stripes Gelding 16.3 Hands",
-    "description": "Hershey is a 2015 grulla draft cross gelding standing at 16.3 hands—one we have been biting at the bit to share with the world. He has the kindest soul. If you want one that's big, handsome, and possibly one of the friendliest horses we have ever had, super well broke, you will fall in love with Hershey. He loves attention from kids and people of all ages. This striking guy is as quiet as they come—easy to catch, easy to lead, and a real pleasure to work around. He is 100% safe enough for any level and any age to ride, yet will move off your leg like a Quarter Horse if you want. He has three awesome gaits and walks, trots, and canters with ease. He will go either English or Western and look good doing it. Wonderful on the trails, busy roads, and open fields, he will take you anywhere happily and then go into the arena and trot and lope circles light and correct. He is super comfy, even bareback. He walks over tarps, bridges, through water without any issues. No problem going out alone or in a group. He can carry your little ones and always bring them home safely. Hershey was even used by a 9-year-old boy at rodeos as a pickup horse and has been around cows as well. He is trustworthy for beginners and athletic enough for anyone to enjoy. Ride him bridleless and bareback anywhere you want. Hershey is the type that doesn't have to be ridden every day—he is the same horse every time you take him out. He would excel at any discipline and would be amazing in a therapeutic program because of his nature. He is the epitome of a \"KIND EYE.\" Sound and healthy in every way, a very easy keeper.",
+    "excerpt": "2019 Draft cross Horse Grulla With Stripes Gelding 16.3 Hands",
+    "description": "Hershey is a 2019 grulla draft cross gelding standing at 16.3 hands—one we have been biting at the bit to share with the world. He has the kindest soul. If you want one that's big, handsome, and possibly one of the friendliest horses we have ever had, super well broke, you will fall in love with Hershey. He loves attention from kids and people of all ages. This striking guy is as quiet as they come—easy to catch, easy to lead, and a real pleasure to work around. He is 100% safe enough for any level and any age to ride, yet will move off your leg like a Quarter Horse if you want. He has three awesome gaits and walks, trots, and canters with ease. He will go either English or Western and look good doing it. Wonderful on the trails, busy roads, and open fields, he will take you anywhere happily and then go into the arena and trot and lope circles light and correct. He is super comfy, even bareback. He walks over tarps, bridges, through water without any issues. No problem going out alone or in a group. He can carry your little ones and always bring them home safely. Hershey was even used by a 9-year-old boy at rodeos as a pickup horse and has been around cows as well. He is trustworthy for beginners and athletic enough for anyone to enjoy. Ride him bridleless and bareback anywhere you want. Hershey is the type that doesn't have to be ridden every day—he is the same horse every time you take him out. He would excel at any discipline and would be amazing in a therapeutic program because of his nature. He is the epitome of a \"KIND EYE.\" Sound and healthy in every way, a very easy keeper.",
     "tags": [
       "Draft Cross",
       "Grulla",
@@ -3839,17 +3946,17 @@
       "Kind Eye"
     ],
     "properties": {
-      "price": "$7,700.00",
+      "price": "$7900.00",
       "breed": "Draft Cross",
       "gender": "Gelding",
       "color": "Grulla with Stripes",
       "height": "16.3 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "English, Western, Trail Riding, Bridleless"
     },
     "seoMeta": {
       "title": "Hershey - Grulla Draft Cross Gelding for Sale",
-      "desc": "Hershey is a 2015 grulla draft cross gelding. 16.3 hands, kindest soul, safe for all levels, and rides bridleless. Great for therapy or family.",
+      "desc": "Hershey is a 2019 grulla draft cross gelding. 16.3 hands, kindest soul, safe for all levels, and rides bridleless. Great for therapy or family.",
       "alt": "Hershey grulla draft cross gelding"
     }
   },
@@ -3857,7 +3964,8 @@
     "sku": "HRSEx110",
     "slug": "hidalgo-dutch-warmblood-grey-gelding",
     "title": "Hidalgo",
-    "price": 10800,
+    "price": 10000,
+    "year": 2016,
     "images": ["/images/hidalgo-01.jpg", "/images/hidalgo-02.jpg"],
     "category": "dutch-warmblood-horses",
     "excerpt": "2016 Dutch Warmblood Grey Gelding 16.1 Hands",
@@ -3875,7 +3983,7 @@
       "Competition"
     ],
     "properties": {
-      "price": "$10,800.00",
+      "price": "$10000.00",
       "breed": "Dutch Warmblood",
       "gender": "Gelding",
       "color": "Grey",
@@ -3893,11 +4001,12 @@
     "sku": "HRSEx111",
     "slug": "hildi-warmblood-horse-bay-gelding",
     "title": "Hildi",
-    "price": 10900,
+    "price": 8000,
+    "year": 2019,
     "images": ["/images/hildi-01.jpg", "/images/hildi-02.jpg"],
     "category": "warmblood-horses",
-    "excerpt": "2015 Warmblood Horse Bay Gelding 16.3 Hands",
-    "description": "Hildi is a 2015 bay Warmblood gelding standing at 16.3 hands—this beautiful bay warmblood is clean all around. He is very talented, goes off voice command and leg pressure, with very beautiful floating strides. He is a very enjoyable ride, jumping a nice course of fences with good lead changes. We have had him out and around our ranch and on trails—goes out in the cross-country field as well. Would work as a dressage horse or fancy fox hunter.",
+    "excerpt": "2019 Warmblood Horse Bay Gelding 16.3 Hands",
+    "description": "Hildi is a 2019 bay Warmblood gelding standing at 16.3 hands—this beautiful bay warmblood is clean all around. He is very talented, goes off voice command and leg pressure, with very beautiful floating strides. He is a very enjoyable ride, jumping a nice course of fences with good lead changes. We have had him out and around our ranch and on trails—goes out in the cross-country field as well. Would work as a dressage horse or fancy fox hunter.",
     "tags": [
       "Warmblood",
       "Bay",
@@ -3911,17 +4020,17 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$10,900.00",
+      "price": "$8000.00",
       "breed": "Warmblood",
       "gender": "Gelding",
       "color": "Bay",
       "height": "16.3 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Dressage, Jumping, Fox Hunting"
     },
     "seoMeta": {
       "title": "Hildi - Bay Warmblood Gelding for Sale",
-      "desc": "Hildi is a 2015 bay Warmblood gelding. 16.3 hands, talented, voice command, floating strides, and jumps well. Great for dressage or fox hunting.",
+      "desc": "Hildi is a 2019 bay Warmblood gelding. 16.3 hands, talented, voice command, floating strides, and jumps well. Great for dressage or fox hunting.",
       "alt": "Hildi bay Warmblood gelding"
     }
   },
@@ -3930,10 +4039,11 @@
     "slug": "holiday-paint-horse-gray-gelding",
     "title": "Holiday",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/holiday-01.jpg", "/images/holiday-02.jpg"],
     "category": "paint-horses",
-    "excerpt": "2015 Paint Horse Gray Gelding 14.1 Hands",
-    "description": "Holiday is a 2015 gray Paint Horse gelding standing at 14.1 hands—big things come in small packages. Measuring right under 14.1 hands and just as wide as he is tall, you will have to see him to believe him. Holiday is the COOLEST. No matter what you want to do on horseback, grab him and get after it. Don't tell him he's small—he has a heart the size of Texas. Holiday is safe, gentle, and kid tested and approved. You can run a reining pattern blindfolded aboard him—simple and easy in all his maneuvers.",
+    "excerpt": "2019 Paint Horse Gray Gelding 14.1 Hands",
+    "description": "Holiday is a 2019 gray Paint Horse gelding standing at 14.1 hands—big things come in small packages. Measuring right under 14.1 hands and just as wide as he is tall, you will have to see him to believe him. Holiday is the COOLEST. No matter what you want to do on horseback, grab him and get after it. Don't tell him he's small—he has a heart the size of Texas. Holiday is safe, gentle, and kid tested and approved. You can run a reining pattern blindfolded aboard him—simple and easy in all his maneuvers.",
     "tags": [
       "Paint Horse",
       "Gray",
@@ -3947,17 +4057,17 @@
       "Confidence Builder"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Gray",
       "height": "14.1 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Reining"
     },
     "seoMeta": {
       "title": "Holiday - Gray Paint Horse Gelding for Sale",
-      "desc": "Holiday is a 2015 gray Paint Horse gelding. 14.1 hands, reining trained, kid tested, and bombproof. Big heart in a small package.",
+      "desc": "Holiday is a 2019 gray Paint Horse gelding. 14.1 hands, reining trained, kid tested, and bombproof. Big heart in a small package.",
       "alt": "Holiday gray Paint Horse gelding"
     }
   },
@@ -3966,6 +4076,7 @@
     "slug": "hunter-quarter-horse-palomino-gelding",
     "title": "Hunter",
     "price": 8400,
+    "year": 2017,
     "images": ["/images/hunter-01.jpg", "/images/hunter-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -3983,7 +4094,7 @@
       "Dappled"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8400.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -4001,7 +4112,8 @@
     "sku": "HRSEx114",
     "slug": "ivar-belgian-warmblood-horse-bay-gelding",
     "title": "Ivar",
-    "price": 14000,
+    "price": 10000,
+    "year": 2016,
     "images": ["/images/ivar-01.jpg"],
     "category": "belgian-warmblood-horses",
     "excerpt": "2016 Belgian Warmblood Horse Bay Gelding 16 Hands",
@@ -4019,7 +4131,7 @@
       "Prospect"
     ],
     "properties": {
-      "price": "$14,000.00",
+      "price": "$10000.00",
       "breed": "Belgian Warmblood",
       "gender": "Gelding",
       "color": "Bay",
@@ -4037,7 +4149,8 @@
     "sku": "HRSEx115",
     "slug": "jackpot-friesian-horse-black-gelding",
     "title": "Jackpot",
-    "price": 10500,
+    "price": 10000,
+    "year": 2016,
     "images": ["/images/jackpot-01.jpg", "/images/jackpot-02.jpg"],
     "category": "friesian-horses",
     "excerpt": "2016 Friesian Horse Black Gelding 16.1 Hands",
@@ -4055,7 +4168,7 @@
       "Show Horse"
     ],
     "properties": {
-      "price": "$10,500.00",
+      "price": "$10000.00",
       "breed": "Friesian",
       "gender": "Gelding",
       "color": "Black",
@@ -4074,6 +4187,7 @@
     "slug": "jimmy-quarter-horse-palomino-gelding",
     "title": "Jimmy",
     "price": 8200,
+    "year": 2017,
     "images": ["/images/jimmy-01.jpg", "/images/jimmy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 15 Hands",
@@ -4091,7 +4205,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,200.00",
+      "price": "$8200.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -4109,11 +4223,12 @@
     "sku": "HRSEx117",
     "slug": "jockey-pony-horse-bay-gelding",
     "title": "Jockey",
-    "price": 12800,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/jockey-01.jpg", "/images/jockey-02.jpg"],
     "category": "pony-horses",
-    "excerpt": "2014 Pony Horse Bay Gelding 14.1 Hands",
-    "description": "Jockey is a 2014 bay pony gelding standing at 14.1 hands—the best pony for my daughter who made her showing debut on him. He gave her confidence in the hunter ring from Intermediate to Lg. Pony Hunters, qualifying for Pony Finals and moving up to the 3' Hunters. She then tried the jumper ring where he was successful in the Intermediate Jumpers, placing in ribbons at every show. Jockey allowed her to expand her knowledge by taking her around a beginner novice event, placing on her dressage score amongst 30 competitors, going double clean in showjumping and cross-country. He is the type of pony that can arrive at the show minutes before going into the ring without any prep. He can safely ride around fields alone and has given my daughter all the confidence to move up to the next stage of her riding. Super easy in the barn, safe, sound, and gets along with all. We could not have asked for a better first horse for our daughter. We hope to find Jockey his next best friend to enjoy the show ring, hunter field, or cross-country course.",
+    "excerpt": "2017 Pony Horse Bay Gelding 14.1 Hands",
+    "description": "Jockey is a 2017 bay pony gelding standing at 14.1 hands—the best pony for my daughter who made her showing debut on him. He gave her confidence in the hunter ring from Intermediate to Lg. Pony Hunters, qualifying for Pony Finals and moving up to the 3' Hunters. She then tried the jumper ring where he was successful in the Intermediate Jumpers, placing in ribbons at every show. Jockey allowed her to expand her knowledge by taking her around a beginner novice event, placing on her dressage score amongst 30 competitors, going double clean in showjumping and cross-country. He is the type of pony that can arrive at the show minutes before going into the ring without any prep. He can safely ride around fields alone and has given my daughter all the confidence to move up to the next stage of her riding. Super easy in the barn, safe, sound, and gets along with all. We could not have asked for a better first horse for our daughter. We hope to find Jockey his next best friend to enjoy the show ring, hunter field, or cross-country course.",
     "tags": [
       "Pony",
       "Bay",
@@ -4127,17 +4242,17 @@
       "Competition"
     ],
     "properties": {
-      "price": "$12,800.00",
+      "price": "$9000.00",
       "breed": "Pony",
       "gender": "Gelding",
       "color": "Bay",
       "height": "14.1 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Hunter, Jumper, Eventing"
     },
     "seoMeta": {
       "title": "Jockey - Bay Pony Gelding for Sale",
-      "desc": "Jockey is a 2014 bay pony gelding. 14.1 hands, shown in hunters and jumpers, Pony Finals qualified, and beginner novice eventer. Safe and sound.",
+      "desc": "Jockey is a 2017 bay pony gelding. 14.1 hands, shown in hunters and jumpers, Pony Finals qualified, and beginner novice eventer. Safe and sound.",
       "alt": "Jockey bay pony gelding"
     }
   },
@@ -4145,7 +4260,8 @@
     "sku": "HRSEx118",
     "slug": "jubline-gypsy-vanner-horse-black-tobiano-mare",
     "title": "Jubline",
-    "price": 9500,
+    "price": 8000,
+    "year": 2018,
     "images": ["/images/jubline-01.jpg", "/images/jubline-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2018 Gypsy Vanner Horse Black Tobiano Mare 14.1 Hands",
@@ -4163,7 +4279,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$9,500.00",
+      "price": "$8000.00",
       "breed": "Gypsy Vanner",
       "gender": "Mare",
       "color": "Black Tobiano",
@@ -4182,6 +4298,7 @@
     "slug": "justice-friesian-horse-black-gelding",
     "title": "Justice",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/justice-01.jpg", "/images/justice-02.jpg"],
     "category": "friesian-horses",
     "excerpt": "2016 Friesian Horse Black Gelding 17.2 Hands",
@@ -4199,7 +4316,7 @@
       "Athletic"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Friesian",
       "gender": "Gelding",
       "color": "Black",
@@ -4218,6 +4335,7 @@
     "slug": "justin-quarter-horse-buckskin-gelding",
     "title": "Justin",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/justin-01.jpeg", "/images/justin-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 14.3 Hands",
@@ -4235,7 +4353,7 @@
       "Family Friendly"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -4253,7 +4371,8 @@
     "sku": "HRSEx121",
     "slug": "kingsley-quarter-horse-roan-gelding",
     "title": "Kingsley",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/kingsley-01.jpg", "/images/kingsley-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Roan Gelding 15 Hands",
@@ -4271,7 +4390,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Roan",
@@ -4290,6 +4409,7 @@
     "slug": "kipper-quarter-horse-bay-roan-gelding",
     "title": "Kipper",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/kipper-01.jpg", "/images/kipper-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Bay Roan Gelding 15 Hands",
@@ -4307,7 +4427,7 @@
       "Talented"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Bay Roan",
@@ -4325,7 +4445,8 @@
     "sku": "HRSEx123",
     "slug": "kobby-paint-horse-palomino-overo-mare",
     "title": "Kobby",
-    "price": 7900,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/kobby-01.jpg", "/images/kobby-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Palomino Overo Mare 15.3 Hands",
@@ -4343,7 +4464,7 @@
       "Experienced"
     ],
     "properties": {
-      "price": "$7,900.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Palomino Overo",
@@ -4362,6 +4483,7 @@
     "slug": "legacy-quarter-horse-blue-roan-gelding",
     "title": "Legacy",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/legacy-01.jpeg", "/images/legacy-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Blue Roan Gelding 14.3 Hands",
@@ -4397,7 +4519,8 @@
     "sku": "HRSEx125",
     "slug": "legend-quarter-horse-palomino-gelding",
     "title": "Legend",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/legend-01.jpg", "/images/legend-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding 15.1 Hands",
@@ -4415,7 +4538,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -4434,6 +4557,7 @@
     "slug": "leo-quarter-horse-chestnut-gelding",
     "title": "Leo",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/leo-01.jpg", "/images/leo-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Chestnut Gelding 15 Hands",
@@ -4469,7 +4593,8 @@
     "sku": "HRSEx127",
     "slug": "lilly-draft-percheron-qh-bay-mare",
     "title": "Lilly",
-    "price": 4700,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/lilly-01.jpg", "/images/lilly-02.jpg"],
     "category": "draft-percheron-quarter-horses",
     "excerpt": "2017 Draft Percheron QH Bay Mare 15.2 Hands",
@@ -4487,7 +4612,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$4,700.00",
+      "price": "$8000.00",
       "breed": "Draft Percheron Quarter Horse",
       "gender": "Mare",
       "color": "Bay",
@@ -4506,6 +4631,7 @@
     "slug": "lollipop-quarter-horse-red-roan-mare",
     "title": "Lollipop",
     "price": 8400,
+    "year": 2016,
     "images": ["/images/lollipop-01.jpg", "/images/lollipop-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Roan Mare 15.1 Hands",
@@ -4523,7 +4649,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8400.00",
       "breed": "Quarter Horse",
       "gender": "Mare",
       "color": "Red Roan",
@@ -4542,6 +4668,7 @@
     "slug": "lucky-quarter-horse-buckskin-gelding",
     "title": "Lucky",
     "price": 8000,
+    "year": 2018,
     "images": ["/images/lucky-01.jpg", "/images/lucky-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2018 Quarter Horse Buckskin Gelding 15.1 Hands",
@@ -4578,6 +4705,7 @@
     "slug": "lucy-quarter-horse-buckskin-mare",
     "title": "Lucy",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/lucy-01.jpg", "/images/lucy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Buckskin Mare 15 Hands",
@@ -4614,6 +4742,7 @@
     "slug": "luna-warmblood-horse-bay-white-gelding",
     "title": "Luna",
     "price": 9500,
+    "year": 2016,
     "images": ["/images/luna-01.jpg", "/images/luna-02.jpg"],
     "category": "warmblood-horses",
     "excerpt": "2016 Warmblood Horse Bay &amp; White Gelding 16.2 Hands",
@@ -4631,7 +4760,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$9,500.00",
+      "price": "$9500.00",
       "breed": "Warmblood",
       "gender": "Gelding",
       "color": "Bay & White",
@@ -4649,7 +4778,8 @@
     "sku": "HRSEx132",
     "slug": "lyrical-appaloosa-chestnut-gelding",
     "title": "Lyrical",
-    "price": 7400,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/lyrical-01.jpeg", "/images/lyrical-02.jpeg"],
     "category": "appaloosa-horses",
     "excerpt": "2017 Appaloosa Chestnut Gelding 16 Hands",
@@ -4667,7 +4797,7 @@
       "Show Horse"
     ],
     "properties": {
-      "price": "$7,400.00",
+      "price": "$8000.00",
       "breed": "Appaloosa",
       "gender": "Gelding",
       "color": "Chestnut",
@@ -4686,6 +4816,7 @@
     "slug": "magic-quarter-horse-black-gelding",
     "title": "Magic",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/magic-01.jpg", "/images/magic-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Black Gelding 15 Hand",
@@ -4703,7 +4834,7 @@
       "Athletic"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Black",
@@ -4722,6 +4853,7 @@
     "slug": "mariah-quarter-horse-buckskin-mare",
     "title": "Mariah",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/mariah-01.jpg", "/images/mariah-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Mare 15.1 Hands",
@@ -4739,7 +4871,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Mare",
       "color": "Buckskin",
@@ -4758,6 +4890,7 @@
     "slug": "mario-gypsy-vanner-black-gelding",
     "title": "Mario",
     "price": 9600,
+    "year": 2016,
     "images": ["/images/mario-01.jpg", "/images/mario-02.jpg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2016 Gypsy Vanner Black Gelding 14.3 Hands",
@@ -4775,7 +4908,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$9,600.00",
+      "price": "$9600.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Black",
@@ -4794,6 +4927,7 @@
     "slug": "master-quarter-horse-blue-roan-gelding",
     "title": "Master",
     "price": 9200,
+    "year": 2016,
     "images": ["/images/master-01.jpg", "/images/master-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Blue roan Gelding 15.2 Hands",
@@ -4811,7 +4945,7 @@
       "Experienced"
     ],
     "properties": {
-      "price": "$9,200.00",
+      "price": "$9200.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Blue Roan",
@@ -4829,7 +4963,8 @@
     "sku": "HRSEx137",
     "slug": "maxine-friesian-horse-black-mare",
     "title": "Maxine",
-    "price": 9500,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/maxine-01.jpg", "/images/maxine-02.jpg"],
     "category": "friesian-horses",
     "excerpt": "2017 Friesian Horse Black Mare 16 Hands",
@@ -4847,7 +4982,7 @@
       "Trainable"
     ],
     "properties": {
-      "price": "$9,500.00",
+      "price": "$9000.00",
       "breed": "Friesian",
       "gender": "Mare",
       "color": "Black",
@@ -4865,7 +5000,8 @@
     "sku": "HRSEx138",
     "slug": "mercedes-quarter-horse-sorrel-gelding",
     "title": "Mercedes",
-    "price": 7500,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/mercedes-01.jpg", "/images/mercedes-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Sorrel Gelding 14.2 Hands",
@@ -4883,7 +5019,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,500.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Sorrel",
@@ -4902,6 +5038,7 @@
     "slug": "mick-quarter-horse-buckskin-gelding",
     "title": "Mick",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/mick-01.jpg", "/images/mick-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Buckskin Gelding 15 Hands",
@@ -4937,11 +5074,12 @@
     "sku": "HRSEx140",
     "slug": "mickey-paint-horse-bay-overo-gelding",
     "title": "Mickey",
-    "price": 6500,
+    "price": 7900,
+    "year": 2019,
     "images": ["/images/mickey-01.jpg", "/images/mickey-02.jpg"],
     "category": "paint-horses",
-    "excerpt": "2015 Paint Horse Bay Overo Gelding 15.3 Hands",
-    "description": "Mickey is a 2015 bay overo Paint Horse gelding standing at 15.3 hands—an American Paint Horse Gelding, the whole package. He is the kind of horse everyone is looking for and the kind of horse everyone wants. In the prime of his life, very good looking, rides the best, and is very quiet and gentle and safe in every way. What more could we want? He is as close to bombproof as you will ever find in a horse. Mickey is a great trail horse—trail ridden all over, anywhere you ask him to go on the trail he will go and never refuses or complains. A true trail horse deluxe. He also rides very good in the arena with a nice walk, trot, canter, and hits his correct leads each way. He would make a nice lesson horse, husband horse, beginner horse, kid horse, ranch horse, or just a safe horse for anyone in the family wanting to enjoy a nice relaxing trail ride. Ride him once a year, once a month, or once a week—he will stay good broke and ride the exact same each time. We have done some ranch work with him, and he is very good at working with cattle. My favorite thing about Mickey is how quiet and gentle he is to ride. He will teach a total beginning rider how to ride or take a timid rider and help them build their confidence. One of the quietest horses I have ever had the privilege to own, he will trail ride alone or with other horses and is trail and traffic safe. If you've been looking for that all-around good broke, safe gelding, then here he is.",
+    "excerpt": "2019 Paint Horse Bay Overo Gelding 15.3 Hands",
+    "description": "Mickey is a 2019 bay overo Paint Horse gelding standing at 15.3 hands—an American Paint Horse Gelding, the whole package. He is the kind of horse everyone is looking for and the kind of horse everyone wants. In the prime of his life, very good looking, rides the best, and is very quiet and gentle and safe in every way. What more could we want? He is as close to bombproof as you will ever find in a horse. Mickey is a great trail horse—trail ridden all over, anywhere you ask him to go on the trail he will go and never refuses or complains. A true trail horse deluxe. He also rides very good in the arena with a nice walk, trot, canter, and hits his correct leads each way. He would make a nice lesson horse, husband horse, beginner horse, kid horse, ranch horse, or just a safe horse for anyone in the family wanting to enjoy a nice relaxing trail ride. Ride him once a year, once a month, or once a week—he will stay good broke and ride the exact same each time. We have done some ranch work with him, and he is very good at working with cattle. My favorite thing about Mickey is how quiet and gentle he is to ride. He will teach a total beginning rider how to ride or take a timid rider and help them build their confidence. One of the quietest horses I have ever had the privilege to own, he will trail ride alone or with other horses and is trail and traffic safe. If you've been looking for that all-around good broke, safe gelding, then here he is.",
     "tags": [
       "Paint Horse",
       "Bay Overo",
@@ -4955,17 +5093,17 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$6,500.00",
+      "price": "$7900.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Bay Overo",
       "height": "15.3 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Trail Riding, Ranch Work"
     },
     "seoMeta": {
       "title": "Mickey - Bay Overo Paint Horse Gelding for Sale",
-      "desc": "Mickey is a 2015 bay overo Paint Horse gelding. 15.3 hands, bombproof, trail seasoned, and beginner safe. Quiet, gentle, and easy to ride.",
+      "desc": "Mickey is a 2019 bay overo Paint Horse gelding. 15.3 hands, bombproof, trail seasoned, and beginner safe. Quiet, gentle, and easy to ride.",
       "alt": "Mickey bay overo Paint Horse gelding"
     }
   },
@@ -4974,6 +5112,7 @@
     "slug": "midnight-quarter-horse-bay-gelding",
     "title": "Midnight",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/midnight-01.jpeg", "/images/midnight-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Bay Gelding 15 Hands",
@@ -4991,7 +5130,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Bay",
@@ -5010,6 +5149,7 @@
     "slug": "missy-quarter-horse-black-mare",
     "title": "Missy",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/missy-01.jpg", "/images/missy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Black Mare 15.1 Hands",
@@ -5045,7 +5185,8 @@
     "sku": "HRSEx143",
     "slug": "moana-andalusian-bay-mare",
     "title": "Moana",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/moana-01.jpg", "/images/moana-02.jpg"],
     "category": "andalusian-horses",
     "excerpt": "2016 Andalusian Bay Mare 15.2 Hands",
@@ -5063,7 +5204,7 @@
       "Impressively Bred"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Andalusian",
       "gender": "Mare",
       "color": "Bay",
@@ -5082,6 +5223,7 @@
     "slug": "mocha-quarter-horse-gray-gelding",
     "title": "Mocha",
     "price": 8400,
+    "year": 2017,
     "images": ["/images/mocha-01.jpeg", "/images/mocha-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Gray Gelding 15 Hands",
@@ -5099,7 +5241,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8400.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Gray",
@@ -5118,6 +5260,7 @@
     "slug": "montana-quarter-horse-palomino-gelding",
     "title": "Montana",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/montana-01.jpg", "/images/montana-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Palomino Gelding 15.1 Hands",
@@ -5154,10 +5297,11 @@
     "slug": "moonshine-quarter-horse-palomino-gelding",
     "title": "Moonshine",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/moonshine-01.jpeg", "/images/moonshine-02.jpg"],
     "category": "quarter-horses",
-    "excerpt": "2014 Quarter Horse Palomino Gelding 15.1 Hands",
-    "description": "Moonshine is a 2014 palomino Quarter Horse gelding standing at 15.1 hands—the color of gold. Anything you are cowboy enough to do, this gelding will be your go-to mount, yet he is gentle for the entire family. Dad can cowboy on him, mom can look fancy on him, and the kiddos can have fun and be safe on him. He's easy and consistent—a monster stopper, extremely cowy, gritty, and athletic. He has a rocking-chair lope on a draped rein and is very comfortable to sit. Moonshine has a great cowboy walk and knows what a day's work is. He's been there and done that—drag calves to the fire, rope and tie one down in the pasture, team rope out of the box, or just go trail ride. Moonshine's sweet disposition will steal your heart. He's as honest as the day is long, and someone is going to get a very special gelding.",
+    "excerpt": "2017 Quarter Horse Palomino Gelding 15.1 Hands",
+    "description": "Moonshine is a 2017 palomino Quarter Horse gelding standing at 15.1 hands—the color of gold. Anything you are cowboy enough to do, this gelding will be your go-to mount, yet he is gentle for the entire family. Dad can cowboy on him, mom can look fancy on him, and the kiddos can have fun and be safe on him. He's easy and consistent—a monster stopper, extremely cowy, gritty, and athletic. He has a rocking-chair lope on a draped rein and is very comfortable to sit. Moonshine has a great cowboy walk and knows what a day's work is. He's been there and done that—drag calves to the fire, rope and tie one down in the pasture, team rope out of the box, or just go trail ride. Moonshine's sweet disposition will steal your heart. He's as honest as the day is long, and someone is going to get a very special gelding.",
     "tags": [
       "Quarter Horse",
       "Palomino",
@@ -5171,17 +5315,17 @@
       "Honest"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
       "height": "15.1 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Roping, Ranch Work"
     },
     "seoMeta": {
       "title": "Moonshine - Palomino Quarter Horse Gelding for Sale",
-      "desc": "Moonshine is a 2014 palomino Quarter Horse gelding. 15.1 hands, cowy, roping experienced, and family safe. Monster stopper and gentle.",
+      "desc": "Moonshine is a 2017 palomino Quarter Horse gelding. 15.1 hands, cowy, roping experienced, and family safe. Monster stopper and gentle.",
       "alt": "Moonshine palomino Quarter Horse gelding"
     }
   },
@@ -5190,6 +5334,7 @@
     "slug": "mylene-quarter-horse-palomino-mare",
     "title": "Mylene",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/mylene-01.jpeg", "/images/mylene-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Mare 15 Hands",
@@ -5207,7 +5352,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Mare",
       "color": "Palomino",
@@ -5226,6 +5371,7 @@
     "slug": "nacho-quarter-horse-chestnut-gelding",
     "title": "Nacho",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/nacho-01.jpg", "/images/nacho-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Chestnut Gelding 15.1 Hands",
@@ -5262,6 +5408,7 @@
     "slug": "olaf-quarter-horse-gray-gelding",
     "title": "Olaf",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/olaf-01.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Gray Gelding 15 Hands",
@@ -5298,6 +5445,7 @@
     "slug": "parfect-quarter-horse-red-dun-gelding",
     "title": "Parfect",
     "price": 8000,
+    "year": 2017,
     "images": ["/images/parfect-01.jpeg", "/images/parfect-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Red Dun Gelding 14.3 Hands",
@@ -5334,6 +5482,7 @@
     "slug": "patrick-quarter-horse-sorrel-gelding",
     "title": "Patrick",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/patrick-01.jpeg", "/images/patrick-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Sorrel Gelding 15 Hands",
@@ -5370,6 +5519,7 @@
     "slug": "patriot-quarter-horse-bay-roan-gelding",
     "title": "Patriot",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/patriot-01.jpeg", "/images/patriot-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Bay Roan Gelding 15 Hands",
@@ -5405,11 +5555,12 @@
     "sku": "HRSEx154",
     "slug": "peach-quarter-horse-red-dun-gelding",
     "title": "Peach",
-    "price": 7800,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/peach-01.jpg", "/images/peach-02.jpg"],
     "category": "quarter-horses",
-    "excerpt": "2014 Quarter Horse Red Dun Gelding 14.3 Hands",
-    "description": "Peach is an absolutely adorable 2014 red dun Quarter Horse gelding standing at 14.3 hands with a stout bulldog build, super fun color, large dorsal stripe down his back, and tiger-striped legs to his belly. Peach rides as good as he looks and is extremely versatile. He does everything—from reining, ranch work, cow work, or just a fun, safe ride out on the trails. Always gentle, honest, and easy-going even with time off—saddle him up and go enjoy. Peach easily performs all reining maneuvers with long sliding stops, snappy spins, and easy lead changes. He would be fun to show in Ranch Riding and Versatility events. He has a super smooth jog and rocking-chair lope. Ridden all over our Texas ranch and many miles in Arizona, he is confident alone on the trails and goes right where you point him—very sure-footed with a good outside walk. Peach is a very people-friendly horse that loves any kind of attention, making him super fun and easy to have around the barn. If you want to show, pleasure ride, or both, Peach is a perfect fit and complete gentleman for any level of rider.",
+    "excerpt": "2017 Quarter Horse Red Dun Gelding 14.3 Hands",
+    "description": "Peach is an absolutely adorable 2017 red dun Quarter Horse gelding standing at 14.3 hands with a stout bulldog build, super fun color, large dorsal stripe down his back, and tiger-striped legs to his belly. Peach rides as good as he looks and is extremely versatile. He does everything—from reining, ranch work, cow work, or just a fun, safe ride out on the trails. Always gentle, honest, and easy-going even with time off—saddle him up and go enjoy. Peach easily performs all reining maneuvers with long sliding stops, snappy spins, and easy lead changes. He would be fun to show in Ranch Riding and Versatility events. He has a super smooth jog and rocking-chair lope. Ridden all over our Texas ranch and many miles in Arizona, he is confident alone on the trails and goes right where you point him—very sure-footed with a good outside walk. Peach is a very people-friendly horse that loves any kind of attention, making him super fun and easy to have around the barn. If you want to show, pleasure ride, or both, Peach is a perfect fit and complete gentleman for any level of rider.",
     "tags": [
       "Quarter Horse",
       "Red Dun",
@@ -5423,17 +5574,17 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Dun",
       "height": "14.3 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Reining, Ranch Versatility, Trail Riding"
     },
     "seoMeta": {
       "title": "Peach - Red Dun Quarter Horse Gelding for Sale",
-      "desc": "Peach is a 2014 red dun Quarter Horse gelding. 14.3 hands, reining trained, trail seasoned, and people-friendly. Smooth and easy to ride.",
+      "desc": "Peach is a 2017 red dun Quarter Horse gelding. 14.3 hands, reining trained, trail seasoned, and people-friendly. Smooth and easy to ride.",
       "alt": "Peach red dun Quarter Horse gelding"
     }
   },
@@ -5442,6 +5593,7 @@
     "slug": "pepper-quarter-horse-bay-gelding",
     "title": "Pepper",
     "price": 8600,
+    "year": 2017,
     "images": ["/images/pepper-01.jpg", "/images/pepper-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Bay Gelding 15. Hands",
@@ -5459,7 +5611,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,600.00",
+      "price": "$8600.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Bay",
@@ -5478,6 +5630,7 @@
     "slug": "phantom-quarter-horse-buckskin-dun-gelding",
     "title": "Phantom",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/phantom-01.jpeg", "/images/phantom-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Dun Gelding 15.1 Hands",
@@ -5495,7 +5648,7 @@
       "Confidence Builder"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin Dun",
@@ -5514,6 +5667,7 @@
     "slug": "phyno-paint-horse-tobiano-gelding",
     "title": "Phyno",
     "price": 8300,
+    "year": 2016,
     "images": ["/images/phyno-01.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Tobiano Gelding 15 Hands",
@@ -5531,7 +5685,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Tobiano",
@@ -5549,7 +5703,8 @@
     "sku": "HRSEx158",
     "slug": "picasso-missouri-fox-trotter-pinto-mare",
     "title": "Picasso",
-    "price": 7600,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/picasso-01.jpg", "/images/picasso-02.jpg"],
     "category": "missouri-fox-trotter-horses",
     "excerpt": "2016 Missouri Fox Trotter Pinto Mare 15.1 Hands",
@@ -5567,7 +5722,7 @@
       "Family Friendly"
     ],
     "properties": {
-      "price": "$7,600.00",
+      "price": "$8000.00",
       "breed": "Missouri Fox Trotter",
       "gender": "Mare",
       "color": "Pinto",
@@ -5585,11 +5740,12 @@
     "sku": "HRSEx159",
     "slug": "picolo-paint-horse-bay-tobiano-gelding",
     "title": "Picolo",
-    "price": 7800,
+    "price": 7900,
+    "year": 2019,
     "images": ["/images/picolo-01.jpg", "/images/picolo-02.jpg"],
     "category": "paint-horses",
-    "excerpt": "2015 Paint Horse Bay Tobiano Gelding 14.2 Hands",
-    "description": "Picolo is a 2015 bay tobiano Paint Horse gelding standing at 14.2 hands—if safety AND looks are a priority, he is your guy. And talk about unique—he turns heads wherever he goes. He is a trail rider's dream. Trail ridden a lot, he has been exposed to all kinds of trail obstacles. Picolo has also been used at playdays, and he has heeled several steers out of the box, showing a lot of potential there. We've never had one as sweet and gentle as he is. He also knows how to come and pick you up off a mounting block or gate for easy mounting. Picolo is the one we always use to carry flags at rodeos and parades. He loves attention, meets you at the gate, and will do anything you ask him with a good attitude. This gelding has very smooth gaits and knows his leads. He has a one-hand neck rein handle, a nice spin, and stops good too. Picolo has been exposed to loud noises, ropes, traffic, dogs, water, bridges, huge crowds—he takes it all in stride. I really can't say enough good things about him. He is the kind you don't find every day. You don't want to miss him.",
+    "excerpt": "2019 Paint Horse Bay Tobiano Gelding 14.2 Hands",
+    "description": "Picolo is a 2019 bay tobiano Paint Horse gelding standing at 14.2 hands—if safety AND looks are a priority, he is your guy. And talk about unique—he turns heads wherever he goes. He is a trail rider's dream. Trail ridden a lot, he has been exposed to all kinds of trail obstacles. Picolo has also been used at playdays, and he has heeled several steers out of the box, showing a lot of potential there. We've never had one as sweet and gentle as he is. He also knows how to come and pick you up off a mounting block or gate for easy mounting. Picolo is the one we always use to carry flags at rodeos and parades. He loves attention, meets you at the gate, and will do anything you ask him with a good attitude. This gelding has very smooth gaits and knows his leads. He has a one-hand neck rein handle, a nice spin, and stops good too. Picolo has been exposed to loud noises, ropes, traffic, dogs, water, bridges, huge crowds—he takes it all in stride. I really can't say enough good things about him. He is the kind you don't find every day. You don't want to miss him.",
     "tags": [
       "Paint Horse",
       "Bay Tobiano",
@@ -5603,17 +5759,17 @@
       "Unique"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$7900.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Bay Tobiano",
       "height": "14.2 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Team Roping (Heeling), Parade, Trail Riding"
     },
     "seoMeta": {
       "title": "Picolo - Bay Tobiano Paint Horse Gelding for Sale",
-      "desc": "Picolo is a 2015 bay tobiano Paint Horse gelding. 14.2 hands, flag bearer, roping potential, and trail seasoned. Sweet and gentle.",
+      "desc": "Picolo is a 2019 bay tobiano Paint Horse gelding. 14.2 hands, flag bearer, roping potential, and trail seasoned. Sweet and gentle.",
       "alt": "Picolo bay tobiano Paint Horse gelding"
     }
   },
@@ -5621,7 +5777,8 @@
     "sku": "HRSEx160",
     "slug": "pirate-quarter-horse-gray-gelding",
     "title": "Pirate",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/pirate-01.jpg", "/images/pirate-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Gray Gelding 15.1 Hands",
@@ -5639,7 +5796,7 @@
       "Easy to Own"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Gray",
@@ -5657,7 +5814,8 @@
     "sku": "HRSEx161",
     "slug": "prince-pony-horse-bay-gelding",
     "title": "Prince",
-    "price": 4500,
+    "price": 7800,
+    "year": 2020,
     "images": ["/images/prince-01.jpeg", "/images/prince-02.jpeg"],
     "category": "pony-horses",
     "excerpt": "2020 Pony Horse Bay Gelding 7.2 Hands",
@@ -5675,7 +5833,7 @@
       "Fun Sized"
     ],
     "properties": {
-      "price": "$4,500.00",
+      "price": "$7800.00",
       "breed": "Pony",
       "gender": "Gelding",
       "color": "Bay",
@@ -5694,6 +5852,7 @@
     "slug": "queen-quarter-horse-buckskin-mare",
     "title": "Queen",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/queen-01.jpg", "/images/queen-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Mare 14.3 Hands",
@@ -5711,7 +5870,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Mare",
       "color": "Buckskin",
@@ -5729,7 +5888,8 @@
     "sku": "HRSEx163",
     "slug": "queency-paint-horse-red-roan-and-white-mare",
     "title": "Queency",
-    "price": 7800,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/queency-01.jpeg", "/images/queency-02.jpeg"],
     "category": "paint-horses",
     "excerpt": "2017 Paint Horse Red Roan and White Mare 15 Hands",
@@ -5747,7 +5907,7 @@
       "Contact for Details"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Mare",
       "color": "Red Roan and White",
@@ -5766,6 +5926,7 @@
     "slug": "rambo-draft-cross-black-gelding",
     "title": "Rambo",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/rambo-01.jpeg", "/images/rambo-02.jpeg"],
     "category": "draft-cross-horses",
     "excerpt": "2016 Draft Cross Black Gelding 16 Hands",
@@ -5783,7 +5944,7 @@
       "Easy Keeper"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Draft Cross",
       "gender": "Gelding",
       "color": "Black",
@@ -5802,6 +5963,7 @@
     "slug": "ramos-quarter-horse-gray-gelding",
     "title": "Ramos",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/ramos-01.jpg", "/images/ramos-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Gray Gelding 14.3 Hands",
@@ -5819,7 +5981,7 @@
       "Fun Personality"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Gray",
@@ -5838,6 +6000,7 @@
     "slug": "randy-quarter-horse-buckskin-gelding",
     "title": "Randy",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/randy-01.jpg", "/images/randy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Gelding 15.2 Hands",
@@ -5855,7 +6018,7 @@
       "Elegant Mover"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -5874,6 +6037,7 @@
     "slug": "rascal-quarter-horse-buckskin-gelding",
     "title": "Rascal",
     "price": 8600,
+    "year": 2017,
     "images": ["/images/rascal-01.jpg", "/images/rascal-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Gelding 14.3 Hands",
@@ -5891,7 +6055,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,600.00",
+      "price": "$8600.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -5909,7 +6073,8 @@
     "sku": "HRSEx168",
     "slug": "rebel-quarter-horse-palomino-gelding",
     "title": "Rebel",
-    "price": 7800,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/rebel-01.jpg", "/images/rebel-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 15 Hands",
@@ -5927,7 +6092,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -5946,6 +6111,7 @@
     "slug": "red-bloom-quarter-horse-dun-mare",
     "title": "Red Bloom",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/red-bloom-01.jpg", "/images/red-bloom-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Dun Mare 14.3 Hands",
@@ -5963,7 +6129,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Dun",
@@ -5982,6 +6148,7 @@
     "slug": "rex-quarter-horse-palomino-gelding",
     "title": "Rex",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/rex-01.jpg", "/images/rex-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -5999,7 +6166,7 @@
       "Family Safe"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -6017,11 +6184,12 @@
     "sku": "HRSEx171",
     "slug": "ringo-thoroughbred-horse-bay-gelding",
     "title": "Ringo",
-    "price": 11800,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/ringo-01.jpg", "/images/ringo-02.jpg"],
     "category": "thoroughbred-bay-horses",
-    "excerpt": "2014 Thoroughbred Horse Bay Gelding 16 Hands",
-    "description": "Ringo is a 2014 bay Thoroughbred gelding standing at 16 hands by multiple leading sire, Into Mischief, and out of a multiple stakes-producing daughter of Tale of the Cat. This race winner has been used as a ranch horse and shows talent working cattle. He has lots of miles under his belt doing ranch tasks, such as gathering big pastures, sorting, and pen work, and has been started on basic roping. He has a great disposition with looks and nice ground manners—good to catch, saddle, tie, shoe, load, clip, bathe, and no stable vices. This young gelding came directly from the breeder. Registered but papers not available.",
+    "excerpt": "2017 Thoroughbred Horse Bay Gelding 16 Hands",
+    "description": "Ringo is a 2017 bay Thoroughbred gelding standing at 16 hands by multiple leading sire, Into Mischief, and out of a multiple stakes-producing daughter of Tale of the Cat. This race winner has been used as a ranch horse and shows talent working cattle. He has lots of miles under his belt doing ranch tasks, such as gathering big pastures, sorting, and pen work, and has been started on basic roping. He has a great disposition with looks and nice ground manners—good to catch, saddle, tie, shoe, load, clip, bathe, and no stable vices. This young gelding came directly from the breeder. Registered but papers not available.",
     "tags": [
       "Thoroughbred",
       "Bay",
@@ -6035,17 +6203,17 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$11,800.00",
+      "price": "$9000.00",
       "breed": "Thoroughbred",
       "gender": "Gelding",
       "color": "Bay",
       "height": "16 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Ranch Work, Roping"
     },
     "seoMeta": {
       "title": "Ringo - Bay Thoroughbred Gelding for Sale",
-      "desc": "Ringo is a 2014 bay Thoroughbred gelding by Into Mischief. 16 hands, off-track, ranch seasoned, and started on roping. Great disposition.",
+      "desc": "Ringo is a 2017 bay Thoroughbred gelding by Into Mischief. 16 hands, off-track, ranch seasoned, and started on roping. Great disposition.",
       "alt": "Ringo bay Thoroughbred gelding"
     }
   },
@@ -6053,7 +6221,8 @@
     "sku": "HRSEx172",
     "slug": "rita-paint-horse-black-tobiano-mare",
     "title": "Rita",
-    "price": 7300,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/rita-01.jpeg", "/images/rita-02.jpeg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Black Tobiano Mare 13.2 Hands",
@@ -6071,7 +6240,7 @@
       "Once-in-a-Lifetime"
     ],
     "properties": {
-      "price": "$7,300.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Mare",
       "color": "Black Tobiano",
@@ -6090,6 +6259,7 @@
     "slug": "robinhood-quarter-horse-palomino-gelding",
     "title": "Robinhood",
     "price": 8700,
+    "year": 2016,
     "images": ["/images/robinhood-01.jpg", "/images/robinhood-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding 15 Hands",
@@ -6107,7 +6277,7 @@
       "Family Safe"
     ],
     "properties": {
-      "price": "$8,700.00",
+      "price": "$8700.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -6126,6 +6296,7 @@
     "slug": "dillion-quarter-horse-buckskin-gelding",
     "title": "Dillion",
     "price": 8300,
+    "year": 2017,
     "images": ["/images/dillion-01.jpg", "/images/dillion-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Gelding 15.1 Hands",
@@ -6143,7 +6314,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -6162,6 +6333,7 @@
     "slug": "rocky-rocky-mountain-horse-black-gelding",
     "title": "Rocky",
     "price": 8900,
+    "year": 2016,
     "images": ["/images/rocky-01.jpg", "/images/rocky-02.jpg"],
     "category": "rocky-mountain-horses",
     "excerpt": "2016 Rocky Mountain Horse Black Gelding 15 Hands",
@@ -6179,7 +6351,7 @@
       "Family Horse"
     ],
     "properties": {
-      "price": "$8,900.00",
+      "price": "$8900.00",
       "breed": "Rocky Mountain Horse",
       "gender": "Gelding",
       "color": "Black",
@@ -6198,6 +6370,7 @@
     "slug": "rose-swedish-warmblood-horse-bay-mare",
     "title": "Rose",
     "price": 9700,
+    "year": 2016,
     "images": ["/images/rose-01.jpg", "/images/rose-02.jpg"],
     "category": "swedish-warmblood-horses",
     "excerpt": "2016 Swedish Warmblood Horse Bay Mare 16.0 Hands",
@@ -6215,7 +6388,7 @@
       "Beginner Friendly"
     ],
     "properties": {
-      "price": "$9,700.00",
+      "price": "$9700.00",
       "breed": "Swedish Warmblood",
       "gender": "Mare",
       "color": "Bay",
@@ -6233,7 +6406,8 @@
     "sku": "HRSEx177",
     "slug": "rosine-paint-horse-black-tobiano-mare",
     "title": "Rosine",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/rosine-01.jpg", "/images/rosine-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Black Tobiano Mare 15 Hands",
@@ -6251,7 +6425,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Mare",
       "color": "Black Tobiano",
@@ -6269,7 +6443,8 @@
     "sku": "HRSEx178",
     "slug": "roswell-pony-horse-red-roan-gelding",
     "title": "Roswell",
-    "price": 6800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/roswell-01.jpg", "/images/roswell-02.jpg"],
     "category": "pony-horses",
     "excerpt": "2016 Pony Horse Red Roan Gelding 11.3 Hands",
@@ -6287,7 +6462,7 @@
       "Confidence Builder"
     ],
     "properties": {
-      "price": "$6,800.00",
+      "price": "$8000.00",
       "breed": "Pony",
       "gender": "Gelding",
       "color": "Red Roan",
@@ -6305,7 +6480,8 @@
     "sku": "HRSEx179",
     "slug": "ruby-warmblood-horse-grey-gelding",
     "title": "Ruby",
-    "price": 10800,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/ruby-01.jpg", "/images/ruby-02.jpg"],
     "category": "warmblood-horses",
     "excerpt": "2017 Warmblood Horse Grey Gelding 16.0 Hands",
@@ -6323,7 +6499,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$10,800.00",
+      "price": "$9000.00",
       "breed": "Warmblood",
       "gender": "Gelding",
       "color": "Grey",
@@ -6342,6 +6518,7 @@
     "slug": "ruz-quarter-horse-black-gelding",
     "title": "Ruz",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/ruz-01.jpeg", "/images/ruz-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Black Gelding 15 Hands",
@@ -6359,7 +6536,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Black",
@@ -6378,6 +6555,7 @@
     "slug": "sahara-quarter-horse-red-roan-gelding",
     "title": "Sahara",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/sahara-01.jpg", "/images/sahara-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Red Roan Gelding 14.3 Hands",
@@ -6414,10 +6592,11 @@
     "slug": "samba-king-paint-horse-tobiano-gelding",
     "title": "Samba King",
     "price": 7900,
+    "year": 2019,
     "images": ["/images/samba-king-01.jpeg", "/images/samba-king-02.jpg"],
     "category": "paint-horses",
-    "excerpt": "2015 Paint Horse Tobiano Gelding 16 Hands",
-    "description": "Samba King is a 2015 tobiano Paint Horse gelding standing at 16 hands—an APHA Tobiano gelding, full of personality and athleticism. Samba King is the definition of versatile—he's been shown in everything from ranch riding to the HUS. He's been used for kids' summer camps, lessons, trail rides, parades, and so much more. Samba King has been my personal barn favorite and will always make his rider smile. From the arena to the trails, Samba King will pack any level of rider. On the trails, he goes anywhere you point him with no hesitation—over logs and through water and tricky terrain. He rides out alone or in a group with no troubles. 100% traffic safe and has been ridden in parades. In the arena, Samba King has a very versatile show record and can be ridden both English and Western. Under Western tack, he has a solid reining foundation with spins and lead changes. He does not have a big stop, but he has great transitions and will do everything with or without a bridle. Pull the Western tack, throw a snaffle on him, and go jump 2'+ or show in the HUS. He is perfect for someone wanting to competitively show at the local, 4H, or amateur breed shows. He will also show in halter, ranch riding, ranch trail, and extreme obstacle challenges. He has been shown competitively on a youth team and excels in the show environment but is completely content also packing someone down the trails and never returning to the arena. Samba King has been desensitized to blowers, machinery, tarps, cattle, exotics, and so much more. He is great being at home or being conditioned in a professional program. Great stalled or turned out, he does not weave, crib, or have any other stalling vices. He does well away from home as well and drinks great on the road. Back at the ranch, Samba King is pretty easy and handled daily by beginners. He is the first to meet you at the gate. He is a great patient for the vet, farrier, and dentist and is up to date on everything.",
+    "excerpt": "2019 Paint Horse Tobiano Gelding 16 Hands",
+    "description": "Samba King is a 2019 tobiano Paint Horse gelding standing at 16 hands—an APHA Tobiano gelding, full of personality and athleticism. Samba King is the definition of versatile—he's been shown in everything from ranch riding to the HUS. He's been used for kids' summer camps, lessons, trail rides, parades, and so much more. Samba King has been my personal barn favorite and will always make his rider smile. From the arena to the trails, Samba King will pack any level of rider. On the trails, he goes anywhere you point him with no hesitation—over logs and through water and tricky terrain. He rides out alone or in a group with no troubles. 100% traffic safe and has been ridden in parades. In the arena, Samba King has a very versatile show record and can be ridden both English and Western. Under Western tack, he has a solid reining foundation with spins and lead changes. He does not have a big stop, but he has great transitions and will do everything with or without a bridle. Pull the Western tack, throw a snaffle on him, and go jump 2'+ or show in the HUS. He is perfect for someone wanting to competitively show at the local, 4H, or amateur breed shows. He will also show in halter, ranch riding, ranch trail, and extreme obstacle challenges. He has been shown competitively on a youth team and excels in the show environment but is completely content also packing someone down the trails and never returning to the arena. Samba King has been desensitized to blowers, machinery, tarps, cattle, exotics, and so much more. He is great being at home or being conditioned in a professional program. Great stalled or turned out, he does not weave, crib, or have any other stalling vices. He does well away from home as well and drinks great on the road. Back at the ranch, Samba King is pretty easy and handled daily by beginners. He is the first to meet you at the gate. He is a great patient for the vet, farrier, and dentist and is up to date on everything.",
     "tags": [
       "Paint Horse",
       "Tobiano",
@@ -6431,17 +6610,17 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$7,900.00",
+      "price": "$7900.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Tobiano",
       "height": "16 hands",
-      "age": "10 years old",
+      "age": "6 years old",
       "discipline": "Ranch Riding, Hunter Under Saddle, English, Western, Trail Riding"
     },
     "seoMeta": {
       "title": "Samba King - Tobiano Paint Horse Gelding for Sale",
-      "desc": "Samba King is a 2015 tobiano Paint Horse gelding. 16 hands, shown in ranch riding and HUS, jumps 2+, and trail seasoned. Versatile and gentle.",
+      "desc": "Samba King is a 2019 tobiano Paint Horse gelding. 16 hands, shown in ranch riding and HUS, jumps 2+, and trail seasoned. Versatile and gentle.",
       "alt": "Samba King tobiano Paint Horse gelding"
     }
   },
@@ -6450,6 +6629,7 @@
     "slug": "sandy-quarter-horse-buckskin-mare",
     "title": "Sandy",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/sandy-01.jpg", "/images/sandy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Buckskin Mare 15 Hands",
@@ -6485,7 +6665,8 @@
     "sku": "HRSEx184",
     "slug": "schatzi-icelandic-horse-sorrel-tobiano-gelding",
     "title": "Schatzi",
-    "price": 7000,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/schatzi-01.jpg", "/images/schatzi-02.jpg"],
     "category": "icelandic-horses",
     "excerpt": "2016 Icelandic Horse Sorrel Tobiano Gelding 14.1 Hands",
@@ -6503,7 +6684,7 @@
       "Easy"
     ],
     "properties": {
-      "price": "$7,000.00",
+      "price": "$8000.00",
       "breed": "Icelandic Horse",
       "gender": "Gelding",
       "color": "Sorrel Tobiano",
@@ -6522,6 +6703,7 @@
     "slug": "scooby-quarter-horse-buckskin-gelding",
     "title": "Scooby",
     "price": 8300,
+    "year": 2017,
     "images": ["/images/scooby-01.jpg", "/images/scooby-01.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Gelding 14.1 Hands",
@@ -6539,7 +6721,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -6558,6 +6740,7 @@
     "slug": "shadow-quarter-horse-sorrel-gelding",
     "title": "Shadow",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/shadow-01.jpg", "/images/shadow-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Sorrel Gelding 14.3 Hands",
@@ -6575,7 +6758,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Sorrel",
@@ -6594,6 +6777,7 @@
     "slug": "shatta-andalusian-palomino-gelding",
     "title": "Shatta",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/shatta-01.jpg"],
     "category": "andalusian-horses",
     "excerpt": "2016 Andalusian Palomino Gelding 15.2 Hands",
@@ -6611,7 +6795,7 @@
       "Dressage Prospect"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Andalusian",
       "gender": "Gelding",
       "color": "Palomino",
@@ -6630,6 +6814,7 @@
     "slug": "sheriff-quarter-horse-gray-gelding",
     "title": "Sheriff",
     "price": 8700,
+    "year": 2016,
     "images": ["/images/sheriff-01.jpg", "/images/sheriff-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Gray Gelding 14.3 Hands",
@@ -6647,7 +6832,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,700.00",
+      "price": "$8700.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Gray",
@@ -6666,6 +6851,7 @@
     "slug": "silver-quarter-horse-buckskin-mare",
     "title": "Silver",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/silver-01.jpg", "/images/silver-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Buckskin Mare 15 Hands",
@@ -6701,11 +6887,12 @@
     "sku": "HRSEx190",
     "slug": "sir-luiz-warmblood-horse-bay-gelding",
     "title": "Sir Luiz",
-    "price": 14000,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/sir-luiz-01.jpg", "/images/sir-luiz-02.jpg"],
     "category": "warmblood-horses",
-    "excerpt": "2014 Warmblood Horse Bay Gelding 16.3 Hands",
-    "description": "Sir Luiz is a 2014 bay Warmblood gelding standing at 16.3 hands—SIR Luiz. This beautiful bay warmblood gelding is 11 years old and clean all around. He is very talented, goes off voice command and leg pressure, with very beautiful floating strides. He is a very enjoyable ride, jumping a nice course of fences with good lead changes. We have had him out and around our ranch and on trails—goes out in the cross-country field as well. Would work as a dressage horse or fancy fox hunter.",
+    "excerpt": "2017 Warmblood Horse Bay Gelding 16.3 Hands",
+    "description": "Sir Luiz is a 2017 bay Warmblood gelding standing at 16.3 hands—SIR Luiz. This beautiful bay warmblood gelding is 11 years old and clean all around. He is very talented, goes off voice command and leg pressure, with very beautiful floating strides. He is a very enjoyable ride, jumping a nice course of fences with good lead changes. We have had him out and around our ranch and on trails—goes out in the cross-country field as well. Would work as a dressage horse or fancy fox hunter.",
     "tags": [
       "Warmblood",
       "Bay",
@@ -6719,17 +6906,17 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$14,000.00",
+      "price": "$9000.00",
       "breed": "Warmblood",
       "gender": "Gelding",
       "color": "Bay",
       "height": "16.3 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Jumping, Dressage, Fox Hunting"
     },
     "seoMeta": {
       "title": "Sir Luiz - Bay Warmblood Gelding for Sale",
-      "desc": "Sir Luiz is a 2014 bay Warmblood gelding. 16.3 hands, jumps well, voice command, and trail seasoned. Great for dressage or fox hunting.",
+      "desc": "Sir Luiz is a 2017 bay Warmblood gelding. 16.3 hands, jumps well, voice command, and trail seasoned. Great for dressage or fox hunting.",
       "alt": "Sir Luiz bay Warmblood gelding"
     }
   },
@@ -6738,6 +6925,7 @@
     "slug": "skepta-quarter-horse-buckskin-roan",
     "title": "Skepta",
     "price": 8400,
+    "year": 2017,
     "images": ["/images/skepta-01.jpg", "/images/skepta-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Roan 14 Hands",
@@ -6755,7 +6943,7 @@
       "Easy Keeper"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8400.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin Roan",
@@ -6774,6 +6962,7 @@
     "slug": "snickers-quarter-horse-palomino-gelding",
     "title": "Snickers",
     "price": 8300,
+    "year": 2017,
     "images": ["/images/snickers-01.jpeg", "/images/snickers-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 15 Hands",
@@ -6791,7 +6980,7 @@
       "Fun"
     ],
     "properties": {
-      "price": "$8,300.00",
+      "price": "$8300.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -6810,6 +6999,7 @@
     "slug": "snoopy-quarter-horse-palomino-gelding",
     "title": "Snoopy",
     "price": 8600,
+    "year": 2016,
     "images": ["/images/snoopy-01.jpg", "/images/snoopy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding 14.2 Hands",
@@ -6827,7 +7017,7 @@
       "Confidence Builder"
     ],
     "properties": {
-      "price": "$8,600.00",
+      "price": "$8600.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -6845,7 +7035,8 @@
     "sku": "HRSEx194",
     "slug": "soldier-haflinger-horse-chestnut-gelding",
     "title": "Soldier",
-    "price": 7000,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/soldier-01.jpg", "/images/soldier-02.jpg"],
     "category": "haflinger-horses",
     "excerpt": "2016 Haflinger Horse Chestnut Gelding 13.2 Hands",
@@ -6863,7 +7054,7 @@
       "Beginner Friendly"
     ],
     "properties": {
-      "price": "$7,000.00",
+      "price": "$8000.00",
       "breed": "Haflinger",
       "gender": "Gelding",
       "color": "Chestnut",
@@ -6881,7 +7072,8 @@
     "sku": "HRSEx195",
     "slug": "spooncat-paint-horse-grulla-tobiano-gelding",
     "title": "Spooncat",
-    "price": 7000,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/spooncat-01.jpeg", "/images/spooncat-02.jpeg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Grulla Tobiano Gelding 15.1 Hands",
@@ -6899,7 +7091,7 @@
       "Unique Color"
     ],
     "properties": {
-      "price": "$7,000.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Grulla Tobiano",
@@ -6918,6 +7110,7 @@
     "slug": "spot-fjord-horse-dun-gelding",
     "title": "Spot",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/spot-01.jpeg", "/images/spot-02.jpeg"],
     "category": "fjord-horses",
     "excerpt": "2016 Fjord Horse Dun Gelding 14 Hands",
@@ -6935,7 +7128,7 @@
       "Easy Keeper"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Fjord Horse",
       "gender": "Gelding",
       "color": "Dun",
@@ -6953,7 +7146,8 @@
     "sku": "HRSEx197",
     "slug": "star-quarter-horse-bay-roan-gelding",
     "title": "Star",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/star-01.jpg", "/images/star-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Bay Roan Gelding 15 Hands",
@@ -6971,7 +7165,7 @@
       "Family Safe"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Bay Roan",
@@ -6989,7 +7183,8 @@
     "sku": "HRSEx198",
     "slug": "starlette-missouri-fox-trotter-bay-tobiano-mare",
     "title": "Starlette",
-    "price": 7500,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/starlette-01.jpeg", "/images/starlette-02.jpeg"],
     "category": "missouri-fox-trotter-horses",
     "excerpt": "2016 Missouri Fox Trotter Bay Tobiano Mare 14.2 Hands",
@@ -7007,7 +7202,7 @@
       "Racking"
     ],
     "properties": {
-      "price": "$7,500.00",
+      "price": "$8000.00",
       "breed": "Missouri Fox Trotter",
       "gender": "Mare",
       "color": "Bay Tobiano",
@@ -7026,6 +7221,7 @@
     "slug": "stars-quarter-horse-red-dun-gelding",
     "title": "Stars",
     "price": 8200,
+    "year": 2017,
     "images": ["/images/stars-01.jpg", "/images/stars-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Red Dun Gelding 15.2 Hands",
@@ -7043,7 +7239,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,200.00",
+      "price": "$8200.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Dun",
@@ -7062,6 +7258,7 @@
     "slug": "stones-quarter-horse-gray-gelding",
     "title": "Stones",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/stones-01.jpeg", "/images/stones-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Gray Gelding 14.1 Hands",
@@ -7097,7 +7294,8 @@
     "sku": "HRSEx201",
     "slug": "storm-quarter-horse-bay-gelding",
     "title": "Storm",
-    "price": 7300,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/storm-01.jpg", "/images/storm-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Bay Gelding 14.3 Hands",
@@ -7115,7 +7313,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7300.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Bay",
@@ -7133,7 +7331,8 @@
     "sku": "HRSEx202",
     "slug": "stormzy-paint-horse-black-tobiano-gelding",
     "title": "Stormzy",
-    "price": 7800,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/stormzy-01.jpg", "/images/stormzy-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Black Tobiano Gelding 15 Hands",
@@ -7151,7 +7350,7 @@
       "Quiet"
     ],
     "properties": {
-      "price": "$7,800.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Black Tobiano",
@@ -7170,6 +7369,7 @@
     "slug": "sugar-quarter-horse-buckskin-mare",
     "title": "Sugar",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/sugar-01.jpg", "/images/sugar-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Buckskin Mare 15.1 Hands",
@@ -7206,6 +7406,7 @@
     "slug": "sun-quarter-horse-palomino-gelding",
     "title": "Sun",
     "price": 8700,
+    "year": 2017,
     "images": ["/images/sun-01.jpg", "/images/sun-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -7223,7 +7424,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$8,700.00",
+      "price": "$8700.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -7242,6 +7443,7 @@
     "slug": "sunny-quarter-horse-palomino-gelding",
     "title": "Sunny",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/sunny-01.jpg", "/images/sunny-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Palomino Gelding 15 Hands",
@@ -7277,7 +7479,8 @@
     "sku": "HRSEx206",
     "slug": "tacha-gypsy-vanner-horse-black-mare",
     "title": "Tacha",
-    "price": 9500,
+    "price": 8000,
+    "year": 2018,
     "images": ["/images/tacha-01.jpeg", "/images/tacha-02.jpeg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2018 Gypsy Vanner Horse Black Mare 14.1 Hands",
@@ -7295,7 +7498,7 @@
       "Experienced"
     ],
     "properties": {
-      "price": "$9,500.00",
+      "price": "$8000.00",
       "breed": "Gypsy Vanner",
       "gender": "Mare",
       "color": "Black",
@@ -7314,6 +7517,7 @@
     "slug": "teddy-quarter-horse-buckskin-gelding",
     "title": "Teddy",
     "price": 8400,
+    "year": 2016,
     "images": ["/images/teddy-01.jpeg", "/images/teddy-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Buckskin Gelding 14.2 Hands",
@@ -7331,7 +7535,7 @@
       "Dappled"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8400.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -7350,6 +7554,7 @@
     "slug": "tequila-quarter-horse-red-dun-gelding",
     "title": "Tequila",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/tequila-01.jpeg", "/images/tequila-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Red Dun Gelding 15 Hands",
@@ -7367,7 +7572,7 @@
       "Easy to Own"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Red Dun",
@@ -7386,10 +7591,11 @@
     "slug": "tessy-quarter-horse-tobiano-mare",
     "title": "Tessy",
     "price": 8000,
+    "year": 2017,
     "images": ["/images/tessy-01.jpg", "/images/tessy-02.jpg"],
     "category": "quarter-horses",
-    "excerpt": "2014 Quarter Horse Tobiano Mare 16 Hands",
-    "description": "Tessy is a 2014 tobiano Quarter Horse mare standing at 16 hands—a stocky built 1450lb mare with some very nice markings. We bought Tessy from an Amish kid in Michigan who trained her with natural horsemanship methods. She is trained to lay down for mounting from the ground or dismount from the saddle—a great tool for anyone with knee or hip issues or if you are handicapped. In addition to laying down, she will bow and sit like a dog and play kick the can. She has been taught all about leg pressure and will ride without a bridle, using a rein around her neck or just your feet to back, spin, turn, side pass both ways, lope, and slide stop. She has been camping, used around cows, trail ridden hundreds of miles, and hooked up and driven under a harness. We have ponied other horses off her and used her to break colts to lead. She has been ridden around farm equipment, ATVs, over large noisy tarps, and with guns shot off her back. No matter where she goes or what she does, Tessy is not spooky acting. Exposed to all kinds of wildlife, she goes anywhere asked. With many miles in the mountains of California, she has encountered every obstacle possible on the trail—going up or down steep slopes, across deep creeks, over downed trees, and all types of rough terrain while staying sure-footed. She has been ridden in traffic and is very traffic safe around cars, semis, log trucks, and dump trucks. She is one of the friendliest horses you'll find—she will follow you around and even go for a jog with you. She has a great attitude about whatever she is asked to do. One lucky person is about to get the love of their life with this gal.",
+    "excerpt": "2017 Quarter Horse Tobiano Mare 16 Hands",
+    "description": "Tessy is a 2017 tobiano Quarter Horse mare standing at 16 hands—a stocky built 1450lb mare with some very nice markings. We bought Tessy from an Amish kid in Michigan who trained her with natural horsemanship methods. She is trained to lay down for mounting from the ground or dismount from the saddle—a great tool for anyone with knee or hip issues or if you are handicapped. In addition to laying down, she will bow and sit like a dog and play kick the can. She has been taught all about leg pressure and will ride without a bridle, using a rein around her neck or just your feet to back, spin, turn, side pass both ways, lope, and slide stop. She has been camping, used around cows, trail ridden hundreds of miles, and hooked up and driven under a harness. We have ponied other horses off her and used her to break colts to lead. She has been ridden around farm equipment, ATVs, over large noisy tarps, and with guns shot off her back. No matter where she goes or what she does, Tessy is not spooky acting. Exposed to all kinds of wildlife, she goes anywhere asked. With many miles in the mountains of California, she has encountered every obstacle possible on the trail—going up or down steep slopes, across deep creeks, over downed trees, and all types of rough terrain while staying sure-footed. She has been ridden in traffic and is very traffic safe around cars, semis, log trucks, and dump trucks. She is one of the friendliest horses you'll find—she will follow you around and even go for a jog with you. She has a great attitude about whatever she is asked to do. One lucky person is about to get the love of their life with this gal.",
     "tags": [
       "Quarter Horse",
       "Tobiano",
@@ -7403,17 +7609,17 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Mare",
       "color": "Tobiano",
       "height": "16 hands",
-      "age": "11 years old",
+      "age": "8 years old",
       "discipline": "Driving, Trail Riding, Trick Riding"
     },
     "seoMeta": {
       "title": "Tessy - Tobiano Quarter Horse Mare for Sale",
-      "desc": "Tessy is a 2014 tobiano Quarter Horse mare. 16 hands, lays down, rides bridleless, and drives. Bombproof and people-friendly.",
+      "desc": "Tessy is a 2017 tobiano Quarter Horse mare. 16 hands, lays down, rides bridleless, and drives. Bombproof and people-friendly.",
       "alt": "Tessy tobiano Quarter Horse mare"
     }
   },
@@ -7422,6 +7628,7 @@
     "slug": "tex-quarter-horse-buckskin-gelding",
     "title": "Tex",
     "price": 8600,
+    "year": 2017,
     "images": ["/images/tex-01.jpg", "/images/tex-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Buckskin Gelding 15.2 Hands",
@@ -7439,7 +7646,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,600.00",
+      "price": "$8600.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Buckskin",
@@ -7458,6 +7665,7 @@
     "slug": "thunder-quarter-horse-palomino-gelding",
     "title": "Thunder",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/thunder-01.jpeg", "/images/thunder-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Palomino Gelding 15 Hands",
@@ -7475,7 +7683,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -7494,6 +7702,7 @@
     "slug": "torch-quarter-horse-palomino-gelding",
     "title": "Torch",
     "price": 7900,
+    "year": 2019,
     "images": ["/images/torch-01.jpg", "/images/torch-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Palomino Gelding 15 Hands",
@@ -7530,6 +7739,7 @@
     "slug": "trooper-quarter-horse-palomino-gelding",
     "title": "Trooper",
     "price": 8500,
+    "year": 2017,
     "images": ["/images/trooper-01.jpeg", "/images/trooper-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Palomino Gelding 14.3 Hands",
@@ -7547,7 +7757,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Palomino",
@@ -7566,6 +7776,7 @@
     "slug": "tucker-tennessee-walker-blue-roan-gelding",
     "title": "Tucker",
     "price": 8700,
+    "year": 2016,
     "images": [
       "/images/tucker-01.jpg",
       "/images/tucker-02.jpg",
@@ -7588,7 +7799,7 @@
       "Trustworthy"
     ],
     "properties": {
-      "price": "$8,700.00",
+      "price": "$8700.00",
       "breed": "Tennessee Walking Horse",
       "gender": "Gelding",
       "color": "Blue Roan",
@@ -7607,6 +7818,7 @@
     "slug": "turner-quarter-horse-gray-gelding",
     "title": "Turner",
     "price": 8000,
+    "year": 2016,
     "images": ["/images/turner-01.jpeg", "/images/turner-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Gray Gelding 14.3 Hands",
@@ -7624,7 +7836,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,000.00",
+      "price": "$8000.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Gray",
@@ -7642,7 +7854,8 @@
     "sku": "HRSEx216",
     "slug": "vandam-paint-horse-black-tobiano-gelding",
     "title": "Vandam",
-    "price": 7600,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/vandam-01.jpeg", "/images/vandam-02.jpeg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Black Tobiano Gelding 14.2 Hands",
@@ -7660,7 +7873,7 @@
       "Family Horse"
     ],
     "properties": {
-      "price": "$7,600.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Black Tobiano",
@@ -7678,7 +7891,8 @@
     "sku": "HRSEx217",
     "slug": "victoria-paint-horse-palomino-tobiano-gelding",
     "title": "Victoria",
-    "price": 7500,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/victoria-01.jpg", "/images/victoria-02.jpg"],
     "category": "paint-horses",
     "excerpt": "2016 Paint Horse Palomino Tobiano Gelding 15 Hands",
@@ -7696,7 +7910,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$7,500.00",
+      "price": "$8000.00",
       "breed": "Paint Horse",
       "gender": "Gelding",
       "color": "Palomino Tobiano",
@@ -7714,7 +7928,8 @@
     "sku": "HRSEx218",
     "slug": "victory-gypsy-vanner-horse-dapple-grey-gelding",
     "title": "Victory",
-    "price": 9900,
+    "price": 9000,
+    "year": 2017,
     "images": ["/images/victory-01.jpeg", "/images/victory-02.jpeg"],
     "category": "gypsy-vanner-horses",
     "excerpt": "2017 Gypsy Vanner Horse Dapple Grey Gelding 14.1 Hands",
@@ -7732,7 +7947,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$9,900.00",
+      "price": "$9000.00",
       "breed": "Gypsy Vanner",
       "gender": "Gelding",
       "color": "Dapple Grey",
@@ -7751,6 +7966,7 @@
     "slug": "whiskey-quarter-horse-blue-roan-gelding",
     "title": "Whiskey",
     "price": 8400,
+    "year": 2016,
     "images": ["/images/whiskey-01.jpg", "/images/whiskey-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Blue Roan Gelding 16.2 Hands",
@@ -7768,7 +7984,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8400.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Blue Roan",
@@ -7787,6 +8003,7 @@
     "slug": "whisper-quarter-horse-palomino-gelding",
     "title": "Whisper",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/whisper-01.jpg", "/images/whisper-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Palomino Gelding 15 Hands",
@@ -7822,7 +8039,8 @@
     "sku": "HRSEx221",
     "slug": "willy-pony-horse-sorrel-gelding-height",
     "title": "Willy",
-    "price": 7000,
+    "price": 8000,
+    "year": 2016,
     "images": ["/images/willy-01.jpeg", "/images/willy-02.jpeg"],
     "category": "pony-horses",
     "excerpt": "2016 Pony Horse Sorrel Gelding 12.1 Height",
@@ -7840,7 +8058,7 @@
       "Gentle"
     ],
     "properties": {
-      "price": "$7,000.00",
+      "price": "$8000.00",
       "breed": "Pony",
       "gender": "Gelding",
       "color": "Sorrel",
@@ -7858,7 +8076,8 @@
     "sku": "HRSEx222",
     "slug": "winnie-rocky-mountain-horse-chocolate-mare",
     "title": "Winnie",
-    "price": 7000,
+    "price": 8000,
+    "year": 2017,
     "images": ["/images/winnie-01.jpg", "/images/winnie-02.jpg"],
     "category": "rocky-mountain-horses",
     "excerpt": "2017 Rocky Mountain Horse Chocolate Mare 15.1 Hands",
@@ -7876,7 +8095,7 @@
       "Family Safe"
     ],
     "properties": {
-      "price": "$7,000.00",
+      "price": "$8000.00",
       "breed": "Rocky Mountain Horse",
       "gender": "Mare",
       "color": "Chocolate",
@@ -7895,6 +8114,7 @@
     "slug": "wrangler-quarter-horse-red-roan-gelding",
     "title": "Wrangler",
     "price": 8000,
+    "year": 2019,
     "images": ["/images/wrangler-01.jpg", "/images/wrangler-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2019 Quarter Horse Red Roan Gelding 15.1 Hands",
@@ -7930,7 +8150,8 @@
     "sku": "HRSEx224",
     "slug": "xavier-warmblood-horse-bay-gelding",
     "title": "Xavier",
-    "price": 12000,
+    "price": 10000,
+    "year": 2016,
     "images": ["/images/xavier-01.jpg", "/images/xavier-02.jpg"],
     "category": "warmblood-horses",
     "excerpt": "2016 Warmblood Horse Bay Gelding 17.1 Hands",
@@ -7948,7 +8169,7 @@
       "Competition"
     ],
     "properties": {
-      "price": "$12,000.00",
+      "price": "$10000.00",
       "breed": "Warmblood",
       "gender": "Gelding",
       "color": "Bay",
@@ -7967,6 +8188,7 @@
     "slug": "yankee-quarter-horse-bay-gelding",
     "title": "Yankee",
     "price": 8500,
+    "year": 2016,
     "images": ["/images/yankee-01.jpeg", "/images/yankee-02.jpg"],
     "category": "quarter-horses",
     "excerpt": "2016 Quarter Horse Bay Gelding 15.3 Hands",
@@ -7984,7 +8206,7 @@
       "Versatile"
     ],
     "properties": {
-      "price": "$8,500.00",
+      "price": "$8500.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Blood Bay",
@@ -8003,6 +8225,7 @@
     "slug": "zidane-quarter-horse-dunalino-gelding",
     "title": "Zidane",
     "price": 8400,
+    "year": 2017,
     "images": ["/images/zidane-01.jpeg", "/images/zidane-02.jpeg"],
     "category": "quarter-horses",
     "excerpt": "2017 Quarter Horse Dunalino Gelding 14.2 Hands",
@@ -8020,7 +8243,7 @@
       "Unique Color"
     ],
     "properties": {
-      "price": "$8,400.00",
+      "price": "$8400.00",
       "breed": "Quarter Horse",
       "gender": "Gelding",
       "color": "Dunalino",
