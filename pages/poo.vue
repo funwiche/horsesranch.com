@@ -1,29 +1,23 @@
 <template>
+  {{ [...new Set(horses.map((el) => el.year))].sort() }} <br />
+  {{
+    [
+      ...new Set(horses.filter((el) => el.year == 2020).map((el) => el.price)),
+    ].sort()
+  }}
+  <br />
+
   <pre>{{
     horses.map((el) => {
-      if (!new_horses.includes(el.slug)) return el;
-      // const year = 2019;
-      const age = "6 years old";
-      // const old_year = el.excerpt.split(" ")[0];
-      let price = el.price > 8000 ? el.price - 1000 : el.price;
-      price = el.price < 7900 ? 7900 : el.price > 8000 ? 8000 : el.price;
-      // const excerpt = el.excerpt.replaceAll(old_year, year.toString());
-      // const description = el.description.replaceAll(old_year, year.toString());
-      // const desc = el.seoMeta.desc.replaceAll(old_year, year.toString());
+      if (el.year != 2020) return el;
+      let price = el.price < 7800 ? 7800 : el.price > 8000 ? 8000 : el.price;
       return {
         ...el,
         price,
-        // excerpt,
-        // description,
         properties: {
           ...el.properties,
           price: `$${price.toFixed(2)}`,
-          age,
         },
-        // seoMeta: {
-        //   ...el.seoMeta,
-        //   desc,
-        // },
       };
     })
   }}</pre>
