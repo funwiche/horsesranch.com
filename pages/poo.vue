@@ -1,5 +1,42 @@
 <template>
-  <pre>{{ horses }}</pre>
+  <small>
+    <pre>{{ horses }}
+          <!-- .map((el) => {
+            if (!new_horses.includes(el.slug)) return el;
+            const year = 2019;
+            const oldYear = "2015";
+            const price =
+              el.price < 7900 ? 7900 : el.price > 8000 ? 8000 : el.price;
+            const excerpt = el.excerpt.replaceAll(oldYear, year.toString());
+            const description = el.description.replaceAll(
+              oldYear,
+              year.toString(),
+            );
+            const properties = {
+              ...el.properties,
+              price: `$${$f.num(price, 2)}`,
+              age: "6 years old",
+            };
+            const seoMeta = {
+              title: el.seoMeta.title.replaceAll(oldYear, year.toString()),
+              desc: el.seoMeta.desc.replaceAll(oldYear, year.toString()),
+              alt: el.seoMeta.alt.replaceAll(oldYear, year.toString()),
+            };
+            return {
+              ...el,
+              year,
+              price,
+              excerpt,
+              description,
+              properties,
+              seoMeta,
+            };
+          })
+          .filter((el) => new_horses.includes(el.slug)) -->
+    
+    
+  </pre>
+  </small>
 </template>
 
 <script setup lang="ts">
